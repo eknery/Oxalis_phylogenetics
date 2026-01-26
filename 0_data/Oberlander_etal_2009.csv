@@ -2,7 +2,7 @@ species,specimen,ITS,trnL_trnF
 Oxalis_acetosella,J_Walter_7182,EU436870,EU437036
 Oxalis_articulata_forma_crassipes,E_Emshwiller_146,NA,EU437146
 Oxalis_articulata,Tosto_Hopp_2000,Z66545,NA
-Oxalis_barrelieri,DUB809,EU436866,EU437033
+Oxalis_barrelieri,DU_Bellstedt_809,EU436866,EU437033
 Oxalis_brasiliensis,J_Holmes_0008,EU436879,EU437044
 Oxalis_cf_megalorrhiza,L_Dreyer_809,EU436871,EU437037
 Oxalis_corniculata,E_Emshwiller_793,NA,EU437126
@@ -15,14 +15,14 @@ Oxalis_hypsophila,L_Dreyer_805,EU436874,EU437040
 Oxalis_latifolia,K_Oberlander_0023,EU436875,AJ582326
 Oxalis_micrantha,E_Emshwiller_744,AF470234,EU437140
 Oxalis_pachyrrhiza,E_Emshwiller_387,U74275,EU437138
-Oxalis_perdicaria,Till_Botrand_0002,EU436878,EU437043
+Oxalis_perdicaria,T_Botrand_0002,EU436878,EU437043
 Oxalis_spiralis,E_Emshwiller_590,NA,EU437130
 Oxalis_spiralis,E_Emshwiller_187,AF098977,NA
 Oxalis_stricta,J_Walter_6518,EU436869,EU437035
-Oxalis_tetraphylla,Cav.,J_Holmes_0009,EU436877,EU437042
+Oxalis_tetraphylla,J_Holmes_0009,EU436877,EU437042
 Oxalis_triangularis_ssp_papilionacea,E_Emshwiller_456,NA,EU437141
 Oxalis_triangularis_ssp_triangularis,MO1165,FJ410328,NA
-Oxalis_valdiviensis,Till_Botrand_0001,EU436873,EU437039
+Oxalis_valdiviensis,T_Botrand_0001,EU436873,EU437039
 Oxalis_virgata,E_Emshwiller_292,U74267,EU437131
 Oxalis_vulcanicola,MO702,EU436872,EU437038
 Oxalis_adspersa,L_Dreyer_635,EU436936,AJ582290
@@ -51,7 +51,7 @@ Oxalis_reclinata,L_Dreyer_688,FJ410329,FJ410330
 Oxalis_salteri,L_Dreyer_784,EU436932,AJ582352
 Oxalis_stenopetala,L_Dreyer_675,EU436983,AJ582353
 Oxalis_tenella,L_Dreyer_639,EU436978,AJ582356
-Oxalis_urbaniana,Bytebier,2015,EU436999,AJ582362
+Oxalis_urbaniana,Bytebier_2015,EU436999,AJ582362
 Oxalis_versicolor,K_Oberlander_0034,EU437006,AJ582363
 Oxalis_viscosa,L_Dreyer_642,EU436949,AJ582364
 Oxalis_xantha,L_Dreyer_671,EU436980,AJ582365
