@@ -1,0 +1,76 @@
+Oxalis_corniculata, E_Emshwiller_793, EU437126, JN836851, JN836781, JN603192
+Oxalis_oregana, R_Olmstead_2003-33, JN639536, JN836852, JN836782, JN159893
+Oxalis_acetosella, E_Emshwiller_114, JN639537, JN836853, JN836783, JN603193,
+Oxalis_rosea, TG_Lammers_7916, JN639538, JN836854, JN836784, JN603194
+Oxalis_laxa_subsp_hispidissima, E_Emshwiller_1111, JN639539, JN836855,NA, JN603195
+Oxalis_megalorrhiza, E_Emshwiller_773, EU437139, JN836856,NA, JN603196,
+Oxalis_ptychoclada, E_Emshwiller_916, EU437134, JN836857, JN836786, JN603197
+Oxalis_tuberosa, E_Emshwiller_50_02, JN639540, NA, JN836787, JN603198
+Oxalis_articulata_f_crassipes, E_Emshwiller_463, EU437146, JN836859, JN836788, JN618506
+Oxalis_articulata_subsp_rubra, E_Emshwiller_146, EU437147, JN836860, JN836789, JN618507
+Oxalis_floribunda, M_Vaio_358, JN836758, JN836861, JN836790, JN836767
+Oxalis_linarantha, R_Wasum_3369, JN639541, JN836862,NA, JN618508,
+Oxalis_incarnata, E_Emshwiller_149, JN639542, JN836863, JN836791, JN618509
+Oxalis_pes-caprae, E_Emshwiller_608, EU437145,NA, JN836792, JN618510
+Oxalis_adenophylla, A_Gardner_ADEPH1, JN639550, JN836872, JN836802, JN618511
+Oxalis_triangularis_subsp_papilionacea, E_Emshwiller_456, EU437141, JN836864, JN836793,JN618512
+Oxalis_alpina, A_Gardner_45, JN639543, JN836865, JN836794, JN618513
+Oxalis_alpina, S_Weller_956, JN639545, JN836867, JN836796, JN618515
+Oxalis_alpina, S_Weller_976, JN639544, JN836866, JN836795, JN618514
+Oxalis_cf_alpina, S_Weller_979, JN639584, JN836913, JN836846, JN618565
+Oxalis_argentina, E_Emshwiller_235, EU437143,NA, JN836797, JN618516
+Oxalis_bipartita_subsp_bipartita, M_Vaio_59, JN836764,NA,NA, JN836777
+Oxalis_bipartita_subsp_bipartita, M_Vaio_320,NA, JN836880, JN836810, JN836778
+Oxalis_brasiliensis, BRAS2, JN639546, JN836868, JN836798, JN618520
+Oxalis_brasiliensis, M_Vaio_337, JN836766, MV337, JN836812, JN836768
+Oxalis_brasiliensis, M_Vaio_55,NA,NA,NA, JN836769
+Oxalis_brasiliensis, M_Vaio_70,NA,NA,NA, JN836770
+Oxalis_caerulea, A_Gardner_39, JN639548, JN836870, JN836800, JN618517
+Oxalis_caerulea, A_Gardner_47, JN639549, JN836871, JN836801, JN618518
+Oxalis_cardenasiana, JRI_Wood_22331, JN639547, JN836869, JN836799, JN618519
+Oxalis_debilis_var_debilis, E_Emshwiller_171, EU437144, JN836873, JN836803, JN618521
+Oxalis_debilis_var_debilis, E_Emshwiller_445, JN639551, JN836874, JN836804,NA
+Oxalis_debilis_var_corymbosa, M_Vaio_62, JN836760, JN836876, JN836806, JN836774
+Oxalis_decaphylla, A_Gardner_29, JN639552, JN836882, JN836813, JN618522
+Oxalis_decaphylla, AR2610, JN639559, JN836889, JN836820, JN618524/JN618523
+Oxalis_discolor, A_Gardner_35, JN639560, JN836890, JN836821, JN618525
+Oxalis_divergens, A_Gardner_58, JN639561, JN836891, JN836822, JN618527
+Oxalis_divergens, A_Gardner_62, JN639553, JN836883, JN836814, JN618526
+Oxalis_drummondii, S_Weller_965, JN639562, JN836892, JN836823, JN618528
+Oxalis_eriolepis, E_Emshwiller_155, JN639563, JN836893, JN836824, JN618530
+Oxalis_eriolepis, E_Emshwiller_559, JN639554, JN836884, JN836815, JN618529
+Oxalis_galeottii, A_Gardner_60, JN639566, JN836895, JN836827, JN618531
+Oxalis_gregaria, Roe_1597, JN639565,NA, JN836826, JN618532
+Oxalis_hernandesii, A_Gardner_26, JN639567, JN836896, JN836828, JN618533
+Oxalis_hernandesii, A_Gardner_56, JN639564, JN836894, JN836825, JN618534
+Oxalis_hispidula, M_Vaio_342,NA, JN836881,NA, JN836775
+Oxalis_hispidula, M_Vaio_44, JN836765,NA, JN836811, JN836776
+Oxalis_jacquiniana, A_Gardner_43, JN639569, JN836898, JN836830, JN618535
+Oxalis_jacquiniana, A_Gardner_59, JN639568, JN836897, JN836829, JN618536
+Oxalis_lasiandra, A_Gardner_69, JN639570, JN836899, JN836831, JN618537
+Oxalis_latifolia, A_Gardner_38, JN639573, JN836902, JN836834, JN618539
+Oxalis_latifolia, A_Gardner_70, JN639571, JN836900, JN836832, JN618538
+Oxalis_latifolia, E_Emshwiller_439, JN639574, JN836903, JN836835, JN618540
+Oxalis_latifolia, E_Emshwiller_508, JN639575, JN836904, JN836836, JN618545
+Oxalis_latifolia, E_Emshwiller_756, JN639576, JN836905, JN836837, JN618548
+Oxalis_latifolia, M_Vaio_C12,NA,NA,NA, JN836771
+Oxalis_latifolia, PHIL, JN639556, JN836886, JN836817, JN618552
+Oxalis_macrocarpa, A_Gardner_49, JN639558, JN836888, JN836819, JN618556
+Oxalis_macrocarpa, A_Gardner_53, JN639577, JN836906, JN836838, JN618555
+Oxalis_magnifica, A_Gardner_68, JN639578, JN836907, JN836839, JN618557
+Oxalis_morelosii, E_Perez_4856, JN639579, JN836908, JN836840, JN618558
+Oxalis_nelsonii, A_Gardner_66, JN639580, JN836909, JN836841, JN618559
+Oxalis_oreocharis, E_Emshwiller_583, EU437142, JN836911, JN836843, JN618561
+Oxalis_oreocharis, E_Emshwiller_795, JN639581, JN836910, JN836842, JN618560
+Oxalis_perdicaria, M_Vaio_348, JN836761, JN836877, JN836807
+Oxalis_perdicaria, M_Vaio_79, JN836762, JN836878, JN836808, JN836772
+Oxalis_pinguiculacea, Wood22147, JN639557, JN836887, JN836818, JN618562
+Oxalis_primavera, A_Gardner_48, JN639583,NA, JN836845, JN618564
+Oxalis_primavera, A_Gardner_50, JN639582, JN836912, JN836844, JN618563
+Oxalis_sellowiana_f_alba, M_Vaio_282, JN836763, JN836879, JN836809, JN836779
+Oxalis_sellowiana, M_Vaio_73, JN836759, JN836875, JN836805, JN836780
+Oxalis_tetraphylla, DEPP, JN639585, JN836914, JN836847, JN618566
+Oxalis_tetraphylla, TETRA2, JN639586, JN836915, JN836848, JN618567
+Oxalis_trollii, Wood22158, JN639587, JN836916, JN836849, JN618569
+Oxalis_trollii, E_Emshwiller_281, JN639555, JN836885, JN836816, JN618568
+Oxalis_violacea, AGVIO1, JN639588, JN836917, JN836850, JN618570
