@@ -1,4 +1,4 @@
-species,specimen,ITS,petA_psbJ,trnL_trnF
+species,specimen,ITS,psbJ_petA,trnL_trnF
 Oxalis_articulata_subsp_articulata,M_Vaio_242,KX249610,KX249681,KX249638
 Oxalis_nelsoniia,A_Gardner_66,JN618559,N836841,JN639580J
 Oxalis_sarmentosaa,A_Nuernberg_1849,OQ623654,OR099859,OR099882
@@ -13,7 +13,7 @@ Oxalis_psoraleoides_subsp_insipida,FS_Cabral_IS4,OR094469,OR099857,NA
 Oxalis_grisea,M_Vaio_512,KC602025,KC602050,KC602079
 Oxalis_barrelieri,M_Vaio_517,KC602027,KC602052,KC602081
 Oxalis_cytisoides,FS_Cabral_139,OQ310874,OQ295995,OQ296021
-Oxalis_hyalotricha_subsp_hyalotricha,FS_Cabral_170,OQ623647,OR0998491,NA
+Oxalis_hyalotricha_subsp_hyalotricha,FS_Cabral_170,OQ623647,OR099849,NA
 Oxalis_pyrenea_var_macrochaeta,FS_Cabral_96,OQ623651,OR099858,OR099881
 Oxalis_pyrenea_var_macrochaeta,J_Radavelli_67,NA,PP179508,PP179512
 Oxalis_pyrenea_var_pyrenea,FS_Cabral_103,NA,OR099858,OR099881
