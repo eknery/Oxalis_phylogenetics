@@ -1,3 +1,4 @@
+### libraries
 if(!require("data.table")) install.packages("data.table"); require("data.table")
 if(!require("ape")) install.packages("ape"); library("ape")
 
@@ -19,7 +20,7 @@ for(i in 1:length(file_names)){
 ### all taxon names
 all_tx_names = c()
 for(i in 1:length(file_names)){
-  all_tx_names = unique(c(all_tx_names, file_list[[i]]$species))
+  all_tx_names = unique(c(all_tx_names, file_list[[i]]$taxon))
 }
 all_tx_names = sort(all_tx_names)
 
