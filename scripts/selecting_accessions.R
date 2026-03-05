@@ -27,21 +27,12 @@ for(i in 1:length(file_names)){
 }
 all_tx_names = sort(all_tx_names)
 
-
-
-# Oxalis_articulata_f_crassipes > Oxalis_articulata_forma_crassipes
-# Oxalis_aureo-flava > Oxalis_aureoflava
-# Oxalis_calachacensis > Oxalis calachaccensis
-# Oxalis_ebracteate > Oxalis_ebracteata
-# Oxalis_hernandezii > Oxalis_hernandesii
-# Oxalis_nelsoniia > Oxalis_nelsonii
-# Oxalis_pachyrhiza > Oxalis_pachyrrhiza
-# Oxalis_paranaenses > Oxalis_paranaensis
-# Oxalis_pseudo-cernua > Oxalis_pseudocernua
-# Oxalis_sarmentosaa > Oxalis_sarmentosa
-# Oxalis_sellowiana_f_alba > Oxalis_sellowiana_forma_alba
-
-
+hasError = c()
+for(i in 1:length(file_names)){
+  hasError = c(hasError, sum(file_list[[i]]$taxon %in% "Oxalis_rhombeo-ovata") )
+}
+names(hasError) = file_names
+hasError
 
 ### all column names
 all_col_names = c()
@@ -109,6 +100,11 @@ for(tx_name in all_tx_names){
   ### add selected specimen
   best_acc = rbind(best_acc, max_acc)
 }
+
+dup_specimen = best_acc$specimen[which(duplicated(best_acc$specimen))]
+dup_specimen
+
+best_acc[best_acc$specimen %in% "UnknownN",]
 
 write.table(
   acc_nums, 
