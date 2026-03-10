@@ -16,8 +16,6 @@ for(i in 1:length(file_names)){
     sep = ",",
     h= T
   )
-  ### adding reference
-  #file_list[[i]]$reference = file_names[i]
 }
 
 ### all taxon names
@@ -27,12 +25,12 @@ for(i in 1:length(file_names)){
 }
 all_tx_names = sort(all_tx_names)
 
-hasError = c()
-for(i in 1:length(file_names)){
-  hasError = c(hasError, sum(file_list[[i]]$taxon %in% "Oxalis_rhombeo-ovata") )
-}
-names(hasError) = file_names
-hasError
+# hasError = c()
+# for(i in 1:length(file_names)){
+#   hasError = c(hasError, sum(file_list[[i]]$taxon %in% "Oxalis_rhombeo-ovata") )
+# }
+# names(hasError) = file_names
+# hasError
 
 ### all column names
 all_col_names = c()
@@ -101,14 +99,11 @@ for(tx_name in all_tx_names){
   best_acc = rbind(best_acc, max_acc)
 }
 
-dup_specimen = best_acc$specimen[which(duplicated(best_acc$specimen))]
-dup_specimen
-
-best_acc[best_acc$specimen %in% "UnknownN",]
-
+### export best accession for each taxon
 write.table(
-  acc_nums, 
-  "acc_nums.txt",
+  best_acc, 
+  paste0("1_selected_accessions/","best_acc.csv"),
+  sep = ",",
   row.names = F,
   quote= F
   )
