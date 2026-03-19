@@ -1,3 +1,4 @@
+### libraries 
 if(!require("ape")) install.packages("ape"); library("ape")
 
 ### input directory
@@ -9,7 +10,7 @@ dir_out = "2_raw_sequences/"
 ### read acessions table
 best_acc = read.csv(paste0(dir_input, "best_acc.csv") )
 
-############################ GETTING SEQUENCES #############################
+############################### GETTING SEQUENCES #############################
 
 ### loci names
 all_loci = colnames(best_acc)[!colnames(best_acc) %in% c("taxon", 
@@ -17,6 +18,10 @@ all_loci = colnames(best_acc)[!colnames(best_acc) %in% c("taxon",
                                                          "Nmarker",
                                                          "Kmarker",
                                                          "duplicate")]
+### newdata files
+file_names = list.files("0_newdata")
+
+
 ### looping over loci
 for(locus_name in all_loci){
   ### lines with information
@@ -25,19 +30,31 @@ for(locus_name in all_loci){
   pub_acc = locus_acc[locus_acc[,locus_name] != 1,]
   pub_nums = pub_acc[,locus_name]
   pub_names = paste0(pub_acc[,"taxon"], "_", pub_acc[,"specimen"])
-  ### downloading published sequences
-  pub_seqs = read.GenBank( access.nb = pub_nums )
-  ### naming sequences
-  names(pub_seqs) = pub_names
-  ### unpublished accessions
-  unp_acc = locus_acc[locus_acc[,locus_name] == 1,]
-  unp_names = paste0(unp_acc[,"taxon"], "_", unp_acc[,"specimen"])
-  ### read newdata
-  newdata = read.FASTA(
-    paste0("0_newdata/",locus_name,".fasta")
+  if(length(pub_nums) > 0) {
+    ### downloading published sequences
+    pub_seqs = read.GenBank( access.nb = pub_nums )
+    ### naming sequences
+    names(pub_seqs) = pub_names
+    ### unpublished accessions
+    unp_acc = locus_acc[locus_acc[,locus_name] == 1,]
+    unp_names = paste0(unp_acc[,"taxon"], "_", unp_acc[,"specimen"])
+  } else {
+    pub_seqs = c()
+  }
+  if( paste0(locus_name,".fasta") %in% file_names){
+    ### read newdata
+    newdata = read.FASTA(
+      paste0("0_newdata/",locus_name,".fasta")
     )
-  ### select only selected accessions in newdata
-  unp_seqs = newdata[names(newdata) %in% unp_names]
+  } else {
+    newdata = c()
+  }
+  if(length(newdata) > 0){
+    ### select only selected accessions in newdata
+    unp_seqs = newdata[names(newdata) %in% unp_names]
+  } else {
+    unp_seqs = c()
+  }
   ### joining published and unpublished sequences
   locus_seqs = c(pub_seqs, unp_seqs)
   ### ordering
@@ -49,6 +66,8 @@ for(locus_name in all_loci){
     format = 'fasta' 
   )
   ### check
-  print(paste0("Download complete: ", locus_name))
+  print(paste0("Locus complete: ", locus_name))
 }
 
+all_loci
+locus_name = "trnT_trnL"
