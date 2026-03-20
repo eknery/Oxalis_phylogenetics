@@ -70,4 +70,4 @@ for(locus_name in all_loci){
 }
 
 all_loci
-locus_name = "trnT_trnL"
+locus_name = "trnL_trnF"
