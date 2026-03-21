@@ -37,7 +37,7 @@ attgaattgc agatacagaa atgatagaat catttccaaa tagggcctcg tatagagatg
 aaaaagaaga tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata
 tcggtatcta atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa
 aaaagataat aacgaaatcc taatctc
->Oxalis_alstonii_subsp_alstonii_UnknownN
+>Oxalis_alstonii_subsp_alstonii_Vaio413
 cggaaatctt agctattaac tgctcattct tagttattcc aaattactat agaaaagaat
 aatataaata gagaatttca aattcttttt catttttaaa ttcaaatgtc agttgaaatt
 attttcgatt ttatttattt actctatttt acaattcaat ttcaattaaa ttgaaattcg
@@ -124,7 +124,7 @@ gaaataaaaa gatccagact tgtttcagtc agaaaataga agttaagaca aaaaaaatcg
 acccttcgag tattcaaaag agtacgataa aaatgagagg aagataagca tataagatat
 attcatatat ataacatcta tattgaattg cagatacaga aaagatagaa tcatttycaa
 ataggg
->Oxalis_barrelieri_UnknownN
+>Oxalis_barrelieri_Vaio517
 ttgtacatgc ataggaattc ccttttaaag taaattactg aaatcttagc tattaactgc
 tcattcttag ttattctttt cttagttatt cctaattaat atagaaaaga ataatctaaa
 tatagatata gaatttattt actctatttt acaatgaaat tgaattgaaa ttcgatcgaa
@@ -809,20 +809,6 @@ attgaattgc agatacagaa atgatagaat catttccaaa tagggcctcg tatagagatg
 aaaaagaaga tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata
 tcggtatcta atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa
 aaaagatatt aacgaaatcc taatctc
->Oxalis_laxa_subsp_hispidissima_Emshwiller1111
-ctgagctaag cgggcttaca cattacataa tagaaattgt acatgcatag gaattccatt
-ttaaagtaaa ttactgaaat cttagctatt atattaacag ctcattctta gttattcctt
-tcttagttat tgctaattaa tatagaattt caaattattt ttcagtttga aattcaaatg
-ttatttgaat tgttatttat tttacaatta actttcaatt taattgaaat ttgatctaat
-tttattccat accatattat ctatttagaa ttctaaatag aatagaatta ttagattaaa
-atcttattat aaattttaaa tttcaaccaa ttttattaat taatagaaat gtaaaagagt
-gaaatgtaag aactttaaga aattttcatt ttagttatgt tatagagagt ccacccccag
-gaaaggataa gaatacaatg aaataaaaag atccagactt ttttcagtca gaaagtagaa
-gttaagacaa aaaaaatcga cccttcgagt attcaaaata gtacgataaa aatgagagga
-agataagcac ataagatata ttcatatata taacatctat attgaattgc agatacagaa
-atgatagaat catttccaaa tagggcctcg gatagagatg aaaaagaaga tagacacaaa
-ataagataag aggaaacact ttactttttc gataataaat tcaaaggttt taccgtaata
-tacaccataa tataaatgaa agaaaaaata aaataacgaa atcctaatct c
 >Oxalis_laxa_var_hispidissima_Heibl02-027
 attgtacatg cataggaatt ccattttaaa gtaaattact gaaatcttag ctattatatt
 aacagctcat tcttagttat tcctttctta gttattgcta attaatatag aatttcaaat
