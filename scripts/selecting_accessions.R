@@ -102,7 +102,7 @@ for(tx_name in all_tx_names){
 ### export best accession for each taxon
 write.table(
   best_acc, 
-  paste0("1_selected_accessions/","best_acc.csv"),
+  paste0("1_best_accessions/","best_acc.csv"),
   sep = ",",
   row.names = F,
   quote= F

@@ -68,6 +68,3 @@ for(locus_name in all_loci){
   ### check
   print(paste0("Locus complete: ", locus_name))
 }
-
-all_loci
-locus_name = "trnL_trnF"
