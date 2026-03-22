@@ -2,7 +2,7 @@
 if(!require("ape")) install.packages("ape"); library("ape")
 
 ### input directory
-dir_input = "1_selected_accessions/"
+dir_input = "1_best_accessions/"
 
 ### exrpoting directory
 dir_out = "2_raw_sequences/"

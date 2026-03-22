@@ -88,19 +88,6 @@ ttcttttttt tctatttcca cggcccggcc ctggtcagta ccgagccggg gccttttttt
 attcttttta ttccaatgaa tcatatgagt ccttttattc taatctcatt aggagaccta
 atgaaatacc tcagcgcttt agttttcatg attctttttt gatcctatat tcatttcgtc
 tgattccctt gctcgacaaa gggtctattt atatacaata atcgca
->Oxalis_aff_campylorrhiza_Dreyer689
-attactatgt tccattacac aaaaattaag acttgaaaaa agttctgttt ctctctcttt
-attataactt tattatagat atatatttta tttcgctttt atgtatttct atcttacttt
-atttcagcca tttcatttag ataaagtttt agagaaagta aaggctcgaa agagatatct
-acaactcaat attataacca aacagtatcc caatcaatat tcaatatata ataaaaaaaa
-attaatctct atagatatat tatgctattt atgtttataa gtttagttta taaattcgat
-ttataaaaac aaatattatc tataaactaa aaaaaaaaat attctatttc tcatattatt
-tatattttaa atatttttta tcttttattt tataattttc tgttttttct aaatttagaa
-aaaaaataga atacttcttt gattctatat tatcgattaa gaatactttt ttcgtcgttc
-atctgaaaat gaaaagcctc ttcttttatt tctatttcca cggcccggcc ctggtcagta
-cctagccggg gcctttttta ttccattgaa tcgtatgagt ccttttattc taatctcatt
-aggagactta atgaaatacc tcagcacttt agttttcatg attctttttt gatcctatat
-tcatttcgtc tgattccctt gctcgacaaa gggtctattt atatacaata atcgca
 >Oxalis_ambigua_Oberlander0140
 attactatat tccattacac aaaaattaag acttgaaaaa agttctgttt ctctctcttt
 attataactt tattatatat atattatttc gcttttgtgt atttctatac ttactttttt
@@ -431,20 +418,6 @@ tgaaaatgaa aagtctcttc ttttatttct atttccacgg ccctggtcag tacctagccg
 gggccttttt ttattctttt tattccaatg aatcttatga gtccttttat tctaatctca
 ttaggaaacc taatgaaata cctcagcgct ttagttttca tgattctttt ttgatcctat
 attcatttcg tctaattccc ttgctcgaca aagggtctat ttatatacaa taatcgca
->Oxalis_cf_pachyrrhiza_Dreyer809
-attactatgg ttctattaca caaaaattaa gacttgaaaa aagttctgtt tctctctctt
-taactttaat acttttatat atatttatta ttattatata tatttttttt atctcgcttt
-tgtctatttc tatctaactt ttttcagcca ttccatttag ataaagtttt agaaaaagta
-aagactcgaa agaaatatgt acaactcaat attataacca aatggtatcc caatcaatat
-tcaatatata aagaatctct atagatatat tattctattt atatttataa gtttagttta
-taaattcgat ttctaaaaac aaatattatc taaaaaaata ttagatttct catattattt
-atattttacc taatttttta tcttttattt tagaattttc tatttttttt ttctaaattt
-agaaaaaaaa aataatagaa tacttcttta attctataat tatagataag aatatttttt
-tcgtcgttca tctgaaaatg atgaaaatga aaagcctctt ctttgatttc gatctccacg
-gcccggccct ggtcaatacc tagccggggc ctttatttta ttcattttta ttttattcat
-tttattccaa tgaatcatat gagtcctctt attctaatct cattaggaga cctaatgaaa
-tacctcagca ctttagtttt aatgattctt ttttgatcct atattcattt cgtctgattc
-ccttgctcga caaagggtct atttatatac aataatcgca
 >Oxalis_cf_pulvinata_MO576cfpulvinata
 attactatgt tccattacac aaaaattaag acttgaaaaa agttctgttt ctctctcttt
 tttataactt tattatatat atattttttt atttcgcttt tgtgtatttc tatcttactt
