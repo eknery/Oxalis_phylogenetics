@@ -1,3 +1,17 @@
+>Cephalotus_follicularis_NC042597
+tttatacata atgattaatg gaatatatcg atatataatc tccgtctata gataatctct
+gtctatttat caattaaata tatatatata tgtttatcca taatcaatag gttaattaaa
+taataagatt ttctttttca ttttctaatt caaatgtcat ttgagatttt ttttagtatt
+ttactatgaa attgaaagaa attcaaatta gagttaaatt agatccaatt tgaattttat
+tccatattat atatttcgat atatttagaa ttctaaatag aatctaatta ttagaaatta
+ttagattaga atcttcatat ttatacattt ctcataaatt atatattaat ttaataaatg
+aaatgtaata actttaaatg aaatgtaata actttaatag taataacgtt aatagtaata
+acgttaataa ctttctgttt tagttatgtt atagaaagtc tacccccccc cagaaaagat
+aaaaaaaatg aaatagaaag acacaatccc gataaatgca atccaaatca taatgaaatg
+ttactttgtt ttcattctgg aaggggaaga aaagacgaaa aaaaaagaat ctaccgttca
+agtattaaaa attgtacgat aaaattaaga ggaagagagg cgtataatat atatatgtgt
+tatatataac atatatattg aattgcggat acagaaatga tagaatcatt tccgattaga
+cccaaatagg gtctcgaata gagataaaag agga
 >Oxalis_acetosella_HeiblBotGardenMunich01
 attgtacatg cataggaatt ccgttttaaa gtaaattact gaaatcttag ctattaactg
 ctcattctta gttattccta attaatatag aaaataataa tattaagtat agaatttcaa
@@ -61,15 +75,6 @@ aggaaaggat aagaagaaaa tgaaatagaa agatacagac tttgttttca gtcagaacat
 agaagttaag aaaaaaaaat cgacccttcg agtattcaaa attctacgag aaaaatgaga
 ggaagaaaag gacataagat atatgaatat atataacatc tatattgaat tgcagataca
 gaaatgatag aatcatttct aactagggcc tcggatagag atgaaaaaga a
->Oxalis_arenaria_Heibl03-094
-attgtacatg cataggaatt ccgttttaaa gtaaattact gaaatcttag ttattaactg
-ctcattctta gttattccta attaatatag aaaataataa tataaatata gaatttcaaa
-ttatttttca gtttaaaatt caaatgacat ttgaattttt atttatttac tctattttac
-aatttacttt caattttaat tgaaatttga tctaatttta ttccatacca tattatctat
-ttagaattct aaatagaata gaattattag attaatatct tattataaat tttacatttc
-aactaatttt attaattaat agattttatt aattaataga aatgtaaaat agttaaatgt
-aagaacttta agaaatttcc attttagtta tgttataaag agtccacccc caggaaagga
-taagaataaa atgaaataaa aagatccaga cttttttcag t
 >Oxalis_articulata_forma_crassipes_Emshwiller463
 ctgagctaag cgggcttaca cattacataa tagaaattgt acatgcatag gaattccgtt
 ttaaagtaaa ttactgaaat cttagttatt aactgctcat tctttagtta ttcctaatta
@@ -136,7 +141,7 @@ aagtagaagt taagacaaaa aaaatcgacc cttcgagtat tctaaattgt atgagaaaat
 tgagaggaag agaagcacat aagatatatg aatatatata acatctatat tgaattgcag
 atacagaaat gatagaatca tttccaaata aggcctcgga tagagctgaa aaataatata
 gacaaaaaag aaact
->Oxalis_bifrons_Fiaschi3633
+>Oxalis_bifrons_subsp_bifrons_Fiaschi3633
 ttgtacatgc atagatccgt tagtattact gaaatcttag ctattaattg ctcattctta
 gttattcctt agttattcct aattaatata gaaatataga atttcaaatt ctttttcatt
 tttaaattca aatggcattt aaaattttgt tctattttat ttatttactt tattttacaa
@@ -257,21 +262,6 @@ agatacagaa atgatagaat catttccaaa tagggcctcg tatagagatg aaaaagaaga
 tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata tcggtatcta
 atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa aaaagatata
 acgaaatc
->Oxalis_cf_alpina_Weller979
-ctgagctaag cgggcttaca cattacataa tagaaattgt acatgcatag gaattccgtt
-ttaaagtaaa ttactgaaat cttagttatt aattgctcat tcttagttat tcctaattaa
-tatagaaaat aataatataa atatagaatt tcaaattatt tttcagttta aaattcaaat
-gacatttgaa tttttattta tttactctat tttacaatta actttcaatt aaattgaaat
-ttgatctaat tttattccat accatattat ctatttagaa ttctaaatag aatagaatta
-ttagattaat atcttattat aaattttaca tttcaactaa ttttattaat taatagattt
-tattaattaa tagaaatgta aaatagttaa gaactttaag aaatttaatt ttagttatgt
-tatagagagt ccaactacag gaaaggataa gaataaaatg aaataaaaag atccagactt
-ttttcagtca gaaagtagaa gttaagacaa aaaaaatcga cccttcgagt attcaaaata
-gtacgataaa aatgagagga agataagcac ataagatata ttcatatata taacatctat
-attgaattgc agatacagaa atgatagaat catttccaaa tagggcctcg tatagagatg
-aaaaagaaga tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata
-tcggtatcta atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa
-aaaagataat aacgat
 >Oxalis_cinerea_Heibl03-095
 attgtacatg cataggaatt ccgtttttaa agtaaattat tgaaatctta gctattaact
 tctcattctt agttattcct ttcttagtta ttgctaatta atatagaaaa gaaaaataga
@@ -488,20 +478,6 @@ agggcctcgt atagagatga aaaagaagat agacaaaaaa gaaaataaga ttaagaggaa
 acactttact ttttcgatat cggtatctaa tcaattcaag ggtttcacca taatatacac
 cataatataa aaatatacac cataatataa atgaaagaaa aaagataata acgaaatcct
 atctc
->Oxalis_erosa_UnknownN
-gcttaaaagt aaattacgga aatcttagct attaactgct catttttagt tattccaaat
-tactatagaa aagaataatc taaatataga atttcaaatt ctttttcatt tttcaattca
-aatgtcgttt gaaattattt tcgattttat ttatttactc tattttacaa ttcaattgaa
-attgaattga attcgatgga attttattcc ataccatatt atctatttcg aattctaaat
-agaatcgaat tattcgatta atagcttatt ctaaattttt catttcaact aattttctta
-agtataagta atagataagt aatagaaatg taaaatagtt aaatgtaata actttcattt
-aagaaaktaa gaaatttcta agttatgtta tagagagtcc acccccaaga acggataaga
-agaaaatgaa atagaaagat ctagactttg ttttcagtca gaaagtataa gttaagacaa
-aaaaaatcga cccttcgagt attccaaatt atacgataaa aatgagagga agagaagcac
-ataagatata tgaatatata taacatctat attgaattat tgaattgcag ataaagaaat
-gatagaatta tttcaaaata gggcctcgga tagagctgaa aaagaagata gacaaaaaag
-aaaataagac aagaagaaac actttacttt ttcgatatcg gcatttaaga aattcaatgg
-tttcactcta atcataatag a
 >Oxalis_flava_Dreyer614
 ctgagctaag cgggcttaca cattacataa tagaaattgt acatgcatag gaattccgtt
 ttaaagtaaa taactgaaat cttagttatt aactgctcat tcttagttat tcctaattaa
@@ -545,14 +521,6 @@ catatatata acatctatat tgaattgcag atacagaaat gatagaatca tttccaaata
 gggcctagta tagagatgaa aaaaaagata gaaaaaagaa aataagataa gaggaaacac
 tttacttttt tgatatcggt atctaattaa ttcaatggtt tcaccataat atacaccata
 atataaatga aagaaaaaag ataatacgaa tcctatctca acag
->Oxalis_formosana_Aoki181
-gataagaata aaatgaaata aaaagatcca tttcagtcag aaagtagaag ttaagaaaaa
-aaaaatcgac ccttcgagta ttccaaattg tacgagaaaa atgagaggaa gataagcaca
-taagatatat taatatatat aacatctata ttgaattgca gatacagaaa tgatagaatc
-atttccaaat agggcctcgg atagagatga aaaagaagat agacaaaaaa tgaaaataag
-ataagaggaa acagtttact ttttagatat tggtatctaa tcaattcaat ggtttcacca
-taatcatatc aatggtttca ccataatcat aatataaata aaagaaaaag gagaataatg
-aaatcctaat ctcaaaacaa atgggggata tggcgaaatc ggtag
 >Oxalis_frutescens_Vaio426
 ttgtacatgc ataggaattt cgttttaaag taaattactg aaatcttagc tattaactgc
 tcattcttag ttattctttt cttagttatt cctaattaat atagaaaaga ataatataaa
@@ -634,6 +602,14 @@ gaatcatttc caaatagggc ctcggataga gatgaaaaag aagatagaca aaaaatgaaa
 ataagataag aggaaacagt ttacttttta gatattggta tctaatcaat tcaatggttt
 caccataatc atatcaatgg tttcaccata atcataatat aaataaaaga aaaaggagaa
 taatgaa
+>Oxalis_griffithii_subsp_formosana_Aoki181
+gataagaata aaatgaaata aaaagatcca tttcagtcag aaagtagaag ttaagaaaaa
+aaaaatcgac ccttcgagta ttccaaattg tacgagaaaa atgagaggaa gataagcaca
+taagatatat taatatatat aacatctata ttgaattgca gatacagaaa tgatagaatc
+atttccaaat agggcctcgg atagagatga aaaagaagat agacaaaaaa tgaaaataag
+ataagaggaa acagtttact ttttagatat tggtatctaa tcaattcaat ggtttcacca
+taatcatatc aatggtttca ccataatcat aatataaata aaagaaaaag gagaataatg
+aaatcctaat ctcaaaacaa atgggggata tggcgaaatc ggtag
 >Oxalis_grisea_Vaio512
 ttgtacatgc ataggaattc cgttttaaag taaattactg aaatcttagc tattaactgc
 tcattcgtag ttattccttt cttagttctt cctaattaat atagaaaaga ataatctaaa
@@ -727,20 +703,6 @@ gaaataaaaa gatccagact tgtttcagtc agaaaataga agttaagaca aaaaaaatcg
 acccttcgag tattcaaaag agtacgataa aaatgagagg aagataagca tataagatat
 attcatatat ataacatcta tattgaattg cagatacaga aaagatagaa tcatttccaa
 atagggcctc ggatagagat gaaaaagaa
->Oxalis_kantoensis_Aoki25
-tacataatag aaattgtaca tgcataggaa ttccgtttta aagtaaatta ctgaaatctt
-agctattaac tgctcattct tagttattcc taattaatat agaaaataat aagattaagt
-atagaatttc aatttatttt tcagtttgaa attcaaatgt catttgaatt ttttttgatt
-ttctttcttt taattttaca attcaatttc aattgaaatt cgatctaatt ttattccata
-ccatattatc tatttagaat tctaaataga atagaattat tagattaata tcttattata
-aattttacat ttcaacgaat tttattaatt attattaatt aatagaatag tgaaatgcaa
-taactttaag aaatttccat tttagttatg ttataggaag tccaccccca ggaaaggata
-agaataaaat gaaataaaaa gatccatttc agtcagaaag tagaagttaa gaaaaaaaaa
-atcgaccctt cgagtattcc aaattgtacg agaaaaatga gaggaagata agcacataag
-atatattaat atatataaca tctatattga attgcagata cagaaatgat agaatcattt
-ccaaataggg cctcggatag agatgaaaaa gaagatagac aaaaaatgaa aataagataa
-gaggaaacag tttacttttt agatattggt atctaatcaa ttcaatggtt tcaccataat
-catatcaatg gtttcaccat aatcataata taaataaaag aaaaaggaga ataatga
 >Oxalis_laciniata_HeiblMunozToro04-047
 attgtacatg cataggaatt ccgttttaaa gtaaattact gaaatcttag ttattaactg
 ctcattctta gttattccta attaatatag aaaataataa tataaatata gaatttcaaa
@@ -795,18 +757,6 @@ attgaattgc agatacagaa atgatagaat catttccaaa tagggcctcg tatagagatg
 aaaaagaaga tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata
 tcggtatcta atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa
 aaaagatatt aacgaaatcc taatctc
->Oxalis_laxa_var_hispidissima_Heibl02-027
-attgtacatg cataggaatt ccattttaaa gtaaattact gaaatcttag ctattatatt
-aacagctcat tcttagttat tcctttctta gttattgcta attaatatag aatttcaaat
-tatttttcag tttgaaattc aaatgttatt tgaattgtta tttattttac aattaacttt
-caatttaatt gaaatttgat ctaattttat tccataccat attatctatt tagaattcta
-aatagaatag aattattaga ttaaaatctt attataaatt ttaaatttca accaatttta
-ttaattaata gaaatgtaaa agagtgaaat gtaagaactt taagaaattt tcattttagt
-tatgttatag agagtccacc cccaggaaag gataagaata caatgaaata aaaagatcca
-gacttttttc agtcagaaag tagaagttaa gacaaaaaaa atcgaccctt cgagtattca
-aaatagtacg ataaaaatga gaggaagata agcacataag atatattcat atatataaca
-tctatattga attgcagata cagaaatgat agaatcattt ccaaataggg cctcggatag
-agatgaaaaa gaa
 >Oxalis_laxa_var_laxa_Heibl03-091
 attgtacatg cataggaatt ccgttttaaa gtaaattact gaaatcttag ctattaacag
 ctcattctta gttattcctt tcttagttat tgctaattaa tatagaaaag aaaaaaataa
@@ -928,7 +878,7 @@ attgaattgc agatacagaa acgatagaat catttccaaa tagggcctcg tatagagatg
 aaaaagaaga tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata
 tcggtatcta atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa
 aaaagataat aacgaaatcc taatctc
->Oxalis_neuwiedii_EMA1336
+>Oxalis_neuwiedii_Almeida1336
 cggtagcata ttaactgctc attcttagtt attccaaatt actatagaaa agaataatat
 aaatatatag aaaagaataa tcttcaaatt cttttgaatt ttaaaattca aatgtcattt
 gaaattcttt tcgattttat ttactctatt ttacaattca atttcaattt aattgaaatt
@@ -952,6 +902,20 @@ aattaagaca aaaaaatcga tccttcgagt attcaaaatt gtacgctaaa aatgagagga
 agagaagcat ataagatatg aatatataac atctatattg aattgcagat acagaaatga
 tagaatcatt tccaaatagg gcctcagata gagctgaaaa agaagataga caaaaaagaa
 aataaga
+>Oxalis_nippponica_subsp_kantoensis_Aoki25
+tacataatag aaattgtaca tgcataggaa ttccgtttta aagtaaatta ctgaaatctt
+agctattaac tgctcattct tagttattcc taattaatat agaaaataat aagattaagt
+atagaatttc aatttatttt tcagtttgaa attcaaatgt catttgaatt ttttttgatt
+ttctttcttt taattttaca attcaatttc aattgaaatt cgatctaatt ttattccata
+ccatattatc tatttagaat tctaaataga atagaattat tagattaata tcttattata
+aattttacat ttcaacgaat tttattaatt attattaatt aatagaatag tgaaatgcaa
+taactttaag aaatttccat tttagttatg ttataggaag tccaccccca ggaaaggata
+agaataaaat gaaataaaaa gatccatttc agtcagaaag tagaagttaa gaaaaaaaaa
+atcgaccctt cgagtattcc aaattgtacg agaaaaatga gaggaagata agcacataag
+atatattaat atatataaca tctatattga attgcagata cagaaatgat agaatcattt
+ccaaataggg cctcggatag agatgaaaaa gaagatagac aaaaaatgaa aataagataa
+gaggaaacag tttacttttt agatattggt atctaatcaa ttcaatggtt tcaccataat
+catatcaatg gtttcaccat aatcataata taaataaaag aaaaaggaga ataatga
 >Oxalis_oregana_Olmstead2003-33
 ttacataata gaaattgtac atgcatagga attccgtttt aaagtaaatt actgaaatct
 tagctattaa ctgctcattc ttagttattc ctaattaata tagaaaataa taatattaag
@@ -1110,7 +1074,7 @@ attgaattgc agatacagaa atgatagaat catttccaaa tagggcctcg tatagagatg
 aaaaagaaga tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata
 tcggtatcta atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa
 aaaagataat aacgaaatcc taatctc
->Oxalis_psoraleoides_subsp_psoraleoides_Felix14001
+>Oxalis_psoraleoides_Vaio431
 gaaatcttag ctattaactg ctcattttta gttattccaa attactatag aaaagaataa
 tataaatata gaatttcaaa ttctttttca tttttcaatt caaatgtcgt ttgaaattat
 tttcgatttt atttatttac tctattttac aattcaattt caattgaatt gaaattcgat
@@ -1149,6 +1113,19 @@ actttgtttt cagtcagaaa gtagaaatta agacaaaaaa atcgatcctt cgagtattca
 aaattgtacg ctaaaaatga gaggaagaga agcatataag atatgaatat ataacatcta
 tattgaattg cagatacaga aatgatagaa tcatttccaa atagggcctc agatagagct
 gaaaaagaag atagacaaaa aaga
+>Oxalis_rhombeo-ovata_Vaio526
+ttgtacatgc ataggaattc tgcttaaaag taaattacgg aaatcttagc tattaactgc
+tcatttttag ttattccaaa ttactataga aaagagaaaa gaataatcta aatatagcat
+ttcaaattct tttgaatttt taaattcaaa tgtcatttga aattcttttc gattttattt
+actctatttt acaattcaat ttcaattgaa ttgaaattcg atggaatttt attccatacc
+atattatcta tttcgaattc taaatagaat cgaattattc gattaatatc ttattctaaa
+tttttcattt caactaattt tcttaagtaa tagaaatgta aaatagttaa atgtaataac
+tttaatttaa gaaattaaga aatttctaag ttatgttata gagagtccac ccccaggaac
+ggataagaat aaaatgaaat agaaagatct agactttgtt ttcagtcaga aagtataagt
+taagacaaaa aaaatcgacc cttcgagtat tcaaaattat acgataaaaa tgagaggaag
+agaagcacat aagatatatg aatatatata acatctatat tgaattgcag atacagaaat
+gatagaatta tttcaaaata ggacctcgga tagagctaaa aaagaagata gacaaaaaag
+aaaataaga
 >Oxalis_ricardii_Heibl01-072
 attttacatg cataggaatt ccgttttaaa gtaaattact gaaatcttag ctattaactg
 ctcattctta gttattccta attaatatag aaaagaataa tataaatata gaatttcaaa

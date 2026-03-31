@@ -17,6 +17,15 @@ ttgatacctt agttttgtat catagaataa accctttcgt ctaatttatt catttttgtt
 atactgaaga tattaaaaag atattaaaaa tgcgagaata gaaagataaa aatcgtaaat
 gttcaaaggt caaaatttca ccctttctaa ttttttaaac ttgtaaatat tctaggggcg
 gatgtagcca agtggatcag ggcagt
+>Cephalotus_follicularis_NC042597
+gcattttggt ctcggatttt tagcctgttt tactttggta gttcgaccgc ggaatttctt
+tgtttctgta tttccgaaat atgagtgtgt gacttgttat aattgatcct attgatagta
+cagagaatgg gtctgtcatc ttgatagaga tgtttttacc tcgtcagata tttattctag
+tatctggagc acggaatatg tgaaataaaa tagattctga agtcttagaa ctatgattca
+tacttaatat tcagacctcg tggccggact tcaaaaaatt ttcaaagagt tagaagttat
+aaatacaaag attttttctt tcaaactccc atttatgctt attttgatta aaggacaaag
+gtttctttgg atttttagtc attatatcta ttcattgaaa ttgaataagt gataatacaa
+cggttcttac tcatggaatc tttggactta gtttgaaggt tttattgaat ca
 >Cnestidium_rufescens_DB0784
 gctccatcta caaatggata agactgcggt tttagtgtat atgagttttt taaagtaaaa
 ggagaaataa ccaagcccct tgatacaaca aggggcttgg ttatttctcc ttttacttta
@@ -28,6 +37,17 @@ tttcaaataa aaaaaaagtt ttaattttct ccctcttata tcttattttt gtatcatata
 agaaaaaatt ccttataatt tataaggaaa ataacaaaaa attagagaaa gataaaagat
 aaaaaaattt atgaatggta aatgttcgaa attgaactct ttctaatcta atttgtctaa
 tttgtaaata ggctagg
+>Connarus_panamensis_DB0282
+gctgttgaag ctccgtctac aaatggataa gactgaggtt ttagtgtata tgagtttttg
+aaagtaaaag gagaaataac caagcccctt gttgtatcaa ggggcttggt tatttctcct
+tttactttat tttaatttga ggtattttat gtagtagtct tttatttata tctttacata
+aattcataaa tcttttttct ttattttttt tatttatttt tacttcaaca taaataagaa
+aaagcgttct taatttttat gggtttgttt ttgattgagt attatacttt ttttgttatg
+gactaatttt tttttatgtc ctttttttta ttttcgtctt aatcttttgt ttatgaagta
+tttatttaaa gtattttaaa tttcaaataa aaagaaagtt tcaattttct acctgttata
+tcttattttt gtatcatata agaaaaaatt tcttataact tataagttat aaggaaaata
+acaaaaaatt atagaaagat aaaagataaa aaaatttatg aatggtaaat gttcgaaatt
+gaactctttc taatgctaat gtaatttttc taatttgtaa atagtttagg
 >Elaeocarpus_angustifolius_J315
 gactttggtt ttagtgtata cgagttcttg aaaataaagg ggcaataacc aatttcttgt
 tgtatcaaga gggttggtta ttgttcctat gattgagtat tatatttttt tttatgtact
@@ -61,13 +81,6 @@ tgattgagta ttatactttt ttattttatg gtttatggat taatttgttt aaatttatat
 actttacttt tcattttttt gtttgtgaag tttttatttt caattttaaa tagtgaaaat
 aagttgacat tttttccctc ttttttctag agaatagaac gagaaaaaaa aaaaacatgg
 tcgaaattga actctttcta attttataat gtataacttg taaatggtat agggcggaga
->Oxalis_arenaria_Heibl03-094
-ataatttccc tctagattta gcggctgttg aagttccatc tataaatgga taagactgca
-gttttaatgt atctgaattc ttgaaagtaa agaagcaaca accaaccccc tttatatata
-aagggggttg gttgttgctt atttaacttt gttttattgt ttctttcttt ttttttattt
-gaacataaat aagaaaaagt gttcttaatt tttatgggtt gttttgtaat tgagtattat
-actttttttt acggactctt tttttttttt tctatagaat agaacgaaaa aaaatggtcg
-aaattgaact ctttctaatg tataatttat aaatggttta ggggcg
 >Oxalis_atacamensis_Heibl01-054
 ataatttccc tctagattta gcggctgttg aagttccatc tataaatgga taagactgca
 gttttaatgt atctgaattc ttgaaagtaa agaagcaata accaatccct taatatatta
@@ -136,14 +149,13 @@ taagaaaaag tgttcttaat ttttatgggt tgttttgtaa ttgagtatta tacttttttt
 tacggactct tttttttttt tctatacttt acttttcaat ttttttgaag tttttatttt
 caatttaaaa taattaaaat aaagtttcct ttttttttct ttttttattt ttttctatag
 aatagaacgc aaaaaaatgg tcgaaattga actctttcta atgtataatt tataaat
->Oxalis_erythrorhiza_Zuloaga12781
-ataatttccc ttagaatttg cggctttaaa atccttctaa aaaggctaga gcagttttta
-aaggatttga attttttaaa aaaaaaaagc aataaaaaaa tcccctgaaa tttaagggga
-tggtaatgct tttttatttt attataaaaa aaataagaaa aaagtgtaaa aaaataaaaa
-aaagttttta aatttttggg tgttttttaa atgaatttta taattttttt ttttaggggg
-tttatttttt aaattttata ttttaaattt tttttttttt tttttttttt tattaaaaaa
-aggtttcctc ttttttctta tagaatataa tgataagaaa aaatggtcga aatttaactc
-tttctaatgt a
+>Oxalis_erythrorhiza_Teillier4547
+ttgaagttcc atctataaat ggataagact gcagttttaa tgtatttgaa ttcttgaaag
+taaagaagca ataatcaatc cccttgatta ttgcttcttt atttatttat ttatttttac
+ttcaatataa ataaataaga aaaggtgttc ttaaatttta agggttgttt tgtaattgag
+tattatactt ttttctttta ggggcttcat tttttaattt ctatacttta aattttttta
+gtttttattt taaatttaaa ataaggtttc ctctttgttt cgtatagaac ataacgataa
+gaaaaaatgg tcaaatttaa ctctttct
 >Oxalis_gyrorhiza_Heibl02-035
 ataatttccc tctagatcta gcggctgttg aagttccatc tacaaatgga taagactgcg
 gttttaatgt atttgaattc ttgaaagtaa agaagcaata accccttgat ggggttattg

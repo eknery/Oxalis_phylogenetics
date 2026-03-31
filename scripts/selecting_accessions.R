@@ -41,6 +41,7 @@ all_col_names
 
 ### all marker names
 all_marker_names = all_col_names[!all_col_names %in% c("taxon", "specimen")]
+all_marker_names = sort(all_marker_names)
 
 ### joining into a single dt
 all_acc = rbindlist(file_list, fill = T)
@@ -61,7 +62,7 @@ all_acc$Nmarker = rowSums(!is.na( all_acc[,..marker_index]))
 all_acc$Kmarker = !is.na(all_acc[[key_marker_name]])
 
 ### selecting best specimen per taxon
-best_acc = c()
+selected_acc = c()
 for(tx_name in all_tx_names){
   ### select all specimens under a taxon
   tx_acc = all_acc[all_acc$taxon %in% tx_name,]
@@ -96,13 +97,13 @@ for(tx_name in all_tx_names){
     max_acc = max_acc$Kmarker == TRUE
   }
   ### add selected specimen
-  best_acc = rbind(best_acc, max_acc)
+  selected_acc = rbind(selected_acc, max_acc)
 }
 
 ### export best accession for each taxon
 write.table(
-  best_acc, 
-  paste0("1_best_accessions/","best_acc.csv"),
+  selected_acc, 
+  paste0("1_selected_accessions/","selected_acc.csv"),
   sep = ",",
   row.names = F,
   quote= F

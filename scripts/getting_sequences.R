@@ -2,7 +2,7 @@
 if(!require("ape")) install.packages("ape"); library("ape")
 
 ### input directory
-dir_input = "1_best_accessions/"
+dir_input = "1_selected_accessions/"
 
 ### exrpoting directory
 dir_out = "2_raw_sequences/"
@@ -18,9 +18,10 @@ all_loci = colnames(best_acc)[!colnames(best_acc) %in% c("taxon",
                                                          "Nmarker",
                                                          "Kmarker",
                                                          "duplicate")]
+all_loci = sort(all_loci)
+
 ### newdata files
 file_names = list.files("0_newdata")
-
 
 ### looping over loci
 for(locus_name in all_loci){
