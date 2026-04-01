@@ -18,8 +18,6 @@ all_loci = colnames(best_acc)[!colnames(best_acc) %in% c("taxon",
                                                          "Nmarker",
                                                          "Kmarker",
                                                          "duplicate")]
-all_loci = sort(all_loci)
-
 ### newdata files
 file_names = list.files("0_newdata")
 
