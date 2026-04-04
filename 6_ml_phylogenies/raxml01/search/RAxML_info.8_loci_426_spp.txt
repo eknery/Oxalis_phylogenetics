@@ -1,0 +1,114 @@
+
+You are using a proportion of Invariable sites estimate, although I don't
+like it. The likelihood epsilon "-f e" will be automatically lowered to 0.001
+to avoid unfavorable effects caused by simultaneous optimization of alpha and P-Invar
+
+
+IMPORTANT WARNING: Sequences Oxalis_cf_peduncularis_Emshwiller850 and Oxalis_tabaconasensis_Emshwiller786 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\5_concatenated_sequences\8_loci_426_spp_modified.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 3474 distinct alignment patterns
+
+Found 0 invariant alignment patterns that correspond to 0 columns 
+Proportion of gaps and completely undetermined characters in this alignment: 67.40%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 10 inferences on the original alignment using 10 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA+P-Invar model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA+P-Invar Model parameters will be estimated up to an accuracy of 0.0010000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 3474
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+C:\Users\eduar\AppData\Local\Programs\raxmlgui\resources\static\bin\raxmlHPC-PTHREADS-SSE3.exe -T 8 -f d -m GTRGAMMAI -N 10 -O -p 139797 -n 8_loci_426_spp.tre -o Afrostyrax_kamerunensis_Harris4130,Hua_gabonii_Wieringa3177 -s C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\5_concatenated_sequences\8_loci_426_spp_modified.fasta -w C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.311 0.196 0.188 0.305 
+
+Inference[0]: Time 608.684591 GAMMA+P-Invar-based likelihood -68200.385456, best rearrangement setting 15
+alpha[0]: 0.668629 invar[0]: 0.215553 rates[0] ac ag at cg ct gt: 1.025528 1.655818 0.639496 0.637241 2.500663 1.000000 
+Inference[1]: Time 523.843952 GAMMA+P-Invar-based likelihood -68220.284521, best rearrangement setting 10
+alpha[0]: 0.663731 invar[0]: 0.212872 rates[0] ac ag at cg ct gt: 1.027022 1.665881 0.637417 0.649289 2.500606 1.000000 
+Inference[2]: Time 540.922287 GAMMA+P-Invar-based likelihood -68206.696536, best rearrangement setting 10
+alpha[0]: 0.676839 invar[0]: 0.219270 rates[0] ac ag at cg ct gt: 1.024256 1.660738 0.634217 0.641857 2.504396 1.000000 
+Inference[3]: Time 599.699694 GAMMA+P-Invar-based likelihood -68213.814088, best rearrangement setting 15
+alpha[0]: 0.670025 invar[0]: 0.216570 rates[0] ac ag at cg ct gt: 1.030505 1.667314 0.641150 0.646352 2.510251 1.000000 
+Inference[4]: Time 443.906870 GAMMA+P-Invar-based likelihood -68215.265422, best rearrangement setting 15
+alpha[0]: 0.671826 invar[0]: 0.216359 rates[0] ac ag at cg ct gt: 1.027981 1.657762 0.636807 0.641499 2.488098 1.000000 
+Inference[5]: Time 571.259390 GAMMA+P-Invar-based likelihood -68200.484990, best rearrangement setting 25
+alpha[0]: 0.671370 invar[0]: 0.216972 rates[0] ac ag at cg ct gt: 1.031094 1.666465 0.641766 0.643743 2.514684 1.000000 
+Inference[6]: Time 459.769163 GAMMA+P-Invar-based likelihood -68206.499452, best rearrangement setting 10
+alpha[0]: 0.671327 invar[0]: 0.217439 rates[0] ac ag at cg ct gt: 1.020644 1.661495 0.638133 0.640577 2.500709 1.000000 
+Inference[7]: Time 702.569611 GAMMA+P-Invar-based likelihood -68243.743563, best rearrangement setting 20
+alpha[0]: 0.683631 invar[0]: 0.223952 rates[0] ac ag at cg ct gt: 1.028335 1.666908 0.639209 0.644393 2.489529 1.000000 
+Inference[8]: Time 541.776499 GAMMA+P-Invar-based likelihood -68207.241985, best rearrangement setting 10
+alpha[0]: 0.660466 invar[0]: 0.212113 rates[0] ac ag at cg ct gt: 1.032388 1.649250 0.638368 0.647003 2.515806 1.000000 
+Inference[9]: Time 656.342800 GAMMA+P-Invar-based likelihood -68217.103985, best rearrangement setting 10
+alpha[0]: 0.680516 invar[0]: 0.220465 rates[0] ac ag at cg ct gt: 1.016511 1.647382 0.634732 0.634880 2.469827 1.000000 
+
+
+Conducting final model optimizations on all 10 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -68199.901617 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.0
+Inference[1] final GAMMA-based Likelihood: -68220.041458 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.1
+Inference[2] final GAMMA-based Likelihood: -68206.148442 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.2
+Inference[3] final GAMMA-based Likelihood: -68213.393911 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.3
+Inference[4] final GAMMA-based Likelihood: -68214.734300 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.4
+Inference[5] final GAMMA-based Likelihood: -68199.976054 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.5
+Inference[6] final GAMMA-based Likelihood: -68205.970863 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.6
+Inference[7] final GAMMA-based Likelihood: -68242.971814 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.7
+Inference[8] final GAMMA-based Likelihood: -68206.999382 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.8
+Inference[9] final GAMMA-based Likelihood: -68216.211945 tree written to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_result.8_loci_426_spp.tre.RUN.9
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -68199.901617 .... 
+
+Final GAMMA-based Score of best tree -68199.899775
+
+Program execution info written to C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_info.8_loci_426_spp.tre
+Best-scoring ML tree written to: C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml\RAxML_bestTree.8_loci_426_spp.tre
+
+Overall execution time: 5777.505304 secs or 1.604863 hours or 0.066869 days
+

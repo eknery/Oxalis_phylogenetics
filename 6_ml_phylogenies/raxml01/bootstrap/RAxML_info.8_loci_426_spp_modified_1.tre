@@ -1,0 +1,96 @@
+
+You are using a proportion of Invariable sites estimate, although I don't
+like it. The likelihood epsilon "-f e" will be automatically lowered to 0.001
+to avoid unfavorable effects caused by simultaneous optimization of alpha and P-Invar
+
+
+IMPORTANT WARNING: Sequences Oxalis_cf_peduncularis_Emshwiller850 and Oxalis_tabaconasensis_Emshwiller786 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\5_concatenated_sequences\8_loci_426_spp_modified.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 3474 distinct alignment patterns
+
+Found 0 invariant alignment patterns that correspond to 0 columns 
+Proportion of gaps and completely undetermined characters in this alignment: 67.40%
+
+RAxML rapid bootstrapping algorithm
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 1000 rapid bootstrap inferences
+
+All free model parameters will be estimated by RAxML
+GAMMA+P-Invar model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA+P-Invar Model parameters will be estimated up to an accuracy of 0.0010000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 3474
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+C:\Users\eduar\AppData\Local\Programs\raxmlgui\resources\static\bin\raxmlHPC-PTHREADS-SSE3.exe -T 8 -x 615101 -p 615101 -N 1000 -m GTRGAMMAI -O -o Afrostyrax_kamerunensis_Harris4130,Hua_gabonii_Wieringa3177 -n 8_loci_426_spp_modified_1.tre -s C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\5_concatenated_sequences\8_loci_426_spp_modified.fasta -w C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml01\bootstrap 
+
+
+
+Time for BS model parameter optimization 13.552042
+Bootstrap[0]: Time 46.917816 seconds, bootstrap likelihood -71446.204026, best rearrangement setting 9
+Bootstrap[1]: Time 30.428226 seconds, bootstrap likelihood -66852.187801, best rearrangement setting 15
+Bootstrap[2]: Time 34.402197 seconds, bootstrap likelihood -67948.814403, best rearrangement setting 13
+Bootstrap[3]: Time 31.672121 seconds, bootstrap likelihood -66295.817151, best rearrangement setting 13
+Bootstrap[4]: Time 24.012943 seconds, bootstrap likelihood -68212.964926, best rearrangement setting 5
+Bootstrap[5]: Time 28.331120 seconds, bootstrap likelihood -65754.810323, best rearrangement setting 12
+Bootstrap[6]: Time 26.328798 seconds, bootstrap likelihood -68496.965600, best rearrangement setting 8
+Bootstrap[7]: Time 30.602833 seconds, bootstrap likelihood -69331.540817, best rearrangement setting 11
+Bootstrap[8]: Time 27.575689 seconds, bootstrap likelihood -65337.643699, best rearrangement setting 7
+Bootstrap[9]: Time 29.878153 seconds, bootstrap likelihood -66220.441938, best rearrangement setting 11
+Bootstrap[10]: Time 27.144323 seconds, bootstrap likelihood -64131.616729, best rearrangement setting 6
+Bootstrap[11]: Time 29.973276 seconds, bootstrap likelihood -66790.196711, best rearrangement setting 12
+Bootstrap[12]: Time 29.178379 seconds, bootstrap likelihood -66159.944009, best rearrangement setting 8
+Bootstrap[13]: Time 31.433403 seconds, bootstrap likelihood -65031.802452, best rearrangement setting 15
+Bootstrap[14]: Time 33.931860 seconds, bootstrap likelihood -67438.838240, best rearrangement setting 15
+Bootstrap[15]: Time 29.216778 seconds, bootstrap likelihood -70875.551603, best rearrangement setting 12
+Bootstrap[16]: Time 28.109875 seconds, bootstrap likelihood -69174.100359, best rearrangement setting 8
+Bootstrap[17]: Time 28.608467 seconds, bootstrap likelihood -65829.938986, best rearrangement setting 12
+Bootstrap[18]: Time 28.348888 seconds, bootstrap likelihood -69250.049498, best rearrangement setting 9
+Bootstrap[19]: Time 28.766212 seconds, bootstrap likelihood -65640.663806, best rearrangement setting 12
+Bootstrap[20]: Time 28.553883 seconds, bootstrap likelihood -66563.591379, best rearrangement setting 8
+Bootstrap[21]: Time 31.411688 seconds, bootstrap likelihood -68529.115227, best rearrangement setting 11
+Bootstrap[22]: Time 30.241352 seconds, bootstrap likelihood -67828.879896, best rearrangement setting 13
+Bootstrap[23]: Time 29.134403 seconds, bootstrap likelihood -67699.889473, best rearrangement setting 10
+Bootstrap[24]: Time 29.890747 seconds, bootstrap likelihood -69095.384107, best rearrangement setting 10
+Bootstrap[25]: Time 32.109877 seconds, bootstrap likelihood -68497.052348, best rearrangement setting 9
+Bootstrap[26]: Time 31.290449 seconds, bootstrap likelihood -67034.552395, best rearrangement setting 11
