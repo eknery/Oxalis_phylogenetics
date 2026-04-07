@@ -32,3 +32,4 @@ for(locus_name in all_loci){
   ### check!
   print(paste0("Name fixed: ", locus_name)) 
 }
+

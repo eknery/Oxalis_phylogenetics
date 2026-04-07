@@ -573,7 +573,15 @@ ccaggaacgg ataagaataa aatgaaatag aaagatccag actttgtttt cagtcagaaa
 gtagaagtta agacaaaaaa aatcgaccct tcgagtattc taaattgtac gagaaaaatg
 agaggaagag aagcacataa aatatataaa tatatataac atctatattg aattgcagat
 acagaaatga tagaatcatt tccaaat
->Oxalis_griffithii_Aoki35
+>Oxalis_griffithii_subsp_formosana_Aoki181
+gataagaata aaatgaaata aaaagatcca tttcagtcag aaagtagaag ttaagaaaaa
+aaaaatcgac ccttcgagta ttccaaattg tacgagaaaa atgagaggaa gataagcaca
+taagatatat taatatatat aacatctata ttgaattgca gatacagaaa tgatagaatc
+atttccaaat agggcctcgg atagagatga aaaagaagat agacaaaaaa tgaaaataag
+ataagaggaa acagtttact ttttagatat tggtatctaa tcaattcaat ggtttcacca
+taatcatatc aatggtttca ccataatcat aatataaata aaagaaaaag gagaataatg
+aaatcctaat ctcaaaacaa atgggggata tggcgaaatc ggtag
+>Oxalis_griffithii_subsp_griffithii_Aoki35
 gcttacacat tacataatag aaattgtaca tgcataggaa ttccgtttta aagtaaatta
 ctgaaatctt agctattaac tgctcattct tagttattcc taattaatat agaaaataat
 aagattaagt atagaatttc aatttctttt tcagtttgaa attcaaatgt catttgaatt
@@ -588,14 +596,6 @@ gaatcatttc caaatagggc ctcggataga gatgaaaaag aagatagaca aaaaatgaaa
 ataagataag aggaaacagt ttacttttta gatattggta tctaatcaat tcaatggttt
 caccataatc atatcaatgg tttcaccata atcataatat aaataaaaga aaaaggagaa
 taatgaa
->Oxalis_griffithii_subsp_formosana_Aoki181
-gataagaata aaatgaaata aaaagatcca tttcagtcag aaagtagaag ttaagaaaaa
-aaaaatcgac ccttcgagta ttccaaattg tacgagaaaa atgagaggaa gataagcaca
-taagatatat taatatatat aacatctata ttgaattgca gatacagaaa tgatagaatc
-atttccaaat agggcctcgg atagagatga aaaagaagat agacaaaaaa tgaaaataag
-ataagaggaa acagtttact ttttagatat tggtatctaa tcaattcaat ggtttcacca
-taatcatatc aatggtttca ccataatcat aatataaata aaagaaaaag gagaataatg
-aaatcctaat ctcaaaacaa atgggggata tggcgaaatc ggtag
 >Oxalis_grisea_Vaio512
 ttgtacatgc ataggaattc cgttttaaag taaattactg aaatcttagc tattaactgc
 tcattcgtag ttattccttt cttagttctt cctaattaat atagaaaaga ataatctaaa
@@ -1057,7 +1057,7 @@ gatctagact ttgttttcag tcagaaagta taagttaaga caaaaaaaat cgacccttcg
 agtattcaaa attatacgat aaaaatgaga ggaagagaag cacataagat atatgaatat
 atataacatc tatattgaat tgcagataaa gaaatgatag aattatttca aaatagggcc
 tcggatagag ctgaaaaaga agatagacaa aaaagaaaat aaga
->Oxalis_ptychoclada_var_ptychoclada_Emshwiller916
+>Oxalis_ptychoclada_Emshwiller916
 cttacacatt acataataga aattgtacat gcataggaat tccgttttaa agtaaattac
 tgaaatctta gctattaact gctcattctt agttattcct aattaatata gaaaagaata
 atataaatat agaatttcaa attatttttc agtttgaaat tcaaataaca tttgaattgt
@@ -1182,7 +1182,7 @@ taagaataca atgaaataaa aagatccaga cttttttcag tcagtaaagt agaagttaag
 accaaaaaaa tcgacccttc gagtattcaa aatagtacga taaaaatgag aggaagataa
 gcacataaga tatattcata tatataacat ctatattgaa ttgcagatac agaaatgata
 gaatcattta caaatagggc ctcggataga gatgaaaaag aa
->Oxalis_stricta_GardnerstrictaB
+>Oxalis_stricta_BR0000013234621
 ttgtacatgc ataggaattc cattttaaag taaattactg aaatcttagc tattaaccgc
 tcatttttag ttattcctaa ttaatataga aaagaataat agaaatatct aatttcaaat
 tctttttcat ttttaaattc aaatgacatt tgaatttttg ttctatttta tttacttact
@@ -1283,7 +1283,7 @@ tattgaattg cagatacaga aatgatagaa tcatttccaa atagggcctc gtatagagat
 gaaaaagaag atagacaaaa aagaaaataa gattaagagg aaacacttta ctttttcgat
 atcggtatct aatcaattca atggtttcac cataatatac accataatat aaatgaaaga
 aaaaagataa taacgaaatc ctaatctc
->Oxalis_tuberosa_Emshwiller97:50-02
+>Oxalis_tuberosa_Emshwiller97/50-02
 ttgtacatgc ataggaattc cgttttaaag taaattactg aaatcttagc tattaactgc
 tcattcttag ttattcctaa ttaatataga aaagaataat ataaatatag aatttcaaat
 tatttttcag tttgaaattc aaataacatt tgaattgtta tttatttact ctattttaca
@@ -1322,3 +1322,15 @@ attgaattgc agatacagaa atgatagaat catttccaaa tagggccccg tatagagatg
 aaaaagaaga tagacaaaaa agaaaataag attaagagga aacactttac tttttcgata
 tcggtatcta atcaattcaa tggtttcacc ataatataca ccataatata aatgaaagaa
 aaaagataat aacgaaatcc taatctc
+>Oxalis_virgosa_HeiblMunozToro04-042
+attttacatg cataggaatt ccgttttaaa gtaaattact gaaatcttag ctattaactg
+ctcattctta gttattccta attaatatag aaaagaataa tataaatata gaatttcaaa
+ttatttttca gtttgaaatt caaataacat ttgaattgtt atttatttac tctattttac
+aattaacttt caatttaatt gaaatttgat ctaattttat tccataccat attagattag
+aattctaaat agatatagaa ttcttagatt aatatcttat tataaatttt tcatttcaac
+caattttatt aattaataga aatgtaaaat agtgaaatgt aagaacttta agaaatttcc
+attttagtta tgttatagag agtccacccc caggaaagga taagaataaa atgaaataaa
+aagatccaga cttttttcag tcagaaaata gaagttaaga caaaaaaaat cgacccttcg
+agtattcaaa atagtacgat aaaaatgaga ggaagataag cacataagat atattcatat
+atataacatc tatattgaat tgcagataca gaaatgatag aatcatttcc aaataaggcc
+tcggatagag atgaaaaag

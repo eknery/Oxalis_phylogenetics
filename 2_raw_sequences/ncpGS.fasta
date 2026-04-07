@@ -11,42 +11,6 @@ cagggcgatt ggaatggagc tggatgccac accaactaca ggtaaatttg tgatttcgtt
 gcttcttttc ttaaagtcat catatgctgg aaagaattgt aagaactgaa tatttccgat
 tcacagtaca aagagcatga gagatgaggg tggctttgaa gtaatcaaga aggcaatttt
 gaatctctct
->Oxalis_cf_melilotoides_Emshwiller190
-ctggcataaa tattagtggc actaatggag aggttatgcc agggcaggtt tgtctcctca
-ctagttgcca tatacttctg ctagtttaca cggatgttat atctttttgc tgacaatgtt
-tagtttttgc acttgttttg cagtgggaat atcaagtggg tcctagcgta ggcattgaag
-ctggcgatca tatctgggct tcaagataca ttcttgaggt aactcatacc acttctttat
-gggaacccgt gtctctagga aaattcntaa aagctaaata catatattct tatttatgtt
-ctttctcctt tatttcgaca gagaattacc gaacaagctg gcgttgtcct gaccctggat
-ccaaaaccga ttgacgtaaa catacaaact ttcttctgct tctttccatt aaagcaattg
-ggcaactctc actttcttcc gtgatttgac agggcgattg gaatggagct ggatgccaca
-ccaactacag gtaaatttgg gatttcgttg cttcttttct taaagtcatc tcatgctaga
-aagaattata aaaactgaat ctttccgatt tacagtacaa agagtatgag agatgagggt
-ggctttgaag taatcaagaa ggcaattttg a
->Oxalis_cf_peduncularis_Emshwiller850
-cttatacgct ggcataaata ttagtggcac taatggagag gttatgccag ggcaggtttg
-tctcctcact agttgccata tacttctgct agtttacacg gatgttatat ctttttgctg
-acaatgttta gtttttgcac ttgttttgca gtgggaatat caagtgggtc ctagcgtagg
-cattgaagct ggcgatcata tctgggcttc aagatacatt cttgaggtaa ctcataccat
-ttctttatgg gaacccgtgt ctctaggaaa atttgtaaaa gctaaataca tatattctta
-tttatgttct ttctccttta tttcgacaga gaattaccga acaagctggc gttgtcctga
-cgctggatcc aaaaccgatt gacgtaaaca taaaaacttt cttctgcttc tttccattaa
-agcaattggc aactctcact ttcttttgtg atttgacagg gcgattggaa tggagctgga
-tgccacacca actacaggta aatttgggat ttcgttgctt cttttcttaa agtcatctca
-tatgctagaa agaattataa aaactgaatc tttccaattt acagtacaaa gagtatgaga
-gatgagggtg gctttgaagt aatcaagaag gcaattttca atctctct
->Oxalis_cf_tuberosa_Emshwiller259
-cttatacgct ggcataaata ttagtggcac taatggagag gttatgccag ggcaggtttg
-tctcctcact agttgccata tacttctgct agtttacacg gatgttatat ctttttgctg
-acaatgttta gtttttgcac ttgttttgca gtgggaatat caagtgggtc ctagcgtagg
-cattgaagct ggcgatcata tctgggcttc aagatacatt cttgaggtaa ctcataccat
-ttctttatgg gaacccgtgt ctctaggaaa attcgtaaaa gctaaataca tacggagtat
-attcttattt atgttctttc tcctttattt cgacagagaa ttaccgaaca agctggcgtt
-gtcctgaccc tggatccaaa accgattgac gtaaacatac aaactttctt ctgcttcttt
-ccattaaagc aattgggcaa ctctcatttt cttccgtgat ttgacagggc gattggaatg
-gagctggatg ccacaccaac tacaggtaaa tttgggattt cgttgcttct tatctttaag
-tcatctcata tgctagaaag aattataaaa actggatctt tccaatttac agtacaaaga
-gtatgagaga tgagggtggc tttgaagtaa tcaagaaggc aattttcaat ctctct
 >Oxalis_cuzcensis_Emshwiller532
 cttatacgct ggcataaata ttagtggcac taatggagag gttatgccag ggcaggtttg
 tctcctcact agttgccata tacttctgct agtttacacg gatgttatat ctttttgctg
@@ -131,19 +95,18 @@ agcaattggg caactctcac tttcttccgt gatttgacag ggcgattgga atggagctgg
 atgccacacc aactacaggt aaatttggga tttcgttgct tcttttctta aagtcatctc
 atgctagaaa gaattataaa aactgaatct ttccgattta cagtacaaag agtatgagag
 atgagggtgg ctttgaagta atcaagaagg caattttgaa tctctct
->Oxalis_nubigena_Emshwiller345
-ggcntaaata ttannggcac taatggagag gttatgccag ggcaggtttg tctcctcact
-agttgacata tacttctgct agtttacacg gatgttatat ctttttgctg acaatgttta
-gtttttgcac ttgttttgca gtgggaatat caagtgggtc ctagcgtagg cattgaagct
-ggcgatcata tctgggcttc aagatacatt cttgaggtaa ctgtaactca taccacttct
-ttatgggaac ccgtgtctct aggaaaattc ccgtgtctct aggaaaattc gtaaaagcta
-aatacatata ttcttattta tgttctttct cctttatttc aacagagaat taccgaacaa
-gctggcgttg tcctgaccct ggatccaaaa ccgattgacg taaacataca aactttcttc
-tgcttctttc cattaaagca attggccaac tctcactttc ttccgtgatt tgacagggcg
-attggaatgg agctggatgc cacaccaact acaggtaaat tcgggatttc gttgcttctt
-ttcttaaagt catctcatat gctagtaaga attataaaaa ctgaatcttt ccgatttaca
-gtacaaagag tatgagagat gagggtggct ttgaagtaat caagaaggca attttgaatc
-tctct
+>Oxalis_melilotoides_Emshwiller190
+ctggcataaa tattagtggc actaatggag aggttatgcc agggcaggtt tgtctcctca
+ctagttgcca tatacttctg ctagtttaca cggatgttat atctttttgc tgacaatgtt
+tagtttttgc acttgttttg cagtgggaat atcaagtggg tcctagcgta ggcattgaag
+ctggcgatca tatctgggct tcaagataca ttcttgaggt aactcatacc acttctttat
+gggaacccgt gtctctagga aaattcntaa aagctaaata catatattct tatttatgtt
+ctttctcctt tatttcgaca gagaattacc gaacaagctg gcgttgtcct gaccctggat
+ccaaaaccga ttgacgtaaa catacaaact ttcttctgct tctttccatt aaagcaattg
+ggcaactctc actttcttcc gtgatttgac agggcgattg gaatggagct ggatgccaca
+ccaactacag gtaaatttgg gatttcgttg cttcttttct taaagtcatc tcatgctaga
+aagaattata aaaactgaat ctttccgatt tacagtacaa agagtatgag agatgagggt
+ggctttgaag taatcaagaa ggcaattttg a
 >Oxalis_oblongiformis_Emshwiller797
 tggcataaat attagtggca ctaatggaga ggttatgcca gggcaggttt gtctcctcac
 tagttgccat atacttctgc tagtttacac ggatgttata tctttttgct gacaatgttt
@@ -193,18 +156,18 @@ agcaattggg caactctcac tttcttccgt gatttgacag ggcgattgga atggagctgg
 atgccacacc aactacaggt aaatttggga tttcgttgct tcttatctta aagtcatctc
 atatgctaga aagaattata aaaactgaat ctttccaatt tacagtacaa agagtatgag
 agatgagggt ggctttgaag taatcaagaa ggcaattttc aatctctct
->Oxalis_peduncularis_var_pilosa_Emshwiller791
-cttatacgct ggcataaata ttagtggcac taatggagag gttatgccag ggcaggtttg
-tctcctcact agttgccata tacttctgct agtttacacg gatgttatat ctttttgctg
-acaatgttta gtttttgcac ttgttttgca gtgggaatat caagtgggtc ctagcgtagg
-cattgaagct ggcgatcata tctgggcttc aagatacatt cttgaggtaa ctcataccat
-ttctttatgg gaacccgtgt ctctagraaa atttgtaaaa gctaaataca tatattctta
-tttatgttct ttctccttta tttcgacaga gaattaccga acaagctggc gttgtcctga
-cgctggatcc aaaaccgatt gacgtaaaca tagaaacttt cttctgcttc tttccattaa
-agcaattggc aactctcact ttcttttgtg atttgacagg gcgattggaa tggagctgga
-tgccacacca actacaggta aatttgggat ttcgttgctt cttttcttaa agtcatctca
-tatgctagaa agaattataa aaactgaatc tttccaattt acagtacaaa gagtatgaga
-gatgagggtg gctttgaagt antcacgaag gcaattttca atctctct
+>Oxalis_peduncularis_Emshwiller466
+tggcataaat attagtggca ctaatggaga ggttatgcca gggcaggttt gtctcctcac
+tagttgccat atacttctgc tagtttacac ggatgttata tctttttgct gacaatgttt
+agtttttgca cttgttttgc agtgggaata tcaagtgggt cctagcgtag gcattgaagc
+tggcgatcat atctgggctt caagatacat tcttgaggta actcatacca tttctttatg
+ggaacccgtg tctctaggaa aatttgtaaa agctaaatac atatattctt atttatgttc
+tttctccttt atttcgacag agaattaccg aacaagctgg cgttgtcctg acgctggatc
+caaaaccgat tgacgtaaac ataaaaactt tcttctgctt ctttccatta aagcaattgg
+caactctcac tttcttttgt gatttgacag ggcgattgga atggagctgg atgccacacc
+aactacaggt aaatttggga tttcgttgct tcttttctta aagtcatctc atatgctaga
+aagaattata aaaactgaat ctttccaatt tacagtacaa agagtatgag agatgaggga
+atctctct
 >Oxalis_petrophila_Emshwiller933
 acgctggcat aaatattagt ggcactaatg gagaggttat gccagggcag gtttgtctcc
 tcactagttg ccatatactt ctgctagttt acacggatgt tatatctttt tgctgacaat
@@ -241,18 +204,6 @@ agcaattggc aactctcact ttcttccgtg atttgacagg gcgattggaa tggagctgga
 tgccacacca actacaggta aattttgnnt ttcgttgctt cttttcttaa agtcatctca
 tatgctagaa agaantataa aaactgaatc tttccaattt acagtacaaa gagtatgaga
 gatgagggtg gctttgaagt aatcaagaag
->Oxalis_ptychoclada_var_trichocarpa_Emshwiller600
-cttatacgct ggcataaata ttagtggcac taatggagag gttatgccag ggcaggtttg
-tctcctcact agttgccaya tacttctgct agtttacacg gatgttatrt ctttttgctg
-acaatgttta gtttttgcac ttgttttgca gtgggaatat caagtgggtc ctagcgtagg
-cattgaagct ggcgatcata tctgggcttc aagatacatt cttgaggtaa ctcataccat
-ttctttatgg gaacccgtgt ctctaggaaa atttgtaaaa gctaaataca tatattctta
-tttatgttct ttctccttta tttcgacaga gaattaccga acaagctggc gttgtcctaa
-cgctggatcc aaaaccgatt gacgtaaaca taaaaacttt cttctgcttc tttccattaa
-agcaattggc aactctcact ttcttttgtg atttgacagg gcgattggaa tggagctgga
-tgccacacca actacaggta aatttgggat ttcgttgctt cttttcttaa agtcatctca
-tatgctagaa agaattataa aaactgaatc tttccaattt acagtacaaa gagtatgaga
-gatgagggtg gctttgaagt aatcaagaag gcaattttca atctctct
 >Oxalis_staffordiana_Emshwiller512
 attagtggca ctaatggaga ggttatgcca gggcaggttt gtctcctcac tagttgccat
 atacttctgc tagtttacac ggatgttata tctttttgct gacaatgttt agtttttgca
@@ -289,18 +240,6 @@ agcaattggc aactctcact ttcttttgtg atttgacagg gcgattggaa tggagctgga
 tgccacacca actacaggta aatttgggat ttcgttgctt cttttcttaa agtcatctca
 tatgctagaa agaattataa aaactgaatc tttccaattt acagtacaaa gagtatgaga
 gatgagggtg gctttgaagt aatcaagaag gcaattttca atctctct
->Oxalis_teneriensis_Emshwiller511
-catanatatt agtggcacta atggagaggt tatgccaggg caggtttgtc tcctcactag
-ttgccatata cttctgctag tttacacgga tgttatatct ttttgctgac aatgtttagt
-ttttgcactt gttttgcagt gggaatatca agtgggtcct agcgtaggca ttgaagctgg
-cgatcatatc tgggcttcaa gatacattct tgaggtaact cataccattt ctttatggga
-acccatgtct ctaggaaaat tcgtaaaagc taaatacata tattcttatt tatgttcttt
-ctcctttatt tcgacagaga attaccgaac aagctggcgt tgtcctgacc ctggatccaa
-aaccgattga cgtaaacata caaactttct tctgcttctt tccattaaag caattggnnn
-nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-nnnnnnnnnn nnnnnnnttt cgttgcttct twtcttwaag tcatctcata tgctagaaag
-aantataaaa actgaatctt tccaatttac agtacaaaga gtatgagaga tgagggtggc
-tttgaagtaa tcaagaaggc natttncaat ctctct
 >Oxalis_weberbaueri_Emshwiller746
 cttatacgct ggcataaata ttagtggcac taatggagag gttatgccag ggcaggtttg
 tctcctcact agttgccata tacttctgct agtttacacg gatgttatat ctttttgctg

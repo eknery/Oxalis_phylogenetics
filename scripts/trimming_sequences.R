@@ -12,7 +12,7 @@ dir_out = "4_trimmed_sequences/"
 all_loci = list.files(path = paste0(dir_input), pattern = ".fasta")
 
 ### % of missing data to remove a site
-threshold = 0.5 #original 0.5
+threshold = 0.9 #original 0.5
 
 ### trimming loci in loop
 for(i in 1:length(all_loci) ){

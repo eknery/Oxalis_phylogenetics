@@ -11,8 +11,15 @@ dir_out = "5_concatenated_sequences/"
 ### list file names
 all_loci = list.files(path = paste0(dir_input), pattern = ".fasta")
 
+### plastid only?
+plastid = T
+if(plastid){
+  all_loci = all_loci[!all_loci %in% "ITS.fasta"]
+}
 ### getting all species names across loci
 all_spp_names = c()
+
+### loop over loci
 for(i in 1:length(all_loci)){
   locus_name = all_loci[i]
   one_locus = read.fasta(paste0(dir_input, locus_name))  

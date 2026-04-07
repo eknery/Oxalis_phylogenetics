@@ -1,6 +1,0 @@
-The analysis was run using raxmlGUI 2.0 (version 2.0.16) as follows:
-Analysis: ML search
-Binary: raxmlHPC-PTHREADS-SSE3.exe version 8.2.12
-Results saved to: C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml
-RAxML was called with these arguments:
-1.) -T 8 -f d -m GTRGAMMAI -N 10 -O -p 139797 -n 8_loci_426_spp.tre -o Afrostyrax_kamerunensis_Harris4130,Hua_gabonii_Wieringa3177 -s "C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\5_concatenated_sequences\8_loci_426_spp_modified.fasta" -w "C:\Users\eduar\OneDrive\Documents\GitHub\Oxalis_phylogenetics\6_ml_phylogenies\raxml"
