@@ -8,7 +8,7 @@ dir_input = "1_selected_accessions/"
 dir_out = "2_raw_sequences/"
 
 ### read acessions table
-best_acc = read.csv(paste0(dir_input, "best_acc.csv") )
+best_acc = read.csv(paste0(dir_input, "best_acc2.csv") )
 
 ############################### GETTING SEQUENCES #############################
 
@@ -67,3 +67,4 @@ for(locus_name in all_loci){
   ### check
   print(paste0("Locus complete: ", locus_name))
 }
+
