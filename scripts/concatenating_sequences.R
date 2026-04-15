@@ -11,11 +11,15 @@ dir_out = "5_concatenated_sequences/"
 ### list file names
 all_loci = list.files(path = paste0(dir_input), pattern = ".fasta")
 
-### plastid only?
-plastid = F
-if(plastid){
-  all_loci = all_loci[!all_loci %in% "ITS.fasta"]
+### select?
+locus_filter = "plastid"
+if(locus_filter == "plastid"){
+  all_loci = all_loci[!all_loci %in% c("ITS.fasta","ncpGS.fasta","rbcL.fasta")]
 }
+if(locus_filter == "nuclear"){
+  all_loci = all_loci[all_loci %in% c("ITS.fasta","ncpGS.fasta")]
+}
+
 ### getting all species names across loci
 all_spp_names = c()
 
@@ -60,7 +64,6 @@ for(i in 1:length(all_loci) ){
 
 ### initial locus
 conc_loci = complete_loci[[1]]
-
 ### add following loci
 for(i in 2:length(complete_loci)){
   adding_locus = complete_loci[[i]]
@@ -68,10 +71,8 @@ for(i in 2:length(complete_loci)){
     conc_loci[[sp_name]] = c(conc_loci[[sp_name]], adding_locus[[sp_name]])
   }
 }
-
 ### number of loci
 n_loci = length(all_loci)
-
 ### number of species
 n_spp = length(all_spp_names)
 
