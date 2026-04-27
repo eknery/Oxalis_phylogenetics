@@ -7,7 +7,7 @@ if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 if(!require("ips")) install.packages("ips"); library("ips")
 
 ### file names
-dir_input = "7_ml_phylogenies/raxml - complete_8_loci_421_spp/"
+dir_input = "7_ml_phylogenies/"
 tree_name = "bestTree_support_unrooted.tre"
 
 ### import
