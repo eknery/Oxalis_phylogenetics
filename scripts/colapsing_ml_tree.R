@@ -15,7 +15,7 @@ tree = read.tree(file = paste0(dir_input, tree_name))
 plot(tree, cex=0.1)
 
 ### cutoff for collaping
-cutoff = 90
+cutoff = 75
 ### colapse!
 ctree = collapseUnsupportedEdges(
   phy = tree,
