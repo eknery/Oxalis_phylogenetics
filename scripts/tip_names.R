@@ -25,17 +25,19 @@ new_label = c()
 for(i in 1:length(splited)){
   last_index = length(splited[[i]])
   newname = paste0(splited[[i]][-last_index], collapse = "_")
+  newname = gsub(pattern= "'", replacement = "", x = newname)
   new_label = c(new_label, newname)
 }
 
 ### replace tip labels
-tree$tip.label = new_label
+newtree = tree
+newtree$tip.label = new_label
 
 ### check tree
-plot(tree, cex=0.1)
+plot(newtree, cex=0.1)
 
 ### export 
 write.tree(
-  phy =  tree,
+  phy =  newtree,
   file = paste0(dir_input,"mcc_clean.tre")
 )
