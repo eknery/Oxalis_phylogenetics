@@ -658,7 +658,7 @@ atatctttga gcaaggaatc cccatttgaa tgatttacaa tccatatcat tactcgtact
 gaaacttaca ttttgaagat caaaaaaatg ggtaaaactt tgtagtactt ttttttcgtc
 tttttaattg acatagacct aagtcatcta ataaaatgag gatgataggt cgggatagct
 cagctggtag agcagaggac tgaa
->Oxalis_bifrons_subsp_bifrons_Fiaschi3633
+>Oxalis_bifrons_Fiaschi3633
 aattaaaaaa gggcaatcct gagccaaatc ctcttttccg aaaacaaaca aagtttgcga
 aagcgagaat aaaaaaggat aggtgcagag actcaacgga agttattcta aaatttacaa
 atagagttga ctgcgttgcg ttagtaaaaa aatcctttac taaaaattcc agaaaggata
@@ -2268,22 +2268,6 @@ tttgagcaag gaatccccgt ttgaatgatt tacaatccat atcaatactc gtactgaaac
 ttacattttg argatcaaaa aaatgggtaa aactttgtag tacttttttt tcgtcttttt
 aattgacata gacctaagtc atctaataaa atgaggatga taggtcggga tagctcagct
 ggtagagcag aggactgaa
->Oxalis_goyazensis_Cabral100
-ttaattggat tgagccttgg tatggaaact tactaagtga gaactttcaa attcagagaa
-accctggaat taaaaatggg caatcctgag ccaaatcctc ttttccgaaa acaaagtttg
-cgaaagcgaa aagcaaaaag gataggtgca gagactcaac ggaagctatt ctcgaattta
-caaatagagt tgactgcgtt gcgttagtaa ataaatcctt ccctcaaaat tccagaaagg
-ataaacccat atacatacgt atacgtactg aaatactatt tcaaatgatt aatgatgacc
-caaatctatc ttttttattc aattcaaaaa aatgaaagat ttattgtgaa tcaattcata
-gaataaagat agagtcccat tctacatgtc aatattgaca acaatgaaat ttatagtaag
-aggaaaatcc gtcgacttta gaaatcgtga gggttcaagt ccctctatcc ccaaaaaggc
-ccctttgact ccctaattat tttttctctc ttttcattaa caattcaaaa tttcttatct
-ttctcattca ttctactctt tcacaaacaa atggatcgaa gtgtaaaatt tttttcttat
-tcttaccaca agctttgtga tagatatgat acacatacaa atgaatatct ttgagcaagg
-aatccccatt tggatgattt ttaatccata tcattactcg tactgaaact tacattttga
-agatcaaaaa aattggtaaa acattgtaag actttttttt tcgtcttttt aattgacata
-gacctaagtc atctcctaaa atgaggatag gtcggaaatg gtcgggatag ctcagctggt
-agagcagagg actgaa
 >Oxalis_gracilifolia_Cabral193
 tacggactta attggattga gccttggtat ggaaacttac taagtgagaa ctttcaaatt
 cagagaaacc ctggaattaa aaatgggcaa tcctgagcca aatcctcttt tccgaaaaca

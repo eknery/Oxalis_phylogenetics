@@ -1,0 +1,865 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=427;
+		Taxlabels
+			Aceratium_ferrugineum_Harrington296
+			Ackama_rosifolia_UnknownN
+			Agelaea_borneensis_AS166
+			Aristotelia_fruticosa_Chase781
+			Averrhoa_carambola_NC033350
+			Biophytum_abyssinicum_BIOAB
+			Brunellia_antioquensis_MN615725
+			Brunellia_trianae_MN585217
+			Caldcluvia_paniculosa_UnknownN
+			Callicoma_serratifolia_CUN120
+			Cephalotus_follicularis_ON149879
+			Ceratopetalum_apetalum_UnknownN
+			Cnestidium_rufescens_DB0784
+			Cnestis_polyphylla_Abbott9113
+			Connarus_panamensis_DB0282
+			Crinodendron_patagua_AllenNSW605484
+			Cunonia_balansae_CUN069
+			Dapania_pentandra_DAPEN
+			Davidsonia_pruriens_Carlsen3197
+			Dubouzetia_campanulata_Crayn745
+			Elaeocarpus_decipiens_MZ334669
+			Ellipanthus_glabrifolius_CPG00356
+			Eucryphia_cordifolia_CONC125000
+			Jollydora_glandulosa_PM5146
+			Lamononia_ternata_Blum10-127
+			Opocunonia_papuana_UnknownN
+			Oxalis_acetosella_HeiblBotGardenMunich01
+			Oxalis_adenodes_Dreyer716
+			Oxalis_adenophylla_HeiblPfanzelt05-024
+			Oxalis_adpressipila_Kuhlmann6587h
+			Oxalis_adspersa_Dreyer635
+			Oxalis_alpina_Gardner45
+			Oxalis_alstonii_Vaio413
+			Oxalis_alvimii_Fiaschi4597
+			Oxalis_ambigua_Oberlander0140
+			Oxalis_amblyodonta_Bayer7397
+			Oxalis_amblyosepala_Oberlander0168
+			Oxalis_amorimii_Fiaschi5457
+			Oxalis_andina_Emshwiller315
+			Oxalis_animarum_Cabral275
+			Oxalis_annae_Mucina170903/3
+			Oxalis_arbuscula_HeiblPfanzelt05-050
+			Oxalis_argentina_Emshwiller235
+			Oxalis_argillacea_Dreyer786
+			Oxalis_argyrophylla_Oberlander0040
+			Oxalis_aridicola_Dreyer672
+			Oxalis_artemioides_Sartor81
+			Oxalis_articulata_forma_crassipes_Emshwiller463
+			Oxalis_articulata_subsp_articulata_Vaio505
+			Oxalis_articulata_subsp_rubra_Emshwiller146
+			Oxalis_atacamensis_Heibl01-054
+			Oxalis_attaquana_Bayer7007
+			Oxalis_aurea_Dreyer771
+			Oxalis_aureoflava_Munoz4871
+			Oxalis_barrelieri_Vaio517
+			Oxalis_bela-vitoriae_Fiaschi4606
+			Oxalis_bifida_Dreyer608
+			Oxalis_bifrons_Fiaschi3633
+			Oxalis_bifurca_Bellstedt764
+			Oxalis_bipartita_Vaio320
+			Oxalis_bisfracta_Emshwiller232
+			Oxalis_blackii_Costa115
+			Oxalis_blastorrhiza_Dreyer788
+			Oxalis_boliviana_Emshwiller310
+			Oxalis_bowiei_MO502cfbowiei
+			Oxalis_brasiliensis_EmshwillerBRAS2
+			Oxalis_bulbocastanum_Heibl01-071
+			Oxalis_bullulata_Dreyer792
+			Oxalis_burkei_Dreyer618
+			Oxalis_burtoniae_Oberlander0031
+			Oxalis_caerulea_Gardner39
+			Oxalis_caesariata_Fiaschi5273
+			Oxalis_caesia_Heibl02-012
+			Oxalis_calachaccensis_Emshwiller880X
+			Oxalis_callosa_Oberlander0120
+			Oxalis_camelopardalis_Oberlander0071
+			Oxalis_campicola_Dreyer780
+			Oxalis_campylorrhiza_Dreyer696
+			Oxalis_capillacea_Dreyer625
+			Oxalis_capixaba_Costa117
+			Oxalis_caprina_DreyerOberlander0001
+			Oxalis_cardenasiana_Wood22331
+			Oxalis_cathara_MO582cathara
+			Oxalis_cerradoana_Cabral259
+			Oxalis_cf_canaliculata_BayerN
+			Oxalis_cf_pulvinata_MO576cfpulvinata
+			Oxalis_cf_tragopoda_MO490cftragopoda
+			Oxalis_chachahuensis_MartinezCarretero1570
+			Oxalis_ciliaris_Dreyer613
+			Oxalis_ciliata_Cabral124
+			Oxalis_cinerea_Heibl03-095
+			Oxalis_cipoensis_Costa110
+			Oxalis_clavifolia_Oberlander0141
+			Oxalis_colatinensis_Fiaschi4625
+			Oxalis_commutata_Dreyer606
+			Oxalis_comosa_Mucina220901/30A
+			Oxalis_compacta_Teillier5013
+			Oxalis_compressa_BayerOberlander0009
+			Oxalis_comptonii_Dreyer802
+			Oxalis_confertifolia_Oberlander0075
+			Oxalis_confertissima_Fiaschi4478
+			Oxalis_conorrhiza_Vaio175
+			Oxalis_convexula_Oberlander0014
+			Oxalis_copiosa_Oberlander0021
+			Oxalis_cordata_Cabral125
+			Oxalis_cornicarpa_Fiaschi5442
+			Oxalis_corniculata_GardnerS1
+			Oxalis_cratensis_Vaio404
+			Oxalis_crocea_Dreyer693
+			Oxalis_cuneata_Dreyer791
+			Oxalis_cuzcensis_Emshwiller532
+			Oxalis_cytisoides_Cabral139
+			Oxalis_debilis_var_corymbosa_Vaio62
+			Oxalis_debilis_var_debilis_Emshwiller171
+			Oxalis_decaphylla_Rodriguez2610
+			Oxalis_decipiens_Vasques57
+			Oxalis_densa_Oberlander0169
+			Oxalis_densifolia_Cabral93
+			Oxalis_dentata_Cilliers0004
+			Oxalis_depressa_Oberlander0085
+			Oxalis_deserticola_Oberlander0114
+			Oxalis_desmodioides_Cabral194
+			Oxalis_diamantinae_Richetti61
+			Oxalis_dichotoma_Oberlander0052
+			Oxalis_dilatata_BayerOberlander0014
+			Oxalis_dillenii_Walter6565
+			Oxalis_dines_Helme1355
+			Oxalis_discolor_Gardner35
+			Oxalis_disticha_Oberlander0159
+			Oxalis_divaricata_Felix13386
+			Oxalis_divergens_Gardner58
+			Oxalis_dolichopoda_Emshwiller292
+			Oxalis_dombey_Cornejo10089
+			Oxalis_dregei_Mucina210903/11
+			Oxalis_droseroides_Oberlander0079
+			Oxalis_drummondii_Weller965
+			Oxalis_dumetorum_Mihoc7330
+			Oxalis_duriuscula_Oberlander0082
+			Oxalis_ebracteata_Dreyer644
+			Oxalis_eckloniana_Dreyer628
+			Oxalis_engleriana_Oberlander0010
+			Oxalis_enneaphylla_HeiblMunozToro04-045
+			Oxalis_eriocarpa_Vaio31
+			Oxalis_eriolepis_Emshwiller155
+			Oxalis_erosa_Cabral138
+			Oxalis_erythrorhiza_Zuloaga12781
+			Oxalis_exserta_Dreyer686
+			Oxalis_falcatula_Oberlander0096
+			Oxalis_famatinae_Zuloaga11970
+			Oxalis_fenestrata_MO1527
+			Oxalis_fergusoniae_Oberlander0111
+			Oxalis_fibrosa_Oberlander0051
+			Oxalis_flagellata_Emshwiller246
+			Oxalis_flava_Dreyer614
+			Oxalis_flaviuscula_Dreyer701
+			Oxalis_floribunda_subsp_floribunda_Vaio358
+			Oxalis_floribunda_subsp_ostenii_Vaio388
+			Oxalis_fontana_Whang30761
+			Oxalis_fourcadei_BeanVlok2046
+			Oxalis_frutescens_Vaio426
+			Oxalis_fruticosa_Fiaschi4658
+			Oxalis_furcillata_Oberlander0022
+			Oxalis_galeottii_Gardner60
+			Oxalis_gardneriana_Scatigna1336
+			Oxalis_geralensis_UnknownN
+			Oxalis_giftbergensis_Dreyer796
+			Oxalis_gigantea_HeiblMunozToro04-010
+			Oxalis_glabra_Mucina170601/2
+			Oxalis_glaucescens_Felix13539
+			Oxalis_goniorrhiza_Oberlander0157
+			Oxalis_gracilifolia_Cabral193
+			Oxalis_gracilipes_Dreyer645
+			Oxalis_gracilis_Oberlander123
+			Oxalis_grammopetala_Oberlander0156
+			Oxalis_grammophylla_Dreyer670
+			Oxalis_gregaria_Roe1597
+			Oxalis_griffithii_subsp_formosana_Aoki181
+			Oxalis_griffithii_subsp_griffithii_Aoki35
+			Oxalis_griffithii_subsp_taimonii_Wang4456
+			Oxalis_griffithii_subsp_wulingensis_Deng544
+			Oxalis_grisea_Vaio512
+			Oxalis_gyrorhiza_Heibl02-035
+			Oxalis_haedulipes_Mucina180903/9
+			Oxalis_hedysarifolia_Almeida1980
+			Oxalis_hedysaroides_Cornejo10079
+			Oxalis_helicoides_MO936
+			Oxalis_hepatica_Nuernberg1800
+			Oxalis_hernandesii_Gardner56
+			Oxalis_herrerae_Emshwiller459
+			Oxalis_heterophylla_BayerOberlander0008
+			Oxalis_hirsutibulba_MO1519
+			Oxalis_hirsutissima_Cordeiro987
+			Oxalis_hirta_Dreyer646
+			Oxalis_hispidula_Vaio44
+			Oxalis_holosericea_HeiblPfanzelt05-025
+			Oxalis_humbertii_Emshwiller604
+			Oxalis_hyalotricha_subsp_borealis_Melo4854
+			Oxalis_hyalotricha_subsp_hyalotricha_Cabral170
+			Oxalis_hygrophila_KumwendaDreyer0001
+			Oxalis_hypsophila_HeibPfanzelt05-040
+			Oxalis_idimae_Vasques78
+			Oxalis_imbricata_Oberlander0062
+			Oxalis_impatiens_Bilk382a
+			Oxalis_incana_HeiblPfanzelt05-045
+			Oxalis_incarnata_Emshwiller149
+			Oxalis_inconspicua_Dreyer707
+			Oxalis_inopinata_Fiaschi5544
+			Oxalis_itamarajuensis_Fiaschi4657
+			Oxalis_itatingae_Fiaschi4472
+			Oxalis_jacobinensis_Cabral226
+			Oxalis_jacquiniana_Gardner43
+			Oxalis_jasminifolia_Cornejo9331
+			Oxalis_johnstonii_Heibl01-080
+			Oxalis_kamiesbergensis_MO592cfkamiebergensis
+			Oxalis_knuthiana_Dreyer721
+			Oxalis_kollmannii_Vasques53
+			Oxalis_kuhlmannii_Fiaschi4662
+			Oxalis_laciniata_HeiblMunozToro04-047
+			Oxalis_lanata_Dreyer751
+			Oxalis_lasiandra_Gardner69
+			Oxalis_lasiopetala_Vaio87
+			Oxalis_lasiorrhiza_MO1555
+			Oxalis_lateriflora_Dreyer651
+			Oxalis_latifolia_Gardner38
+			Oxalis_laxa_var_hispidissima_Zuloaga12555
+			Oxalis_laxa_var_laxa_Heibl03-091
+			Oxalis_leonii_Costa122
+			Oxalis_leptocalyx_Oberlander0076
+			Oxalis_leptogramma_Dreyer617
+			Oxalis_leucolepis_Aoki420
+			Oxalis_lichenoides_Dreyer785
+			Oxalis_linarantha_Fiaschi3710
+			Oxalis_linearis_Dreyer679
+			Oxalis_livida_Oberlander0078
+			Oxalis_lomana_Gaspar2
+			Oxalis_longissima_Emshwiller64/247
+			Oxalis_loricata_HeiblPfanzelt05-006
+			Oxalis_lotoides_Emshwiller789
+			Oxalis_louisae_Dreyer708
+			Oxalis_lucumayensis_subsp_lucumayensis_Emshwiller485
+			Oxalis_lucumayensis_subsp_subiens_Emshwiller289
+			Oxalis_luteola_Oberlander0026
+			Oxalis_lutzii_Melo4829
+			Oxalis_macrocarpa_Gardner49
+			Oxalis_macrochaeta_Cabral96
+			Oxalis_magellanica_HeiblBotGardenMunich02
+			Oxalis_magnifica_Gardner68
+			Oxalis_mandioccana_Fiaschi4660
+			Oxalis_massoniana_Holmes0016
+			Oxalis_matancillae_HeiblMunozToro04-023
+			Oxalis_medicaginea_Emshwiller809
+			Oxalis_megalorrhiza_Gaspar173
+			Oxalis_meisneri_Oberlander0088
+			Oxalis_melanosticta_Dreyer622
+			Oxalis_melilotoides_Emshwiller190
+			Oxalis_micrantha_Heibl03-092
+			Oxalis_microcarpa_Cornejo9341
+			Oxalis_minuta_MO163minuta
+			Oxalis_mollendoensis_Ge18325
+			Oxalis_mollissima_Emshwiller359/x415
+			Oxalis_monochasiata_Fiaschi4585
+			Oxalis_monophylla_DreyerOberlander0003
+			Oxalis_monticola_Vaio20
+			Oxalis_morelosii_Perez4856
+			Oxalis_morenoensis_Heibl01-009
+			Oxalis_morronei_Zabala204
+			Oxalis_multicaulis_Oberlander0080
+			Oxalis_muscoides_Zuloaga12256
+			Oxalis_nahuelhuapiensis_Biganzoli2126
+			Oxalis_namaquana_Dreyer713
+			Oxalis_natans_Oberlander0160
+			Oxalis_nelsonii_Gardner66
+			Oxalis_neuwiedii_Almeida1336
+			Oxalis_nidulans_Dreyer752
+			Oxalis_niederleinii_Vaio190
+			Oxalis_nippponica_subsp_kantoensis_Aoki25
+			Oxalis_nivea_MO1462
+			Oxalis_nortieri_Oberlander0112
+			Oxalis_novemfoliolata_Heibl01-078
+			Oxalis_nubigena_Emshwiller701
+			Oxalis_obliquifolia_Bellstedt711
+			Oxalis_oblongiformis_Emshwiller797
+			Oxalis_obtriangulata_JNU140
+			Oxalis_obtusa_Dreyer691
+			Oxalis_occulta_Fiaschi5058
+			Oxalis_oculifera_Dreyer799
+			Oxalis_oligophylla_Dreyer797
+			Oxalis_orbicularis_Oberlander0066
+			Oxalis_oregana_Olmstead2003-33
+			Oxalis_oreocharis_Emshwiller583
+			Oxalis_oreophila_Dreyer666
+			Oxalis_ornithopus_HeiblMunozToro04-015
+			Oxalis_ortgiesii_Emshwiller458
+			Oxalis_orthopoda_Oberlander0068
+			Oxalis_oulophora_Emshwiller308
+			Oxalis_pachyrrhiza_Weigend8479
+			Oxalis_pallens_Dreyer654
+			Oxalis_palmifrons_Holmes0019
+			Oxalis_paludosa_Vaio479
+			Oxalis_pampeana_Nuernberg1875
+			Oxalis_paposana_Heibl03-062
+			Oxalis_paranaensis_VaioC2
+			Oxalis_pardoensis_Caxambu5990
+			Oxalis_pataxorum_Cabral196
+			Oxalis_paucartambensis_Emshwiller548
+			Oxalis_peduncularis_Emshwiller466
+			Oxalis_pendulifolia_Oberlander0067
+			Oxalis_penicillata_HeiblPfanzelt05-032
+			Oxalis_perdicaria_HeiblBotGardenMunich03
+			Oxalis_pes-caprae_Aoki6
+			Oxalis_petricola_MO1472
+			Oxalis_petrophila_Emshwiller933
+			Oxalis_phloxidiflora_Dreyer678
+			Oxalis_physocalyx_Melo6953
+			Oxalis_picchensis_Emshwiller500
+			Oxalis_pickeringii_Gaspar134
+			Oxalis_pillansiana_Oberlander0135
+			Oxalis_pilulifera_Sartor48
+			Oxalis_pinguiculacea_Wood22147
+			Oxalis_pocockiae_Dreyer626
+			Oxalis_polymorpha_Fiaschi4618
+			Oxalis_polyphylla_Cilliers0002
+			Oxalis_polyrhiza_Emshwiller960
+			Oxalis_porphyriosiphon_Oberlander0167
+			Oxalis_praetexta_Cabral159
+			Oxalis_primavera_Gardner50
+			Oxalis_primuloides_Dreyer711
+			Oxalis_pseudocernua_Craven4781
+			Oxalis_psilopoda_Oberlander0064
+			Oxalis_psoraleoides_Vaio431
+			Oxalis_ptychoclada_Emshwiller916
+			Oxalis_puberula_Rhoden7
+			Oxalis_pulchella_Dreyer612
+			Oxalis_punctata_Cilliers0005
+			Oxalis_purpurascens_Dreyer634
+			Oxalis_purpurata_MO1118
+			Oxalis_purpurea_Oberlander0024
+			Oxalis_pusilla_Dreyer746
+			Oxalis_pycnophylla_Zuloaga11747
+			Oxalis_pyrenea_Sartor65
+			Oxalis_reclinata_Dreyer718
+			Oxalis_recticaulis_Oberlander0170
+			Oxalis_refracta_Vaio496
+			Oxalis_rhombeo-ovata_Vaio526
+			Oxalis_ricardii_Heibl01-072
+			Oxalis_rigida_Heibl03-096
+			Oxalis_rosea_Lammers7916
+			Oxalis_roselata_Rhoden16
+			Oxalis_rosettifolia_MO1468
+			Oxalis_rubricallosa_MO1461
+			Oxalis_salteri_Dreyer784
+			Oxalis_sarmentosa_VaioC13
+			Oxalis_sciophila_Costa118
+			Oxalis_sellowiana_forma_alba_Vaio282
+			Oxalis_sellowiana_forma_sellowiana_Giussani421
+			Oxalis_sellowii_Cabral109
+			Oxalis_sepium_Radavelli76
+			Oxalis_serpens_VaioC27
+			Oxalis_setosa_Bellstedt770
+			Oxalis_smalliana_Brinegar
+			Oxalis_smithiana_Bellstedt699
+			Oxalis_sonderiana_Dreyer694
+			Oxalis_spiralis_Aoki85
+			Oxalis_squamata_HeiblPfanzelt05-027
+			Oxalis_squarrosa_Munzo4533
+			Oxalis_staffordiana_Emshwiller512
+			Oxalis_stellata_Oberlander0086
+			Oxalis_stenopetala_Dreyer675
+			Oxalis_stenoptera_Oberlander0138
+			Oxalis_stictocheila_Dreyer749
+			Oxalis_stricta_BR0000013234621
+			Oxalis_strigosa_Oberlander0093
+			Oxalis_suavis_Oberlander0075
+			Oxalis_subacaulis_Salomon245
+			Oxalis_subintegra_Emshwiller799
+			Oxalis_suborbiculata_Cabral110
+			Oxalis_subvilosa_Nuernberg1848
+			Oxalis_suteroides_Oberlander0115
+			Oxalis_tabaconasensis_Emshwiller786
+			Oxalis_tenella_Dreyer639
+			Oxalis_teneriensis_Emshwiller605
+			Oxalis_tenerrima_VaioC30
+			Oxalis_tenuifolia_Oberlander0027
+			Oxalis_tenuipes_Dreyer800
+			Oxalis_tenuis_Dreyer793
+			Oxalis_tetraphylla_EmshwillerDEPP
+			Oxalis_tijucana_Vasques85
+			Oxalis_tomentosa_Roller0006
+			Oxalis_tortuosa_KrausK-94
+			Oxalis_triangularis_subsp_papilionacea_Emshwiller456
+			Oxalis_triangularis_subsp_triangularis_MO1165
+			Oxalis_triangulata_Aoki34
+			Oxalis_trillifolia_MO275113
+			Oxalis_trollii_Wood22158
+			Oxalis_truncatula_Dreyer605
+			Oxalis_tuberosa_Emshwiller97/50-02
+			Oxalis_uliginosa_MO394uliginosa
+			Oxalis_umbraticola_Richetti69
+			Oxalis_unduavensis_Emshwiller168/291/351
+			Oxalis_urbaniana_Bytebier2015
+			Oxalis_valdiviensis_HeiblPfanzelt05-016
+			Oxalis_veadeirosensis_Fiaschi5330
+			Oxalis_versicolor_Oberlander0034
+			Oxalis_violacea_GardnerAGVIO1
+			Oxalis_virgata_Emshwiller292
+			Oxalis_virginea_MO580virginea
+			Oxalis_virgosa_HeiblMunozToro04-042
+			Oxalis_viscosa_Dreyer642
+			Oxalis_vulcanicola_MO702cfhedysaroides
+			Oxalis_weberbaueri_Emshwiller746
+			Oxalis_xantha_Dreyer671
+			Oxalis_yungasensis_Emshwiller437/350
+			Oxalis_zeekoevleyensis_Oberlander0012
+			Oxalis_zeyheri_MO590cfzeyheri
+			Pancheria_hirsuta_CUN132
+			Peripentadenia_phelpsii_Crayn887
+			Platytheca_galioides_Crayn701c
+			Rourea_microphylla_MT537171
+			Sarcotheca_monophylla_SARMON
+			Sericolea_micans_Crayn536
+			Sloanaea_syandra_UnknownN
+			Spiraeopsis_celebica_UnknownN
+			Tetratheca_hirsuta_Butcher915
+			Tremandra_diffusa_Butcher961
+			Vallea_stipularis_Chase654
+			Vesselowskya_rubifolia_CUN136
+			Weinmannia_reticulata_CUN111
+			;
+End;
+Begin trees;
+	Translate
+		     1 Aceratium_ferrugineum_Harrington296,
+		     2 Ackama_rosifolia_UnknownN,
+		     3 Agelaea_borneensis_AS166,
+		     4 Aristotelia_fruticosa_Chase781,
+		     5 Averrhoa_carambola_NC033350,
+		     6 Biophytum_abyssinicum_BIOAB,
+		     7 Brunellia_antioquensis_MN615725,
+		     8 Brunellia_trianae_MN585217,
+		     9 Caldcluvia_paniculosa_UnknownN,
+		    10 Callicoma_serratifolia_CUN120,
+		    11 Cephalotus_follicularis_ON149879,
+		    12 Ceratopetalum_apetalum_UnknownN,
+		    13 Cnestidium_rufescens_DB0784,
+		    14 Cnestis_polyphylla_Abbott9113,
+		    15 Connarus_panamensis_DB0282,
+		    16 Crinodendron_patagua_AllenNSW605484,
+		    17 Cunonia_balansae_CUN069,
+		    18 Dapania_pentandra_DAPEN,
+		    19 Davidsonia_pruriens_Carlsen3197,
+		    20 Dubouzetia_campanulata_Crayn745,
+		    21 Elaeocarpus_decipiens_MZ334669,
+		    22 Ellipanthus_glabrifolius_CPG00356,
+		    23 Eucryphia_cordifolia_CONC125000,
+		    24 Jollydora_glandulosa_PM5146,
+		    25 Lamononia_ternata_Blum10-127,
+		    26 Opocunonia_papuana_UnknownN,
+		    27 Oxalis_acetosella_HeiblBotGardenMunich01,
+		    28 Oxalis_adenodes_Dreyer716,
+		    29 Oxalis_adenophylla_HeiblPfanzelt05-024,
+		    30 Oxalis_adpressipila_Kuhlmann6587h,
+		    31 Oxalis_adspersa_Dreyer635,
+		    32 Oxalis_alpina_Gardner45,
+		    33 Oxalis_alstonii_Vaio413,
+		    34 Oxalis_alvimii_Fiaschi4597,
+		    35 Oxalis_ambigua_Oberlander0140,
+		    36 Oxalis_amblyodonta_Bayer7397,
+		    37 Oxalis_amblyosepala_Oberlander0168,
+		    38 Oxalis_amorimii_Fiaschi5457,
+		    39 Oxalis_andina_Emshwiller315,
+		    40 Oxalis_animarum_Cabral275,
+		    41 Oxalis_annae_Mucina170903/3,
+		    42 Oxalis_arbuscula_HeiblPfanzelt05-050,
+		    43 Oxalis_argentina_Emshwiller235,
+		    44 Oxalis_argillacea_Dreyer786,
+		    45 Oxalis_argyrophylla_Oberlander0040,
+		    46 Oxalis_aridicola_Dreyer672,
+		    47 Oxalis_artemioides_Sartor81,
+		    48 Oxalis_articulata_forma_crassipes_Emshwiller463,
+		    49 Oxalis_articulata_subsp_articulata_Vaio505,
+		    50 Oxalis_articulata_subsp_rubra_Emshwiller146,
+		    51 Oxalis_atacamensis_Heibl01-054,
+		    52 Oxalis_attaquana_Bayer7007,
+		    53 Oxalis_aurea_Dreyer771,
+		    54 Oxalis_aureoflava_Munoz4871,
+		    55 Oxalis_barrelieri_Vaio517,
+		    56 Oxalis_bela-vitoriae_Fiaschi4606,
+		    57 Oxalis_bifida_Dreyer608,
+		    58 Oxalis_bifrons_Fiaschi3633,
+		    59 Oxalis_bifurca_Bellstedt764,
+		    60 Oxalis_bipartita_Vaio320,
+		    61 Oxalis_bisfracta_Emshwiller232,
+		    62 Oxalis_blackii_Costa115,
+		    63 Oxalis_blastorrhiza_Dreyer788,
+		    64 Oxalis_boliviana_Emshwiller310,
+		    65 Oxalis_bowiei_MO502cfbowiei,
+		    66 Oxalis_brasiliensis_EmshwillerBRAS2,
+		    67 Oxalis_bulbocastanum_Heibl01-071,
+		    68 Oxalis_bullulata_Dreyer792,
+		    69 Oxalis_burkei_Dreyer618,
+		    70 Oxalis_burtoniae_Oberlander0031,
+		    71 Oxalis_caerulea_Gardner39,
+		    72 Oxalis_caesariata_Fiaschi5273,
+		    73 Oxalis_caesia_Heibl02-012,
+		    74 Oxalis_calachaccensis_Emshwiller880X,
+		    75 Oxalis_callosa_Oberlander0120,
+		    76 Oxalis_camelopardalis_Oberlander0071,
+		    77 Oxalis_campicola_Dreyer780,
+		    78 Oxalis_campylorrhiza_Dreyer696,
+		    79 Oxalis_capillacea_Dreyer625,
+		    80 Oxalis_capixaba_Costa117,
+		    81 Oxalis_caprina_DreyerOberlander0001,
+		    82 Oxalis_cardenasiana_Wood22331,
+		    83 Oxalis_cathara_MO582cathara,
+		    84 Oxalis_cerradoana_Cabral259,
+		    85 Oxalis_cf_canaliculata_BayerN,
+		    86 Oxalis_cf_pulvinata_MO576cfpulvinata,
+		    87 Oxalis_cf_tragopoda_MO490cftragopoda,
+		    88 Oxalis_chachahuensis_MartinezCarretero1570,
+		    89 Oxalis_ciliaris_Dreyer613,
+		    90 Oxalis_ciliata_Cabral124,
+		    91 Oxalis_cinerea_Heibl03-095,
+		    92 Oxalis_cipoensis_Costa110,
+		    93 Oxalis_clavifolia_Oberlander0141,
+		    94 Oxalis_colatinensis_Fiaschi4625,
+		    95 Oxalis_commutata_Dreyer606,
+		    96 Oxalis_comosa_Mucina220901/30A,
+		    97 Oxalis_compacta_Teillier5013,
+		    98 Oxalis_compressa_BayerOberlander0009,
+		    99 Oxalis_comptonii_Dreyer802,
+		   100 Oxalis_confertifolia_Oberlander0075,
+		   101 Oxalis_confertissima_Fiaschi4478,
+		   102 Oxalis_conorrhiza_Vaio175,
+		   103 Oxalis_convexula_Oberlander0014,
+		   104 Oxalis_copiosa_Oberlander0021,
+		   105 Oxalis_cordata_Cabral125,
+		   106 Oxalis_cornicarpa_Fiaschi5442,
+		   107 Oxalis_corniculata_GardnerS1,
+		   108 Oxalis_cratensis_Vaio404,
+		   109 Oxalis_crocea_Dreyer693,
+		   110 Oxalis_cuneata_Dreyer791,
+		   111 Oxalis_cuzcensis_Emshwiller532,
+		   112 Oxalis_cytisoides_Cabral139,
+		   113 Oxalis_debilis_var_corymbosa_Vaio62,
+		   114 Oxalis_debilis_var_debilis_Emshwiller171,
+		   115 Oxalis_decaphylla_Rodriguez2610,
+		   116 Oxalis_decipiens_Vasques57,
+		   117 Oxalis_densa_Oberlander0169,
+		   118 Oxalis_densifolia_Cabral93,
+		   119 Oxalis_dentata_Cilliers0004,
+		   120 Oxalis_depressa_Oberlander0085,
+		   121 Oxalis_deserticola_Oberlander0114,
+		   122 Oxalis_desmodioides_Cabral194,
+		   123 Oxalis_diamantinae_Richetti61,
+		   124 Oxalis_dichotoma_Oberlander0052,
+		   125 Oxalis_dilatata_BayerOberlander0014,
+		   126 Oxalis_dillenii_Walter6565,
+		   127 Oxalis_dines_Helme1355,
+		   128 Oxalis_discolor_Gardner35,
+		   129 Oxalis_disticha_Oberlander0159,
+		   130 Oxalis_divaricata_Felix13386,
+		   131 Oxalis_divergens_Gardner58,
+		   132 Oxalis_dolichopoda_Emshwiller292,
+		   133 Oxalis_dombey_Cornejo10089,
+		   134 Oxalis_dregei_Mucina210903/11,
+		   135 Oxalis_droseroides_Oberlander0079,
+		   136 Oxalis_drummondii_Weller965,
+		   137 Oxalis_dumetorum_Mihoc7330,
+		   138 Oxalis_duriuscula_Oberlander0082,
+		   139 Oxalis_ebracteata_Dreyer644,
+		   140 Oxalis_eckloniana_Dreyer628,
+		   141 Oxalis_engleriana_Oberlander0010,
+		   142 Oxalis_enneaphylla_HeiblMunozToro04-045,
+		   143 Oxalis_eriocarpa_Vaio31,
+		   144 Oxalis_eriolepis_Emshwiller155,
+		   145 Oxalis_erosa_Cabral138,
+		   146 Oxalis_erythrorhiza_Zuloaga12781,
+		   147 Oxalis_exserta_Dreyer686,
+		   148 Oxalis_falcatula_Oberlander0096,
+		   149 Oxalis_famatinae_Zuloaga11970,
+		   150 Oxalis_fenestrata_MO1527,
+		   151 Oxalis_fergusoniae_Oberlander0111,
+		   152 Oxalis_fibrosa_Oberlander0051,
+		   153 Oxalis_flagellata_Emshwiller246,
+		   154 Oxalis_flava_Dreyer614,
+		   155 Oxalis_flaviuscula_Dreyer701,
+		   156 Oxalis_floribunda_subsp_floribunda_Vaio358,
+		   157 Oxalis_floribunda_subsp_ostenii_Vaio388,
+		   158 Oxalis_fontana_Whang30761,
+		   159 Oxalis_fourcadei_BeanVlok2046,
+		   160 Oxalis_frutescens_Vaio426,
+		   161 Oxalis_fruticosa_Fiaschi4658,
+		   162 Oxalis_furcillata_Oberlander0022,
+		   163 Oxalis_galeottii_Gardner60,
+		   164 Oxalis_gardneriana_Scatigna1336,
+		   165 Oxalis_geralensis_UnknownN,
+		   166 Oxalis_giftbergensis_Dreyer796,
+		   167 Oxalis_gigantea_HeiblMunozToro04-010,
+		   168 Oxalis_glabra_Mucina170601/2,
+		   169 Oxalis_glaucescens_Felix13539,
+		   170 Oxalis_goniorrhiza_Oberlander0157,
+		   171 Oxalis_gracilifolia_Cabral193,
+		   172 Oxalis_gracilipes_Dreyer645,
+		   173 Oxalis_gracilis_Oberlander123,
+		   174 Oxalis_grammopetala_Oberlander0156,
+		   175 Oxalis_grammophylla_Dreyer670,
+		   176 Oxalis_gregaria_Roe1597,
+		   177 Oxalis_griffithii_subsp_formosana_Aoki181,
+		   178 Oxalis_griffithii_subsp_griffithii_Aoki35,
+		   179 Oxalis_griffithii_subsp_taimonii_Wang4456,
+		   180 Oxalis_griffithii_subsp_wulingensis_Deng544,
+		   181 Oxalis_grisea_Vaio512,
+		   182 Oxalis_gyrorhiza_Heibl02-035,
+		   183 Oxalis_haedulipes_Mucina180903/9,
+		   184 Oxalis_hedysarifolia_Almeida1980,
+		   185 Oxalis_hedysaroides_Cornejo10079,
+		   186 Oxalis_helicoides_MO936,
+		   187 Oxalis_hepatica_Nuernberg1800,
+		   188 Oxalis_hernandesii_Gardner56,
+		   189 Oxalis_herrerae_Emshwiller459,
+		   190 Oxalis_heterophylla_BayerOberlander0008,
+		   191 Oxalis_hirsutibulba_MO1519,
+		   192 Oxalis_hirsutissima_Cordeiro987,
+		   193 Oxalis_hirta_Dreyer646,
+		   194 Oxalis_hispidula_Vaio44,
+		   195 Oxalis_holosericea_HeiblPfanzelt05-025,
+		   196 Oxalis_humbertii_Emshwiller604,
+		   197 Oxalis_hyalotricha_subsp_borealis_Melo4854,
+		   198 Oxalis_hyalotricha_subsp_hyalotricha_Cabral170,
+		   199 Oxalis_hygrophila_KumwendaDreyer0001,
+		   200 Oxalis_hypsophila_HeibPfanzelt05-040,
+		   201 Oxalis_idimae_Vasques78,
+		   202 Oxalis_imbricata_Oberlander0062,
+		   203 Oxalis_impatiens_Bilk382a,
+		   204 Oxalis_incana_HeiblPfanzelt05-045,
+		   205 Oxalis_incarnata_Emshwiller149,
+		   206 Oxalis_inconspicua_Dreyer707,
+		   207 Oxalis_inopinata_Fiaschi5544,
+		   208 Oxalis_itamarajuensis_Fiaschi4657,
+		   209 Oxalis_itatingae_Fiaschi4472,
+		   210 Oxalis_jacobinensis_Cabral226,
+		   211 Oxalis_jacquiniana_Gardner43,
+		   212 Oxalis_jasminifolia_Cornejo9331,
+		   213 Oxalis_johnstonii_Heibl01-080,
+		   214 Oxalis_kamiesbergensis_MO592cfkamiebergensis,
+		   215 Oxalis_knuthiana_Dreyer721,
+		   216 Oxalis_kollmannii_Vasques53,
+		   217 Oxalis_kuhlmannii_Fiaschi4662,
+		   218 Oxalis_laciniata_HeiblMunozToro04-047,
+		   219 Oxalis_lanata_Dreyer751,
+		   220 Oxalis_lasiandra_Gardner69,
+		   221 Oxalis_lasiopetala_Vaio87,
+		   222 Oxalis_lasiorrhiza_MO1555,
+		   223 Oxalis_lateriflora_Dreyer651,
+		   224 Oxalis_latifolia_Gardner38,
+		   225 Oxalis_laxa_var_hispidissima_Zuloaga12555,
+		   226 Oxalis_laxa_var_laxa_Heibl03-091,
+		   227 Oxalis_leonii_Costa122,
+		   228 Oxalis_leptocalyx_Oberlander0076,
+		   229 Oxalis_leptogramma_Dreyer617,
+		   230 Oxalis_leucolepis_Aoki420,
+		   231 Oxalis_lichenoides_Dreyer785,
+		   232 Oxalis_linarantha_Fiaschi3710,
+		   233 Oxalis_linearis_Dreyer679,
+		   234 Oxalis_livida_Oberlander0078,
+		   235 Oxalis_lomana_Gaspar2,
+		   236 Oxalis_longissima_Emshwiller64/247,
+		   237 Oxalis_loricata_HeiblPfanzelt05-006,
+		   238 Oxalis_lotoides_Emshwiller789,
+		   239 Oxalis_louisae_Dreyer708,
+		   240 Oxalis_lucumayensis_subsp_lucumayensis_Emshwiller485,
+		   241 Oxalis_lucumayensis_subsp_subiens_Emshwiller289,
+		   242 Oxalis_luteola_Oberlander0026,
+		   243 Oxalis_lutzii_Melo4829,
+		   244 Oxalis_macrocarpa_Gardner49,
+		   245 Oxalis_macrochaeta_Cabral96,
+		   246 Oxalis_magellanica_HeiblBotGardenMunich02,
+		   247 Oxalis_magnifica_Gardner68,
+		   248 Oxalis_mandioccana_Fiaschi4660,
+		   249 Oxalis_massoniana_Holmes0016,
+		   250 Oxalis_matancillae_HeiblMunozToro04-023,
+		   251 Oxalis_medicaginea_Emshwiller809,
+		   252 Oxalis_megalorrhiza_Gaspar173,
+		   253 Oxalis_meisneri_Oberlander0088,
+		   254 Oxalis_melanosticta_Dreyer622,
+		   255 Oxalis_melilotoides_Emshwiller190,
+		   256 Oxalis_micrantha_Heibl03-092,
+		   257 Oxalis_microcarpa_Cornejo9341,
+		   258 Oxalis_minuta_MO163minuta,
+		   259 Oxalis_mollendoensis_Ge18325,
+		   260 Oxalis_mollissima_Emshwiller359/x415,
+		   261 Oxalis_monochasiata_Fiaschi4585,
+		   262 Oxalis_monophylla_DreyerOberlander0003,
+		   263 Oxalis_monticola_Vaio20,
+		   264 Oxalis_morelosii_Perez4856,
+		   265 Oxalis_morenoensis_Heibl01-009,
+		   266 Oxalis_morronei_Zabala204,
+		   267 Oxalis_multicaulis_Oberlander0080,
+		   268 Oxalis_muscoides_Zuloaga12256,
+		   269 Oxalis_nahuelhuapiensis_Biganzoli2126,
+		   270 Oxalis_namaquana_Dreyer713,
+		   271 Oxalis_natans_Oberlander0160,
+		   272 Oxalis_nelsonii_Gardner66,
+		   273 Oxalis_neuwiedii_Almeida1336,
+		   274 Oxalis_nidulans_Dreyer752,
+		   275 Oxalis_niederleinii_Vaio190,
+		   276 Oxalis_nippponica_subsp_kantoensis_Aoki25,
+		   277 Oxalis_nivea_MO1462,
+		   278 Oxalis_nortieri_Oberlander0112,
+		   279 Oxalis_novemfoliolata_Heibl01-078,
+		   280 Oxalis_nubigena_Emshwiller701,
+		   281 Oxalis_obliquifolia_Bellstedt711,
+		   282 Oxalis_oblongiformis_Emshwiller797,
+		   283 Oxalis_obtriangulata_JNU140,
+		   284 Oxalis_obtusa_Dreyer691,
+		   285 Oxalis_occulta_Fiaschi5058,
+		   286 Oxalis_oculifera_Dreyer799,
+		   287 Oxalis_oligophylla_Dreyer797,
+		   288 Oxalis_orbicularis_Oberlander0066,
+		   289 Oxalis_oregana_Olmstead2003-33,
+		   290 Oxalis_oreocharis_Emshwiller583,
+		   291 Oxalis_oreophila_Dreyer666,
+		   292 Oxalis_ornithopus_HeiblMunozToro04-015,
+		   293 Oxalis_ortgiesii_Emshwiller458,
+		   294 Oxalis_orthopoda_Oberlander0068,
+		   295 Oxalis_oulophora_Emshwiller308,
+		   296 Oxalis_pachyrrhiza_Weigend8479,
+		   297 Oxalis_pallens_Dreyer654,
+		   298 Oxalis_palmifrons_Holmes0019,
+		   299 Oxalis_paludosa_Vaio479,
+		   300 Oxalis_pampeana_Nuernberg1875,
+		   301 Oxalis_paposana_Heibl03-062,
+		   302 Oxalis_paranaensis_VaioC2,
+		   303 Oxalis_pardoensis_Caxambu5990,
+		   304 Oxalis_pataxorum_Cabral196,
+		   305 Oxalis_paucartambensis_Emshwiller548,
+		   306 Oxalis_peduncularis_Emshwiller466,
+		   307 Oxalis_pendulifolia_Oberlander0067,
+		   308 Oxalis_penicillata_HeiblPfanzelt05-032,
+		   309 Oxalis_perdicaria_HeiblBotGardenMunich03,
+		   310 Oxalis_pes-caprae_Aoki6,
+		   311 Oxalis_petricola_MO1472,
+		   312 Oxalis_petrophila_Emshwiller933,
+		   313 Oxalis_phloxidiflora_Dreyer678,
+		   314 Oxalis_physocalyx_Melo6953,
+		   315 Oxalis_picchensis_Emshwiller500,
+		   316 Oxalis_pickeringii_Gaspar134,
+		   317 Oxalis_pillansiana_Oberlander0135,
+		   318 Oxalis_pilulifera_Sartor48,
+		   319 Oxalis_pinguiculacea_Wood22147,
+		   320 Oxalis_pocockiae_Dreyer626,
+		   321 Oxalis_polymorpha_Fiaschi4618,
+		   322 Oxalis_polyphylla_Cilliers0002,
+		   323 Oxalis_polyrhiza_Emshwiller960,
+		   324 Oxalis_porphyriosiphon_Oberlander0167,
+		   325 Oxalis_praetexta_Cabral159,
+		   326 Oxalis_primavera_Gardner50,
+		   327 Oxalis_primuloides_Dreyer711,
+		   328 Oxalis_pseudocernua_Craven4781,
+		   329 Oxalis_psilopoda_Oberlander0064,
+		   330 Oxalis_psoraleoides_Vaio431,
+		   331 Oxalis_ptychoclada_Emshwiller916,
+		   332 Oxalis_puberula_Rhoden7,
+		   333 Oxalis_pulchella_Dreyer612,
+		   334 Oxalis_punctata_Cilliers0005,
+		   335 Oxalis_purpurascens_Dreyer634,
+		   336 Oxalis_purpurata_MO1118,
+		   337 Oxalis_purpurea_Oberlander0024,
+		   338 Oxalis_pusilla_Dreyer746,
+		   339 Oxalis_pycnophylla_Zuloaga11747,
+		   340 Oxalis_pyrenea_Sartor65,
+		   341 Oxalis_reclinata_Dreyer718,
+		   342 Oxalis_recticaulis_Oberlander0170,
+		   343 Oxalis_refracta_Vaio496,
+		   344 Oxalis_rhombeo-ovata_Vaio526,
+		   345 Oxalis_ricardii_Heibl01-072,
+		   346 Oxalis_rigida_Heibl03-096,
+		   347 Oxalis_rosea_Lammers7916,
+		   348 Oxalis_roselata_Rhoden16,
+		   349 Oxalis_rosettifolia_MO1468,
+		   350 Oxalis_rubricallosa_MO1461,
+		   351 Oxalis_salteri_Dreyer784,
+		   352 Oxalis_sarmentosa_VaioC13,
+		   353 Oxalis_sciophila_Costa118,
+		   354 Oxalis_sellowiana_forma_alba_Vaio282,
+		   355 Oxalis_sellowiana_forma_sellowiana_Giussani421,
+		   356 Oxalis_sellowii_Cabral109,
+		   357 Oxalis_sepium_Radavelli76,
+		   358 Oxalis_serpens_VaioC27,
+		   359 Oxalis_setosa_Bellstedt770,
+		   360 Oxalis_smalliana_Brinegar,
+		   361 Oxalis_smithiana_Bellstedt699,
+		   362 Oxalis_sonderiana_Dreyer694,
+		   363 Oxalis_spiralis_Aoki85,
+		   364 Oxalis_squamata_HeiblPfanzelt05-027,
+		   365 Oxalis_squarrosa_Munzo4533,
+		   366 Oxalis_staffordiana_Emshwiller512,
+		   367 Oxalis_stellata_Oberlander0086,
+		   368 Oxalis_stenopetala_Dreyer675,
+		   369 Oxalis_stenoptera_Oberlander0138,
+		   370 Oxalis_stictocheila_Dreyer749,
+		   371 Oxalis_stricta_BR0000013234621,
+		   372 Oxalis_strigosa_Oberlander0093,
+		   373 Oxalis_suavis_Oberlander0075,
+		   374 Oxalis_subacaulis_Salomon245,
+		   375 Oxalis_subintegra_Emshwiller799,
+		   376 Oxalis_suborbiculata_Cabral110,
+		   377 Oxalis_subvilosa_Nuernberg1848,
+		   378 Oxalis_suteroides_Oberlander0115,
+		   379 Oxalis_tabaconasensis_Emshwiller786,
+		   380 Oxalis_tenella_Dreyer639,
+		   381 Oxalis_teneriensis_Emshwiller605,
+		   382 Oxalis_tenerrima_VaioC30,
+		   383 Oxalis_tenuifolia_Oberlander0027,
+		   384 Oxalis_tenuipes_Dreyer800,
+		   385 Oxalis_tenuis_Dreyer793,
+		   386 Oxalis_tetraphylla_EmshwillerDEPP,
+		   387 Oxalis_tijucana_Vasques85,
+		   388 Oxalis_tomentosa_Roller0006,
+		   389 Oxalis_tortuosa_KrausK-94,
+		   390 Oxalis_triangularis_subsp_papilionacea_Emshwiller456,
+		   391 Oxalis_triangularis_subsp_triangularis_MO1165,
+		   392 Oxalis_triangulata_Aoki34,
+		   393 Oxalis_trillifolia_MO275113,
+		   394 Oxalis_trollii_Wood22158,
+		   395 Oxalis_truncatula_Dreyer605,
+		   396 Oxalis_tuberosa_Emshwiller97/50-02,
+		   397 Oxalis_uliginosa_MO394uliginosa,
+		   398 Oxalis_umbraticola_Richetti69,
+		   399 Oxalis_unduavensis_Emshwiller168/291/351,
+		   400 Oxalis_urbaniana_Bytebier2015,
+		   401 Oxalis_valdiviensis_HeiblPfanzelt05-016,
+		   402 Oxalis_veadeirosensis_Fiaschi5330,
+		   403 Oxalis_versicolor_Oberlander0034,
+		   404 Oxalis_violacea_GardnerAGVIO1,
+		   405 Oxalis_virgata_Emshwiller292,
+		   406 Oxalis_virginea_MO580virginea,
+		   407 Oxalis_virgosa_HeiblMunozToro04-042,
+		   408 Oxalis_viscosa_Dreyer642,
+		   409 Oxalis_vulcanicola_MO702cfhedysaroides,
+		   410 Oxalis_weberbaueri_Emshwiller746,
+		   411 Oxalis_xantha_Dreyer671,
+		   412 Oxalis_yungasensis_Emshwiller437/350,
+		   413 Oxalis_zeekoevleyensis_Oberlander0012,
+		   414 Oxalis_zeyheri_MO590cfzeyheri,
+		   415 Pancheria_hirsuta_CUN132,
+		   416 Peripentadenia_phelpsii_Crayn887,
+		   417 Platytheca_galioides_Crayn701c,
+		   418 Rourea_microphylla_MT537171,
+		   419 Sarcotheca_monophylla_SARMON,
+		   420 Sericolea_micans_Crayn536,
+		   421 Sloanaea_syandra_UnknownN,
+		   422 Spiraeopsis_celebica_UnknownN,
+		   423 Tetratheca_hirsuta_Butcher915,
+		   424 Tremandra_diffusa_Butcher961,
+		   425 Vallea_stipularis_Chase654,
+		   426 Vesselowskya_rubifolia_CUN136,
+		   427 Weinmannia_reticulata_CUN111
+;
+tree STATE_0 = ((((((((((((1[&rate=0.005]:0.013000000617466867,420[&rate=0.005]:0.013000000617466867)[&rate=0.005]:0.0,21[&rate=0.005]:0.013000000617466867)[&rate=0.005]:0.0010000000474974513,((417[&rate=0.005]:0.012000000569969416,423[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513,424[&rate=0.005]:0.013000000617466867)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(4[&rate=0.005]:0.013000000617466867,425[&rate=0.005]:0.013000000617466867)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,20[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0,421[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0,416[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0,16[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0010000000474974513,(7[&rate=0.005]:0.014000000664964318,8[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,11[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0010000000474974513,(((((((((2[&rate=0.005]:0.013000000617466867,(17[&rate=0.005]:0.012000000569969416,415[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,427[&rate=0.005]:0.013000000617466867)[&rate=0.005]:0.0010000000474974513,426[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0010000000474974513,(9[&rate=0.005]:0.014000000664964318,(26[&rate=0.005]:0.013000000617466867,422[&rate=0.005]:0.013000000617466867)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,23[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0,12[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0,25[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0,10[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0,19[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(((((3[&rate=0.005]:0.01500000071246177,(15[&rate=0.005]:0.01500000071246177,(22[&rate=0.005]:0.014000000664964318,418[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0)[&rate=0.005]:0.0,24[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0,13[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0,14[&rate=0.005]:0.01500000071246177)[&rate=0.005]:0.0010000000474974513,(((5[&rate=0.005]:0.013000000617466867,(18[&rate=0.005]:0.012000000569969416,419[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,6[&rate=0.005]:0.014000000664964318)[&rate=0.005]:0.0010000000474974513,((((((((((27[&rate=0.005]:0.010000000474974513,(((((177[&rate=0.005]:0.009000000427477062,(178[&rate=0.005]:0.009000000427477062,276[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513,(283[&rate=0.005]:0.009000000427477062,392[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,360[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0,230[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0,289[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0)[&rate=0.005]:0.0,180[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0,179[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0010000000474974513,393[&rate=0.005]:0.011000000522471964)[&rate=0.005]:0.0010000000474974513,(((((((((((((((((((((((((((((((((((((((((((((((((((((28[&rate=0.005]:0.0050000002374872565,(35[&rate=0.005]:0.004000000189989805,242[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,254[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,337[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,(((((44[&rate=0.005]:0.0050000002374872565,121[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,(317[&rate=0.005]:0.0050000002374872565,373[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,239[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,155[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,(78[&rate=0.005]:0.007000000332482159,(((85[&rate=0.005]:0.0050000002374872565,206[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,362[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,(((93[&rate=0.005]:0.004000000189989805,109[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,408[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,162[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0)[&rate=0.005]:0.0,(((41[&rate=0.005]:0.0050000002374872565,117[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,231[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,284[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(((31[&rate=0.005]:0.006000000284984708,53[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,397[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,369[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,((127[&rate=0.005]:0.006000000284984708,129[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,270[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,((86[&rate=0.005]:0.006000000284984708,154[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,262[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(103[&rate=0.005]:0.007000000332482159,151[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,281[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,359[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,52[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,159[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,334[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,333[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,174[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,278[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,320[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,125[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,120[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,68[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,351[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,83[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,134[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,((((((((((((36[&rate=0.005]:0.0050000002374872565,((((45[&rate=0.005]:0.0050000002374872565,(((135[&rate=0.005]:0.0050000002374872565,((((((168[&rate=0.005]:0.004000000189989805,228[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,172[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,253[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,267[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,383[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,271[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0)[&rate=0.005]:0.0,370[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,342[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0)[&rate=0.005]:0.0,338[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,297[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,403[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0)[&rate=0.005]:0.0,170[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,400[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,148[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,322[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,70[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,((166[&rate=0.005]:0.004000000189989805,324[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,385[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,139[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,(99[&rate=0.005]:0.006000000284984708,313[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,37[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,368[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,384[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,((((((((46[&rate=0.005]:0.004000000189989805,((89[&rate=0.005]:0.004000000189989805,380[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0,411[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0)[&rate=0.005]:0.0,291[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0,69[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0,77[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,((63[&rate=0.005]:0.003000000142492354,173[&rate=0.005]:0.003000000142492354)[&rate=0.005]:0.0010000000474974513,(75[&rate=0.005]:0.003000000142492354,233[&rate=0.005]:0.003000000142492354)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,193[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,214[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,(((110[&rate=0.005]:0.0050000002374872565,341[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,(186[&rate=0.005]:0.0050000002374872565,327[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,147[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(65[&rate=0.005]:0.00800000037997961,(((((81[&rate=0.005]:0.0050000002374872565,124[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,329[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,367[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,87[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,202[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(((76[&rate=0.005]:0.006000000284984708,100[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,(79[&rate=0.005]:0.006000000284984708,229[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(175[&rate=0.005]:0.007000000332482159,249[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(57[&rate=0.005]:0.00800000037997961,((138[&rate=0.005]:0.007000000332482159,307[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,190[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(((199[&rate=0.005]:0.006000000284984708,287[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,388[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,298[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(140[&rate=0.005]:0.00800000037997961,(258[&rate=0.005]:0.007000000332482159,274[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(59[&rate=0.005]:0.00800000037997961,361[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(378[&rate=0.005]:0.00800000037997961,414[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,372[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,294[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,395[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,219[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,205[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,152[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,141[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,406[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,96[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,286[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,288[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,95[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,413[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513,(((((((((((((((((((32[&rate=0.005]:0.004000000189989805,115[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0,264[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,211[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,(71[&rate=0.005]:0.0050000002374872565,(188[&rate=0.005]:0.0050000002374872565,326[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,131[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0,404[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0,136[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0,176[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,((220[&rate=0.005]:0.006000000284984708,(272[&rate=0.005]:0.006000000284984708,386[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0)[&rate=0.005]:0.0,247[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(163[&rate=0.005]:0.006000000284984708,224[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,128[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,(82[&rate=0.005]:0.007000000332482159,394[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(43[&rate=0.005]:0.007000000332482159,319[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,390[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,391[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,290[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,244[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,144[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,(((((((60[&rate=0.005]:0.006000000284984708,194[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,113[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,(354[&rate=0.005]:0.007000000332482159,355[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,66[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,309[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,114[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,165[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(((((98[&rate=0.005]:0.007000000332482159,(222[&rate=0.005]:0.006000000284984708,310[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,((((104[&rate=0.005]:0.004000000189989805,183[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,(277[&rate=0.005]:0.004000000189989805,349[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,191[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,336[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,((150[&rate=0.005]:0.00800000037997961,(311[&rate=0.005]:0.007000000332482159,350[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,215[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,335[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,328[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(((48[&rate=0.005]:0.00800000037997961,50[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,(((49[&rate=0.005]:0.006000000284984708,221[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,157[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,156[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,263[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,((29[&rate=0.005]:0.00800000037997961,((142[&rate=0.005]:0.007000000332482159,218[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,266[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,237[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(119[&rate=0.005]:0.009000000427477062,(223[&rate=0.005]:0.009000000427477062,234[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,232[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0010000000474974513,(((((((39[&rate=0.005]:0.004000000189989805,(132[&rate=0.005]:0.004000000189989805,412[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513,405[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,((((111[&rate=0.005]:0.0050000002374872565,((((((((((((((((((((153[&rate=0.005]:0.0050000002374872565,((((282[&rate=0.005]:0.003000000142492354,379[&rate=0.005]:0.003000000142492354)[&rate=0.005]:0.0,410[&rate=0.005]:0.003000000142492354)[&rate=0.005]:0.0010000000474974513,306[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,312[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0)[&rate=0.005]:0.0,375[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,251[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,255[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,363[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,260[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,409[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,295[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,399[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,396[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,236[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,381[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,238[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,280[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,240[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,241[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,196[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,331[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,315[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,305[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0)[&rate=0.005]:0.0,323[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,366[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0,189[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,64[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,293[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,(((((((51[&rate=0.005]:0.007000000332482159,(((((((67[&rate=0.005]:0.006000000284984708,235[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,389[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,252[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,296[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,259[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,250[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,279[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0)[&rate=0.005]:0.0,345[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,213[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,292[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,265[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0,301[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,(167[&rate=0.005]:0.007000000332482159,407[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(((((88[&rate=0.005]:0.006000000284984708,(((149[&rate=0.005]:0.004000000189989805,339[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,268[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,269[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0)[&rate=0.005]:0.0,374[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513,(((((((97[&rate=0.005]:0.0050000002374872565,(225[&rate=0.005]:0.0050000002374872565,226[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513,(364[&rate=0.005]:0.0050000002374872565,401[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,200[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0,346[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0,256[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0,146[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0,308[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(91[&rate=0.005]:0.007000000332482159,195[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,365[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,347[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0,246[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513,(42[&rate=0.005]:0.012000000569969416,73[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(((((((((((30[&rate=0.005]:0.003000000142492354,208[&rate=0.005]:0.003000000142492354)[&rate=0.005]:0.0010000000474974513,106[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,285[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513,((56[&rate=0.005]:0.004000000189989805,248[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,203[&rate=0.005]:0.0050000002374872565)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,34[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,(217[&rate=0.005]:0.007000000332482159,227[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(80[&rate=0.005]:0.00800000037997961,353[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,((207[&rate=0.005]:0.009000000427477062,387[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,209[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,((((33[&rate=0.005]:0.009000000427477062,(((((((38[&rate=0.005]:0.007000000332482159,(((((62[&rate=0.005]:0.003000000142492354,94[&rate=0.005]:0.003000000142492354)[&rate=0.005]:0.0010000000474974513,(((122[&rate=0.005]:0.0010000000474974513,321[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,171[&rate=0.005]:0.0020000000949949026)[&rate=0.005]:0.0010000000474974513,304[&rate=0.005]:0.003000000142492354)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,332[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513,(273[&rate=0.005]:0.004000000189989805,348[&rate=0.005]:0.004000000189989805)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,216[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,201[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,161[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,116[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,(243[&rate=0.005]:0.00800000037997961,398[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,92[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,47[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0)[&rate=0.005]:0.0,40[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,303[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513,(((145[&rate=0.005]:0.00800000037997961,212[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,330[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,344[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(((((((((((((55[&rate=0.005]:0.007000000332482159,108[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,357[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,112[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,376[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,340[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,356[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,318[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,184[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,((123[&rate=0.005]:0.007000000332482159,198[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,197[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(84[&rate=0.005]:0.00800000037997961,130[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,160[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513,(((((72[&rate=0.005]:0.007000000332482159,(118[&rate=0.005]:0.006000000284984708,164[&rate=0.005]:0.006000000284984708)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,245[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,257[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0,402[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,(210[&rate=0.005]:0.00800000037997961,261[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,(((((90[&rate=0.005]:0.00800000037997961,105[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,181[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,314[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0,192[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513,169[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513,((133[&rate=0.005]:0.011000000522471964,316[&rate=0.005]:0.011000000522471964)[&rate=0.005]:0.0010000000474974513,185[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(((((((54[&rate=0.005]:0.009000000427477062,((61[&rate=0.005]:0.009000000427477062,((102[&rate=0.005]:0.00800000037997961,299[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,182[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0)[&rate=0.005]:0.0,382[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0)[&rate=0.005]:0.0010000000474974513,((74[&rate=0.005]:0.00800000037997961,107[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513,((126[&rate=0.005]:0.007000000332482159,371[&rate=0.005]:0.007000000332482159)[&rate=0.005]:0.0010000000474974513,158[&rate=0.005]:0.00800000037997961)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,358[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0010000000474974513,377[&rate=0.005]:0.011000000522471964)[&rate=0.005]:0.0010000000474974513,101[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513,(((((((58[&rate=0.005]:0.009000000427477062,352[&rate=0.005]:0.009000000427477062)[&rate=0.005]:0.0010000000474974513,187[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0,300[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0,302[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0010000000474974513,(275[&rate=0.005]:0.010000000474974513,343[&rate=0.005]:0.010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,143[&rate=0.005]:0.011000000522471964)[&rate=0.005]:0.0010000000474974513,325[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0,(137[&rate=0.005]:0.012000000569969416,204[&rate=0.005]:0.012000000569969416)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=0.005]:0.0010000000474974513)[&rate=1.0]:0.0;

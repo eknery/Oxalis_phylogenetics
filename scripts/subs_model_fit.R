@@ -6,7 +6,7 @@ if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 
 ### input diretory
 dir_input = "4_trimmed_sequences/"
-file_name = "ITS.fasta"
+file_name = "rbcL.fasta"
 
 ### read fasta
 one_fasta = read.phyDat(
@@ -49,3 +49,4 @@ write.csv(
   paste0("6_subs_models/",locus_name, ".csv"),
   row.names = FALSE
 )
+

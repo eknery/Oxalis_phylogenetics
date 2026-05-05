@@ -242,7 +242,7 @@ tgctcaataa aaattcccta tctattttgt ttgttcacta cttcttattt gtaattctta
 tacataaaaa atgaaaaaaa aaaaaagggg ggttaagtta gtaaaaacct ggtaaaagtc
 aaaatatata aacaaaaggg tttgcataac ttttatgatc atacataata gctgccaaaa
 tcttgttc
->Oxalis_bifrons_subsp_bifrons_Fiaschi3633
+>Oxalis_bifrons_Fiaschi3633
 atggttcata ttccggattg ggttcatccc tgtagtaatc agatgaactg agtcctagac
 atgaaagcgt aagaactcaa caggactccc tttttttctt tgtctgattc gaggagggtc
 ccgttgagtt cttaatttaa gaatatttta ttcgtataaa tgacaaaaga gattactttt
@@ -255,7 +255,7 @@ atttccctat ctattttgtt tgtccactac ttcttatttt taattcttat acataaaaaa
 tgaaaaaggg ggttaagtta gtaaaaacct ggtaaaaaaa tatataaaca aaaaggtttg
 cataactttt ataatcatac ataatagcgg ataaaatctt gttcttttta caaacttgat
 attgataaat ccgcggatct agaaattcat ttcgaca
->Oxalis_bipartita_subsp_bipartita_Vaio320
+>Oxalis_bipartita_Vaio320
 ggtattcttg tgatcggttt aatcggtatt ttcttttatg gttcatattc cggattgggt
 tcgtccctgt aataatcaga tgaactgagt cctcgacatg aaagcgtaag aactcaacag
 gactcccttt tttctttgtc tgattcgagg agggtcccgt tgagttctta atttaagaat
@@ -809,17 +809,6 @@ taaaatttcc ctatctattt tgtttgttca ctacttttta tttgtaattc ttatacataa
 aaaatgaaaa aagaggttaa gttagtaaaa acccagtaaa aatatatagg aacaaaaata
 tttgcataac ttttatgatc atacataata gctgccaaaa tcttgttctt ttttttttac
 aaatttgata aatccgcgga tctagaaatt catttcggac a
->Oxalis_goyazensis_Cabral100
-gaactcaaca ggactccctt tttctttgtc tgattcgagg agggtcccgt tgagttctta
-atttaagaat attttattcg tataaatgac aaaagaaatt actttttccg atatttaaaa
-aaattccatt gcattttttc taataatgtt ttttgaaaaa ttcatttcag taattgattc
-aaaacatttg ttcctcgata gatactatcg aacctttcaa aattctaaaa aagaaagaat
-cgctcaattt ccttttaatg gaagacacaa ttataatata tatttctgtc aatccgaccc
-aatcctttcc atactaatag aactatactc gatttatttt gagtatctca tcataatgga
-aaatttttta taagtttaag tgaagaaatt ctatttgctc aataaaaata aaatttccct
-atctattttg tttgttcact actttttatt tgtaattctt atacataaaa aatgaagaag
-aggttaagtt agtaaaaacc cagtaaaaat atataggaac aaaaaagatt tgcataactt
-ttatgatcat acataatagc tgccacaatc ttgatctttt t
 >Oxalis_gracilifolia_Cabral193
 aacaagattt tggcagctat tatgtatgat cataaaagtt atgcaaaccc ttttgtttat
 atctattttt attttacttt taccaggttt ttactaactt aatcccctcc cccccctttt
@@ -1976,19 +1965,6 @@ tctattttct ttgtccacta cttcttatac ataaaattct acataaaaga tgaaaaaagg
 ggttaagtta gaaaaaaccc ggtaaaacaa tatataaaca aaaaggtttt aataaatttt
 atgatcatac ataattgatg ataaaatctt gttcttttta caaacttgat gttgataaat
 ccgcggatct agaaattcat ttcggacaat tgaacct
->Oxalis_zamorana_Madsen75130
-tttaatcggt attttctttt atggttcata ttccgganag ggttcatccc tgtagtaatc
-agatgaactg agtcctagac atgaaagcgt aagaactcaa caggactccc tttttctttg
-tctgattcga ggagggtccc gttgagttct taatttaaga atattttatt cgtataagtg
-acaaaagaaa ttaatttttc cgctatttca aaaaattcca ttgcattttt tctaataatg
-ttttttgaaa aattaatttc agtaattgat tcaaaacatt tgttcctcga tagatactat
-cgaaactttc aaaattctaa aaaagaaaga atcgctcaat tttcttttcg tggaagacac
-aattataata tatatttctg tcaatccgac caaatccttt ctatactaat agaactatac
-tcgatttatt ttgagtatct catcataatg gaaaattttt tataagttta agtgaagaag
-ttctatttgc tcaataaaat ttccctacct attttgtttg ttcactactc tttatttgta
-attcttatac ataaaaaatg aaaaaagggg ttaagttagt aaaaacccgg taaaaatata
-tagaaacaaa aagatkygca taacttttat gatcatcaca taatagctgc caaaatcttg
-ttctttttaa aacttgatgt tgataaatcc gcggat
 >Rourea_microphylla_MT537171
 ttttttttcc agttttttac taaccccttt taaaattttt tacgtataag aattaagaat
 aagaagtagt gtacaaacaa aatagatagg gaaattttat tgagcaaata gaacttcttc

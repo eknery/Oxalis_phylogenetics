@@ -10,7 +10,7 @@ dir_out = "5_concatenated_sequences/"
 all_loci = list.files(path = paste0(dir_input), pattern = ".fasta")
 
 ### select?
-locus_filter = "plastid"
+locus_filter = "none"
 if(locus_filter == "plastid"){
   all_loci = all_loci[!all_loci %in% c("ITS.fasta","ncpGS.fasta")]
 }

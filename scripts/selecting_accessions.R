@@ -17,6 +17,7 @@ for(i in 1:length(file_names)){
     h= T
   )
 }
+################################ DESCRIBING SAMPLING ###########################
 
 ### all taxon names
 all_tx_names = c()
@@ -25,12 +26,8 @@ for(i in 1:length(file_names)){
 }
 all_tx_names = sort(all_tx_names)
 
-# hasError = c()
-# for(i in 1:length(file_names)){
-#   hasError = c(hasError, sum(file_list[[i]]$taxon %in% "Oxalis_rhombeo-ovata") )
-# }
-# names(hasError) = file_names
-# hasError
+## only Oxalis names
+sum(grepl("Oxalis", all_tx_names))
 
 ### all column names
 all_col_names = c()
@@ -46,20 +43,33 @@ all_marker_names = sort(all_marker_names)
 ### joining into a single dt
 all_acc = rbindlist(file_list, fill = T)
 
-### number of entries per marker
+### number of specimens in Oxalis
+length(unique(all_acc[grepl("Oxalis", all_acc$taxon),]$specimen))
+
+### only Oxalis accessions
+all_acc_oxalis = all_acc[grepl("Oxalis", all_acc$taxon),]
+
+### number of entries per locus
 n_entry = c()
 for(marker_name in all_marker_names){
-  n_entry = c(n_entry, sum(!is.na(all_acc[[marker_name]])) )
+  n_entry = c(n_entry, sum(!is.na(all_acc_oxalis[[marker_name]])) )
 }
 names(n_entry) = all_marker_names
 
-### key marker = maximum number of entries
+### number of entries per locus for Oxalis
+n_entry
+### total number of entries for Oxalis
+sum(n_entry)
+
+### key marker = maximum number of entries in Oxalis
 key_marker_name = names(which.max(n_entry))
 
 ### counting sequenced markers and key marker per specimen
 marker_index = which(colnames(all_acc) %in% all_marker_names)
 all_acc$Nmarker = rowSums(!is.na( all_acc[,..marker_index]))
 all_acc$Kmarker = !is.na(all_acc[[key_marker_name]])
+
+############################## SELECTING SPECIMENS #############################
 
 ### selecting best specimen per taxon
 selected_acc = c()

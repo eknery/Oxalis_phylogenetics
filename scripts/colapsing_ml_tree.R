@@ -7,8 +7,8 @@ if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 if(!require("ips")) install.packages("ips"); library("ips")
 
 ### file names
-dir_input = "7_ml_phylogenies/"
-tree_name = "bestTree_support_unrooted.tre"
+dir_input = "7_ml_phylogenies/8_loci_427_spp/"
+tree_name = "bestML_support.tre"
 
 ### import
 tree = read.tree(file = paste0(dir_input, tree_name))
@@ -36,6 +36,6 @@ ctree$node.label = NULL
 ### export
 write.tree(
   phy =  ctree,
-  file = paste0(dir_input,"bestTree_topology", cutoff,"_unrooted.tre")
+  file = paste0(dir_input,"bestML_topology", cutoff,"_unrooted.tre")
 )
            

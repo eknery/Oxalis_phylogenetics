@@ -1401,6 +1401,20 @@ atttccacgg cccggccctg gtcactacct agccggggcc ttttttttat tccttttatt
 ccaatgaatc atatgagtcc ttttattcta atctcattag gagacctaat gaaatacctc
 agcgctttaa ttttcatgat tctttatttg atcctatatt catttcgtct gattcccttg
 ctcgacaaag ggtctattta tatacaataa tcgca
+>Oxalis_nivea_MO1462
+attactacgt tccattacac aaaaattaag acttgaaaaa agttctgttt ctctctcttt
+attataactt tattatataa aaatattttt tatctcgctt ttgtctattt ctatcttact
+ttatttcagc cattccattt agataaagtt ttagagaaag taaaggctcg aaagagatat
+ctacaactca atattataac caaacagtat cccaatcaat attcaatata taataaataa
+aaattaatct ctatagatat attattctat ttatgtttat aagtttagtt tataaattcg
+atttttaaaa acaaatatta tctataaaaa aatattctat ttctcatatt atttatattt
+taaatatttt ttatctttta ttttctaatt ttctgttttt tctaaattta gaaaaaaaaa
+aatagaatac ctctttgatt ctatattata gattaagaaa acttttttcg tcgttcatct
+gaaaatgaaa agccttttct tttatttcta tttccacggc ccggccctgg tcagtaccta
+gccggggcct ttttttattc cttttattcc aatgaatcat atgagtcctt ttattgtaat
+ctcattagga gacctaatga aatacctcag cactttagtt ttcatgattc ttttttgatc
+ctatattcat ttcgtctgat taccttgctc gacaaagggt ctatttatat acantaancg
+c
 >Oxalis_nortieri_Oberlander0112
 attactatgt tccattacac aaaaattaag acttgaaaaa agttctgttt ctctctcttt
 attataactt tattatatat atatttttta tttcgctttt gtgtatttct atcttacttt
@@ -1575,6 +1589,20 @@ cggcccggcc ctggtcagta cctagccggg gcccttattt tattccaatg aatcatacga
 gtcctcttat tctaatctca ttaggagacc caatgaaaaa cctcagcgct ttagttttca
 tgattctttt ttgatcctgt attcatgtcg tccgattccc ttgctcgaca aagggtccat
 ttata
+>Oxalis_petricola_MO1472
+attactgcgt tccattacac aaaaattaag acttgaaaaa agttctgttt ctctctcttt
+attataactt tattatatat atattttttt tatctcgctt ttgtctattt ctatcttact
+ttatttcagc cattccattt agataaagtt ttagagaaag taaaggctcg aaagagatat
+ctacaactca atattataac caaacagtat cccaatcaat attcaatata taatcaataa
+aaattaatct ctatagatat attattctat ttatgtttat aagtttagtt tataaattcg
+atttctaaaa acaaatatta tctataaaaa aatattctat ttctcatatt atttatattt
+taaatatttt ttatctttta ttttataatt ttctgttttt tctaaattta gaaaaaaaat
+agaatacttc tttgattcta tattatagat taagaagact tttttcgtcg ttcatctgaa
+aatgaaaagc cttttctttt atttctattt ccacggcccg gccctggtca gtacctagcc
+ggggcctttt tttattcctt ttattccctt ttattccaat gaatcatatg agtcctttta
+ttctaatctc attaggcgac ctaatgaaat acctcagcac tttagttttc atgattcttt
+tttgatccta tattcatttc gtctgattac cttgctcgac aaagggtcta tttatataca
+ntaancgc
 >Oxalis_phloxidiflora_Dreyer678
 attactatgt tccattacac gaaaattaag acttgaaata agacttgaaa aaggtaatgt
 ttctctctct attattataa ctttatttta tatatttata ttttatttcg cttttgtgta
@@ -1788,6 +1816,33 @@ atactttttt cgtcgttcat ctgaaaagcc tcttctttga tttccacggc ccggccctgg
 tcagtaccta gccggggcct tgttttattc caatgaatca tatgagtcct cttattctaa
 tctcatttag gagacctaat aaaatacctc agcgctccaa ttttcatgat tcttttttga
 tcctatattc atttcgtccg attcccttgc tcgacaaagg gtctatttat a
+>Oxalis_rosettifolia_MO1468
+attactacgt tccattacac aaaaattaag acttgaaaaa agttctcttt ctctctcttt
+attataactt tattatataa aaatattttt tatctcgctt ttgtctattt ctatcttact
+ttatttcagc cattccattt agataaagtt ttagagaaag taaaggctcg aaagagatat
+ctacaactca atattataac caaacagtat cccaatcaat attcaataaa taataaataa
+aaattaatct ctatagatat attattctat ttatgtttat aagtttagtt tataaattcg
+atttttaaaa acaaatatta tctataaaaa aatattctat ttctcatatt atttatattt
+taaatatttt ttatctttta ttttctgttt tttctaaatt tagaaaataa aatagaatac
+ctctttgatt ctatattata gattaagaaa acttttttcg tcgttcatct gaaaatgaaa
+agccttttct tttatttcta tttccacggc ccggccctgg tcagtaccta gccggggcct
+ttttttattc cttttattcc aatgaatcat atgagtcctt ttattgtaat ctcattagga
+gacctaatga aatacctcag cactttagtt ttcatgattc ttttttgatc ctatattcat
+ttcgtctgat taccttgctc gacaaagggt ctatttatat acantaancg c
+>Oxalis_rubricallosa_MO1461
+attactacgt tccattacac aaaaattaag acttgaaaaa agttctgttt ctctctcttt
+attataactt tattatatat atattttttt tatctcgctt ttgtctattt ctatcttact
+ttatttcagc cattccattt agataaagtt ttagagaagg taaaggctcg aaagagatat
+ctacaactca atattataac caaatagtat cccaatcaat attcaatata taatcaataa
+aaattaatct ctatagatat attattctat ttatgtttat aagtttagtt tataaattcg
+atttctaaaa acaaatatta tctataaaaa aatattctat ttctcatatt atttatattt
+taaatatttt ttatctttta ttttataatt ttctgttttt tctaaattta gaaaaaaaaa
+aatagaatac ttctttgatt ctatattata gattaagaag acttttttcg tcgttcatct
+gaaaatgaaa agccttttct tttatttcta tttccacggc ccggccctgg tcagtaccta
+gccggggcct ttttttattc cttttattcc aatgaatcat atgagtcctt ttattctaat
+ctcattagga gacctaatga aatacctcag cactttagtt ttcatgattc ttttttgatc
+ctatattcat ttcgtctgat taccttgctc gacaaagggt ctatttatat acantaancg
+c
 >Oxalis_salteri_Dreyer784
 attactatat tccattacac aaatacacaa aaattaagac ttgaaaaaaa gttctgtttc
 tctctcttta ttataacttt attttatata tattttattt cgcttttgtg tatctctgtc

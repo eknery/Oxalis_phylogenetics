@@ -8,7 +8,7 @@ dir_input = "1_selected_accessions/"
 dir_out = "2_raw_sequences/"
 
 ### read acessions table
-best_acc = read.csv(paste0(dir_input, "best_acc2.csv") )
+best_acc = read.csv(paste0(dir_input, "best_acc.csv") )
 
 ############################### GETTING SEQUENCES #############################
 
