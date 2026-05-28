@@ -6,7 +6,7 @@ if(!require("ips")) install.packages("ips"); library("ips")
 
 ### file names
 dir_input = "8_bayesian_phylogenies/"
-tree_name = "mcc_clean.tre"
+tree_name = "mcc_median_clean.tre"
 
 ### import
 tree = read.tree(file = paste0(dir_input, tree_name))
