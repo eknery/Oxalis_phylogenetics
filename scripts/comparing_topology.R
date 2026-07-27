@@ -6,13 +6,10 @@ if(!require("ape")) install.packages("ape"); library("ape")
 if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 
 ### file names
-dir_input = "7_ml_phylogenies/bootstrap_raxml/"
+dir_input = "7_ml_phylogenies/bootstrap/"
 
 ### files in directory
 file_names = list.files(dir_input)
-
-### remove ncpGS
-#file_names = c("ITS.tre", "plastid.tre", "rbcL.tre")
 
 ### loading data
 tree_list = list()
@@ -35,7 +32,7 @@ for(i in 1:length(tree_list)){
 all_names = sort(unique(all_names))
 
 ### get names per locus
-names_loci =  all_names
+names_loci = all_names
 for(i in 1:length(tree_list)){
   boll_names = all_names %in% tree_list[[i]][[1]]$tip.label
   names_loci = cbind(names_loci, boll_names)
@@ -54,8 +51,8 @@ common_names = common_names[grepl("Oxalis_", common_names)]
 
 ################################ PROCESSING TREES #############################
 
-# pruning trees to sampled species
-pruned_trees_list = tree_list
+### pruning trees to sampled species
+pruned_tree_list = tree_list
 for (i in 1:length(tree_list) ){
   pruned_trees = tree_list[[i]]
   for(j in 1:length(tree_list[[i]]) ){
@@ -63,13 +60,13 @@ for (i in 1:length(tree_list) ){
                             tip = common_names)
     
   }
-  pruned_trees_list[[i]] = pruned_trees
+  pruned_tree_list[[i]] = pruned_trees
 }
 
 ### transforming in vector
 pruned_trees_vec = c()
-for(i in 1:length(pruned_trees_list)){
-  pruned_trees_vec = c(pruned_trees_vec, pruned_trees_list[[i]] )
+for(i in 1:length(pruned_tree_list)){
+  pruned_trees_vec = c(pruned_trees_vec, pruned_tree_list[[i]] )
 }
 
 
@@ -77,8 +74,8 @@ for(i in 1:length(pruned_trees_list)){
 
 ### distance
 dist = RF.dist(
-  c(pruned_trees_list[[1]],  
-    pruned_trees_list[[2]]
+  c(pruned_tree_list[[1]],  
+    pruned_tree_list[[2]]
     ),
   tree2 = NULL, 
   normalize = T
@@ -86,9 +83,9 @@ dist = RF.dist(
 
 ### getting vector with names for each distance
 locus = c()
-for(i in 1:length(pruned_trees_list)){
-  locus_name = names(pruned_trees_list)[i]
-  locus_rep = rep(locus_name, length.out= length(pruned_trees_list[[i]]) )
+for(i in 1:length(pruned_tree_list)){
+  locus_name = names(pruned_tree_list)[i]
+  locus_rep = rep(locus_name, length.out= length(pruned_tree_list[[i]]) )
   locus = c(locus, locus_rep)
 }
 
@@ -109,9 +106,8 @@ pcoa_plot = ggplot(data = pcoa_df,
   
   geom_point(size = 1, alpha = 0.5) +
   scale_colour_manual(values=c(
-    "all_loci" = "black",
-    "ITS"= "darkorange",
-    "plastid" = "darkgreen"
+    "nuclear"= "darkorange",
+    "plastidial" = "darkgreen"
     )
   )+
   labs(x= pc_axis_1, 

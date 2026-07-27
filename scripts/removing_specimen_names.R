@@ -5,8 +5,8 @@ if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 if(!require("ips")) install.packages("ips"); library("ips")
 
 ### file names
-dir_input = "8_bayesian_phylogenies/"
-tree_name = "mcc_median_clean.tre"
+dir_input = "8_bayesian_phylogenies/8_loci_430_spp/"
+tree_name = "mcc.tre"
 
 ### import
 tree = read.tree(file = paste0(dir_input, tree_name))

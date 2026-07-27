@@ -1,13 +1,11 @@
 ### load libraries
-if(!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
-if(!require("ggplot2")) install.packages("ggplot2"); library("ggplot2")
 if(!require("phangorn")) install.packages("phangorn"); library("phangorn")
 if(!require("ape")) install.packages("ape"); library("ape")
 if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 if(!require("ips")) install.packages("ips"); library("ips")
 
 ### file names
-dir_input = "7_ml_phylogenies/8_loci_427_spp/"
+dir_input = "7_ml_phylogenies/8_loci_430_spp/"
 tree_name = "bestML_support.tre"
 
 ### import

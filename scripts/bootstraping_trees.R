@@ -6,7 +6,7 @@ if(!require("ape")) install.packages("ape"); library("ape")
 if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 
 ### input diretory
-dir_input = "4_trimmed_sequences/"
+dir_input = "5_concatenated_sequences/"
 file_names = list.files(dir_input)
 
 ### loading data

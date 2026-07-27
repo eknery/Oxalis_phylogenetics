@@ -190,6 +190,28 @@ cggtggagga actttagggc acccttgggg aaatgcaccg ggtgctgtag ctaatcgagt
 ggctctagaa gcatgtgtac aagctcgtaa tgaagggcgt gatcttgctc gtgagggtaa
 tgaaattatc cgtgaggctt gcaaatggag tcctgaacta gctgctgctt gtgaagtatg
 gaaagagatc aaatttgaat ttgaagcgat ggatactttg taa
+>Oxalis_aff_dombey_Gaspar171
+ccggtgttaa agattataaa ttgacttatt atactcctga atatgaaacc aaagatactg
+atatcttggc agcattccga gtaactcctc aacctggagt tcctcctgag gaagccgggg
+cagcggtagc tgctgaatct tctactggta catggacaac tgtgtggacc gatgggctta
+ccagtcttga tcgttacaaa ggacgatgct accacatcga gcctgttgct ggagaagaaa
+atcaatatat tgcttatgta gcttatccct tagacctttt tgaagaaggt tctgttacta
+acatgtttac ttccattgtg ggtaatgtgt ttgggttcaa ggcgctgcgg gctctacgtc
+tggaggattt gcgaatccct cctgcttatt ctaaaacttt tcaaggcccg cctcatggca
+tccaagttga gagagataaa ttgaacaagt acggccgccc cctattggga tgtactatta
+aacctaaatt ggggttatcc gctaagaatt a--------- ---------- ----------
+---------- ---
+>Oxalis_aff_pickeringii_Gaspar275
+ccggtgttaa agattataaa ttgacttatt atactcctga atatgaaacc aaagatactg
+atatcttggc agcattccga gtaactcctc aacctggagt tcctcctgag gaagccgggg
+cagcggtagc tgctgaatct tctactggta catggacaac tgtgtggacc gatgggctta
+ccagtcttga tcgttacaaa ggacgatgct accacatcga gcctgttgct ggagaagaaa
+atcaatatat tgcttatgta gcttatccct tagacctttt tgaagaaggt tctgttacta
+acatgtttac ttccattgtg ggtaatgtgt ttgggttcaa ggcgctgcgg gctctacgtc
+tggaggattt gagaatccct cctgcttatt ctaaaacttt tcaaggcccg cctcatggca
+tccaagttga gagagataaa ttgaacaagt acggccgccc cctattggga tgtactatta
+aacctaaatt ggggttatcc gctaagaatt a--------- ---------- ----------
+---------- ---
 >Oxalis_arbuscula_HeiblPfanzelt05-050
 gacttattat actcctgact atgaaaccaa agatactgat atcttggcag cattccgagt
 aactcctcaa cctggagttc cccctgagga agccggagca gcggtagctg ctgaatcttc
@@ -547,6 +569,17 @@ tggtggagga actttagggc acccttgggg aaatgcaccg ggtgctgtag ctaatcgagt
 ggcttcagaa gcatgtgtac aagctcgtaa tgaagggcgt gatcttgctc gtgagggtaa
 tgaaattatc cgtgaggctt gcaaatggag tcctgaactg gctgctgctt gtgaagtatg
 gaaagagatc aaatttgaa
+>Oxalis_pickeringii_Gaspar175
+ccggtgttaa agattataaa ttgacttatt atactcctga atatgaaacc aaagatactg
+atatcttggc agcattccga gtaactcctc aacctggagt tcctcctgag gaagccgggg
+cagcggtagc tgctgaatct tctactggta catggacaac tgtgtggacc gatgggctta
+ccagtcttga tcgttacaaa ggacgatgct accacatcga gcctgttgct ggagaagaaa
+atcaatatat tgcttatgta gcttatccct tagacctttt tgaagaaggt tctgttacta
+acatgtttac ttccattgtg ggtaatgtgt ttgggttcaa ggcgctgcgg gctctacgtc
+tggaggattt gcgaatccct cctgcttatt ctaaaacttt tcaaggcccg cctcatggca
+tccaagttga gagagataaa ttgaacaagt acggccgccc cctattggga tgtactatta
+aacctaaatt ggggttatcc gctaagaatt a--------- ---------- ----------
+---------- ---
 >Oxalis_ricardii_Heibl01-072
 gacttattat actcctgact atgaaaccaa agatactgat atcttggcag cattccgagt
 aactcctcaa cctggagttc cccctgagga agccggggca gcggtagctg ctgaatcttc

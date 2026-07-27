@@ -33,20 +33,6 @@ ccacgagggg ggcggatact ggcctcccgt gtgcacaccg cccgcggttg gccaaaaacc
 gagtcccacg gcgtcgagcg ccatgacaaa cggtggttgg cctgatccaa agacctggta
 acaccgtcgt gcgcgttcgt tgccatcgat gtggttctcc gggacccaga ttctttttcg
 catc
->Biophytum_abyssinicum_BIOAB
-tgggcggttc gccgccggcg acgtcgcgag aagtccattg aaccttatca tttagaggaa
-ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcaaaacctg
-caaagcagaa ccaccggcga acatgttccc aacacaacct gacggtcgcg ggaagtgctt
-atgcctttcc gccctgtcaa accgtacccc cggcgcgaat cgcgccaagt aatccacata
-gtgagagcga tcgtcctcgc ggcccggaaa cggatacctc gtggggcgta ctttctctcg
-aaataaacaa atacgactct cggcaacgga tatctcggct ctcgcatcga tgaagaacgt
-agcgaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag tctttgaacg
-caagttgcgc cccaagcctt taggccgagg gcacgtctgc ctgggtgtca cacatcgtcg
-cccaaaaaac cattgaccct ctctcggggg ggcttttgag tgggcggaat atggcctccc
-gtgagcttcc gtctcgcggt tggccgaaat aagagcccgg ggcgtcgaac gccacgacta
-gcggtggttg gcatgttcca atgactactt aacccagtcg cgagcggtcg aatccgagac
-acggcgctcg agtaccccta agcgtcgccc agcgatgctc gttacgcgac cccaggtcag
-gcgggactac ccgctgagtt taagcatatc aataagcgga ggaaaag
 >Brunellia_antioquensis_MN615725
 catttcgaga cctgcccggc ggaacgaccc cgcgaacgtg ttcaaacaaa cgacccgtcc
 ggggaagcgg gcggccgtcg ccccggcggc ggtccgtttg ctccccggcc caacaacgaa
@@ -271,6 +257,34 @@ gaaaatggcc tcccgtgcgc acgtccgcgc ggttggccga aaatcagtgc caaggtctag
 agcgcctcga ccagcggtgg ttggcatgtt ccaatgaccc tcttgcacgg ccgtgtgctg
 ctctgccttg attgcggcgc cgttttgaga cccctcatgc gttgacgcat gccatgcgac
 cccaggtcag gcgggactac ccgctgagtt taagcatatc aataagcgga ggaaaag
+>Oxalis_aff_dombey_Gaspar171
+gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca agttgcgccc caagccgtca
+ggctgagggc acgcctgcct gggtgtcact yatcgtcgcc caaaaaagac cgcgccccgg
+gtgcggtcgg cggatattgg cctcccgcgc gcacaagctc gcggttggcc caaatgcaag
+tgccamggcg tcgagtgcct cgacaagcgg tggttggcat gtcccagcga ccataatacc
+atgttgtgcg ccctcgttcg ccgttgactg ttgcacttat cgacccagtc gcgctgcctc
+ggcaacgctc ca-------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
+>Oxalis_aff_pickeringii_Gaspar275
+ttgtcgaatc ctgcccggca gaacaactag agaatgcgtt cggaaggtga aatcaaacgg
+ccgccggggg gagcccgagc cgcacggcct cggcctgcgt cgttaggcgg cccccgacag
+cctaacaaca aaaccccggc acgggttgtg ccaaggaatc ctccacggag gtcgtgtgcc
+tttgggcgcc cggagacgga gcagtccctt gggcacccga tccctagcat gtgtatgaca
+aacgactctc gacaacggat atctcggctc tcgcatcgat gaagaacgta gcgaaatgcg
+atacttggtg tgaattgcag aatcccgtga accatcgagt ctttgaacgc aagttgcgcc
+ccaagccgtc aggctgaggg cacgcctgcc tgggtgtcac tcatcgtcgc ccaaaaagac
+cgcgccccgg gcgcggtcgg cggagattgg cctcccgcgc gcacacgcta gcggttggcc
+caaatgcaag tgccaaggcg tcgagtgcct cgacaagcgg tggttggcat gtcccagcga
+ccataatacc ctgttgtgcg cgctcgcttc gccgtgactg ttgcacttat cgacccagtc
+gcgctgcctc ggcatcgctc cccgtgcgac cccatgtcag gcgggactac ccgct-----
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_alpina_Gardner45
 gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt gtcgatacct gcttttgcag
 aacaacatgc gaatgtattc ttgaaggaaa aattcaagct gcgggcgagt gggtgctggc
@@ -384,7 +398,8 @@ tgtcacgcac gtcatcgcca gccgatgctt cggcggcgga agttggcctc ccgtcggctt
 gagcttgcgg ttggcccaaa ttcgagtgtc agggcgtcga gcgcctcttt cggcgatgtt
 tggctcgttc caaagacatg ctcgctcggc cgtgcgcgtt cgtcgccttc aaagaggagg
 cactctcgga accccaaaag gcgtcgcctc gtttaggcct cgcccgatac gcgaccccag
-gtcaggcggg accacccgct gagtttaagc atatc
+gtcaggcggg accacccgct gagtttaagc atatc----- ---------- ----------
+--
 >Oxalis_annae_Mucina170903/3
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -478,7 +493,8 @@ gtcgagagtc atttttttcc gcatcgtatg cacacgacta ggaccggtcg cacaccccga
 gcgctccgtc tccgggcgtc gggcgggaac ggcctaggtt gccatcgtat tccttggcgc
 gactcgcgcc gtgggtttgt taagggtcgg cgtgccgggg gccccttgga gaagaagcac
 ccaagctcca cagtctttct caaacacatt cgcttggttt ttccgagagg gacaggggca
-acgacaatga tccttccgca ggttcaccta cggaaacctt gttagac
+acgacaatga tccttccgca ggttcaccta cggaaacctt gttagac--- ----------
+--
 >Oxalis_articulata_forma_crassipes_Emshwiller463
 ctaacaaggt ntntntaggt gaaccngcgg aaggatcatt gtygatacat gcttttgcag
 cgcaacatgc gaatgtattc tggaagaaag gacccgagct acggacgagt cgggtgctgg
@@ -798,17 +814,17 @@ gcggtggttg gcatgttcca atgaccctct tgcacggctg tgtgctgctc tgccttcttt
 cgcggtgccg aattgtgacc catcatgcat cgacgcatgc tatatgcgac cccaggtcag
 gcgggactac ccgctgagtt taagcatatc a
 >Oxalis_caesariata_Fiaschi5273
-aggtttcggt aggtgaacct gcggaaggat cattgtcgat acctgcccga aaagcacgac
-ccgagaacga gtttggaaac ataaaaatta cggggccccg gccccggcaa caaacccacg
-gcgcgagtcg cgccaaggat tccgcacgcg atcgagggcc cggccctcct ttgtaaaggc
-tatgaaatta taaaacgact ctcgacaacg gatatctcgg ctctcgcatc gatgaagaac
-gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
-cgcaagttgc gccccaagcc gttaggccga gggcacgcct gcctgggtgt cacacgtcgt
-cgcctcacaa gcctcgcccg cctcgggcgt ggtcggcgga agttggcctc ccgcgagccc
+gtaacaaggt ttcggtaggt gaacctgcgg aaggatcatt gtcgatacct gccgaaaagc
+acgacccgag aacgagtttg gaaacataaa aattacgggg ccccggcccc ggcaacaaac
+ccacggcgcg agtcgcgcca aggattccgc acgcgatcga gggcccggcc ctcctttgta
+aaggctatga ataaaacgac tctcgacaac ggatatctcg gctctcgcat cgatgaagaa
+cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+acgcaagttg cgccccaagc cgttaggccg agggcacgcc tgcctgggtg tcacacgtcg
+tcgcctcaca agcctcgccc cctcgggcgt ggtcggcgga agttggcctc ccgcgagccc
 ctgccctcgc ggctggccca aattcaaggt gccaaggcgt cgagagcctc gaccagcggt
-ggttggcatg tcccaatgac cctcttgccc ggtcgtgcgc gctcctcgcc cccggattca
-ggccccttcg gacccttgcg cgtcgctccg gcggcgctcg cctcgcgacc ccaggtcagg
-c
+ggttggcatg tcccaatgac cctcttgccc ggtcgtgcgc gctcctcgcc cgattcaggc
+cccttcggac ccttgcgcgt cgctccggcg gcgctcgcct cgcgacccca ggtcaggcgg
+gactacccgc tgagtttaag cat
 >Oxalis_caesia_Heibl02-012
 tgggcggttc gccgccggcg acgtcgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg ccgatgcctg
@@ -824,7 +840,7 @@ aacgcaagtg ccaaggcgtc gggtgcctcg accagcggtg gttggcatgt cccaatggtc
 ccggtcgtgc gcattcgcct cgccttgatc gtggtgctta acgacccatt tttgcgtcgc
 ttcggcgatg cgccccatgc ggccccaggt caggcgggac tacccgctga gtttaagcat
 atcaataagc gg
->Oxalis_calachaccensis_Emshwiller880X
+>Oxalis_calachaccensis_Emshwiller880
 aacaaggttt ccgtaggtga actgcggaag gatcattgtc gatacctgcc tagcagagcg
 acccgagaac tcgtttacaa accgaagggc cgttccggag agggctcggc ggcccggcct
 cggccggtgc ccgacgtccc tcgacggcgc gagccaacaa caatccccgg cggcgagctg
@@ -971,6 +987,9 @@ gccccaagcc gttaggccga gggcacgcct gcctgggtgt cacacgtcgt cgcctcacaa
 tccccgccca tccgggtggg gacggcggaa gttggcctcc cgcgagctgc tgcccttgcg
 gttggcccaa atttaaggtg ccaaggcgtc gagagcctcg accagcggtg gttggcatgc
 tccaatgacc ctcttgctcg gtcgtgcgcg ctcgtcgccc catcgtggcc cctgcggacc
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_cf_canaliculata_BayerN
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -1060,7 +1079,9 @@ tgcgcccgaa gccgtcaggc cgagggcacg cctgcctggg tgtcacgcat gtcgtcgctc
 gccgatacgt cggtggcgga aattgtcctc ccgttggtgc gagcctgcgg ttggcccaaa
 ttcgagtgcc agggcgtcga gcaccccgtc cggcgatgtt tggctcgttc caatgaacag
 gcttgtccgg tcgtgcttgc tcttcgcccg aatgaaggag gtgcccaagg aaccccaaaa
-ggcgtcgcct ctctgaggcc ttgcccgata cgcgacccca gtc
+ggcgtcgcct ctctgaggcc ttgcccgata cgcgacccca gtc------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_clavifolia_Oberlander0141
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -1182,7 +1203,8 @@ ctggcctccc gggagcgccc gctcgcggct ggccgaaatt caagtgccaa aggtgtcgag
 cgcctcgacc agcggtggtt ggcatgttcc aatgaccctc tatcccggtt gtgcgcgccc
 gtcgccttgt ctgcggtgct taccgaccct cttgcgccgc accgacggcg ctcgcttcgc
 gaccccaggt caggcgggac tacccgctga gtttaagcat atcaataagc ggaggaaaag
-aa
+aa-------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_conorrhiza_Vaio175
 aacaaggttt ccgtaggtga acctgcggaa ggatcattgt cgatacctgc ctagcagaca
 gacccgcgaa cgcgtttcga atcgaacggt tcctccggag agggttcggc ggcccggcct
@@ -1334,7 +1356,9 @@ gggcacgcct gcctgggtgt cacgcacgtc gtcgcccgcc gatgcgtcgg tggcggaaat
 tggcctcccg ttggcgcgag cccgcggttg gcccaaattc gagtgccagg gcgtcgagcg
 cctcgaccgg cggtgtttgg cttgttccaa aggcacgctt gcccggtcgc gcgcgttcct
 tgcccagaaa caaaggaggt gctcaccgac cccaaggggc gtcgcctcgt cgaggcctcg
-cccgatacgc raccccaggt caggcgggac cacccgctga gtttaagcat atc
+cccgatacgc raccccaggt caggcgggac cacccgctga gtttaagcat atc-------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_densa_Oberlander0169
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -1412,7 +1436,9 @@ cgtcgcccgc cgatgcgtcg gtggcggaca ttggcctccc gtmggcgcga gccggcggtt
 ggcccaaatt cgagtgccgg ggcgtcgagc gcctcgaccg gcggtgtttg gctcgttcca
 aagacacgct cgcccggtcg tgcgcgttcc tcgccgagaa caaagcagac actctcggat
 cccaattggc atcgccgctc gcctcggctt tgcccgatac gcgaccccag gtcaggcggg
-accacccgct gagtttaagc atatcaataa gcggagga
+accacccgct gagtttaagc atatcaataa gcggagga-- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_diamantinae_Richetti61
 gtaacaaggt ttctgtaggt gaacctgcgg aaggatcatt gtcgatacct gcctagcagc
 acgacccgcg aacgcgtttt gatggcaawc catcgtgccg cggggtggcg ctcgtctgtc
@@ -1559,7 +1585,8 @@ tcactcatcg tcgcccaaaa aataccgcac cccgggtgcg gctggcggag attggcctcc
 cgtgcgcaca cgctcgcggt tggcccaaat gcaagtgcca aggcgtcgag tgcctcgaca
 agcggtggtt ggcatgtccc agcgaccata gtaccctgtt gtgcgccctc gcttcgccgt
 gtctgttgca cttatcgacc cagtcgcgtt gcctcggcaa cgctccctgt gcgaccccat
-gtcaggcggg actacccgct gagt
+gtcaggcggg actacccgct gagt------ ---------- ---------- ----------
+--
 >Oxalis_dregei_Mucina210903/11
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -1768,7 +1795,9 @@ ttttcttttt gactatatat gacgagaccg cgcgcttcca cgcccagtcc gcctatcgta
 gattccttgg cgcgactcgc gccgggtttg gagtttaggc cacggaacga ggaggcacta
 gccggggcta gaagccgact cgcccggagc acgagttctt attccttcat gaatacgttc
 gcaagttgtt ctgccaagca ggtatcgaca atgatccttc cgcaggttca cctacggaaa
-ccttgtt
+ccttgtt--- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_fenestrata_MO1527
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -1953,7 +1982,9 @@ ctgggtgtca cacgtcgtcg cctaacaagc cccgcccgcc ccgggcgagg acggcggaag
 ttggcctccc gcgagcccct gccctcgcgg ctggcccaaa ttcaaggtgc caaggcgtcg
 agagcctcga ccagcggtgg ttggcatgtt ccaatgaccc tcttgcccgg tcgtgcgcgc
 tcctcgcccc ccgatttcgg ccccttcgga cccttgcgcg tcgctccggc ggcgctcgcc
-tcgcgacccc aggtcaggcg ggactacccg ctgagtttaa gcatatcaat aagcg
+tcgcgacccc aggtcaggcg ggactacccg ctgagtttaa gcatatcaat aagcg-----
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_geralensis_UnknownN
 aggatcattg tcgatacctg ctcttgcaga acaacatgcg aatatattcg ggaagaaaaa
 atacgagccg tggacgagtc gggtggtggc cctaggccag tgtctgcttg ctccgtggca
@@ -2047,7 +2078,8 @@ ggtggcggag attggcctcc cgtaggcgcg agccggcggt tggcccaaat tcgagtgccg
 gggcgtcgag cgcctcgacc ggcggtgttt ggctcgttcc aaagacacgc ttgctaggtc
 gtgcgcgttc ctcgccgaga acaaagtaga cactctcgga tcccaattgg catcgccact
 tgccttggct ttgcccgata agcgacccca ggtcaggcgg gaccacccgc tgagtttaag
-catatc
+catatc---- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_gracilipes_Dreyer645
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -2209,7 +2241,8 @@ tgggtgtcgc atgtcgtcgc cccagcaaac ttatcctttt taagtgtggc tggcggaaaa
 tggcctcccg tgcgcaggcg atcgcggttg gcccaaatgc aagtgccaag gcgtggagcg
 cctcgaccag gggtggtttg gttgctccgg tttccctctt gcctggtcgt gcgcgctcct
 cggctttgat ccgaccacgg tgcttatcga cccttgtgca ctgcttccga tgctcgctgc
-gctaccccag gtcgggcggg aatacccgcc gagttta
+gctaccccag gtcgggcggg aatacccgcc gagttta--- ---------- ----------
+--
 >Oxalis_helicoides_MO936
 tgggtggtcc gccgccggcg acgccgcgag aagtcccctg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatgcctg
@@ -2403,7 +2436,8 @@ tatccgttgt cgagagtcgt tttttgcatc gtatgcatac aactaggacc ggccgcaccc
 cgggagctcc gtctccggag catcggggga ggacggccta gatttcgatc gtattccttg
 gcgcgactcg cgccgtgggt ttggtttcgg gtcggcgtgc cgggggactc ggagatcccc
 cgcgctcgcg ctgtcttttt ctcaaacacg ttcgctcgtt ttttccgaga ggggcagggg
-caccgacaat gatccttccg caggttcacc tacggaaacc ttgtt
+caccgacaat gatccttccg caggttcacc tacggaaacc ttgtt----- ----------
+--
 >Oxalis_imbricata_Oberlander0062
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatgcctg
@@ -2544,7 +2578,9 @@ aagcctttag gccgagggca cgcctgcctg ggtgtcacac attgttgcct tgtagacctc
 gtccccgagc gtcggtagcg gaaattggtc tcccgtcggc aggatcctgc ggttggccca
 aatcggagtg cctgggcgtc gagcgcctcg atggcggtgt ttggatcgtt ccaaagacac
 tcttgcctag tcgaggagct cctcgtctca agttaggcgg tgctcgtaga ccccaatacg
-gctctgcctt gtcggcattg cctgatacgc gaccc
+gctctgcctt gtcggcattg cctgatacgc gaccc----- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_kamiesbergensis_MO592cfkamiebergensis
 tgggtggtcc gccgccggcg acgccgcgag aagtcccctg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatgcctg
@@ -2699,7 +2735,10 @@ catcgatgcg agagccgaga tatccgttgc cgagagtcat ttttttgact atgtatgagg
 agaccgcgcg cttccacgcg cagtccgcct atcgtagatt ccttggcgca actcgcgccg
 ggttttgagt ttaggccacg gaacgaggag gcacccagcc tgggctggaa gccgactcgc
 ccggagcccg agttcctttt ccttcatgaa tacgttcgca agttgttctg ccaagcaggt
-atcgacaatg atccttccgc aggttcacct acggaaacct tgttacga
+atcgacaatg atccttccgc aggttcacct acggaaacct tgttacga-- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_laxa_var_laxa_Heibl03-091
 tgggtggtcc gccgccggcg acgtcgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -2827,7 +2866,14 @@ ggccgagggc acgcctgcct gggtgtcaca cattgtcgcc tccaaagccc ttcgctcgaa
 gcattgctgg cggaaaatgg cctcccgtgc gctcgctcgc gcggttggcc gaaaatcagt
 gccaaggtct ggagcgccac gaccagcggt ggttggcaag ttccaatgac cctcttgcac
 ggtcgtgcgc cgctccgact tgaacgtggt gcctatatgt gacccctaac gcgtcgcttt
-gctgacgcnt gctatgcgac ccca
+gctgacgcnt gctatgcgac ccca------ ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_longissima_Emshwiller64/247
 tttccgtagg tgaacctgcg gaaggatcat tgtcgatacc tgcttggcag aacaacatgc
 gaacgtattc atgaaggaaa aagaattcga gcttcgggcg agttggcatc tagccctggc
@@ -2975,7 +3021,15 @@ gaattgcaga atcccgcgaa ccatcgagtc tttgaacgca agttgcgccc caagccttta
 ggccgagggc acgcctgcct gggtgtcaca cattgtcgcc tccaaagccc tttgctcgaa
 gcattgctgg cggaaaatgg cctcccgtgc gctcgctcgc gcggttggcc gaaaatcagt
 gccaaggtct gsagcgccac gaccagcggt ggttggcacg ttccaatgac cctcttgcac
-ggtcgtgmgc cgmtcygact tgaacgtggt gcctattttg tgaccc
+ggtcgtgmgc cgmtcygact tgaacgtggt gcctattttg tgaccc---- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_meisneri_Oberlander0088
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -3139,7 +3193,9 @@ atgaagagaa cgtgtgcttc cggcgtagtc cgtctccaga cacgccgggc aaactctctg
 ttgtagattc cttggcgcga ctcgcgccgg ggttttgttt ttaggccacg gaacaagcag
 ccgctagcct agggccagca cccgacccgt ccatggctcg aattttttct tcccgaatac
 attcgcgtgt tgttctgcaa aagcaggtat cgacaatgat ccttccgcag gttcacctac
-ggaaacctt
+ggaaacctt- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_multicaulis_Oberlander0080
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -3254,6 +3310,20 @@ ttggcccaaa tttaagtgcc aaggtgtcgg gtgcctcgac cagcggtggt tggcatgttc
 cactgtccct cttgcccggt tgtgcgcgcc cctcaccttg atcacggtgc ttatcgaccc
 tacaccgtcg cttcgacgac gttcgcttcc gaccccaggt caggcgggat tacccgctga
 gt
+>Oxalis_nigrescens_Felix15365
+gtcgtaacaa ggtttccgta ggtgaacctg cggaaggatc attgtcgata cctgcctagc
+agcacgaccc gcgaacgcgt tttgatggca aaccatcgtg ccgcgggggg gcgctsgtcc
+gtcggsctyn ggccggcgcc cgacgccccc cggcaggcca aacaaccaac ccacggcgca
+agtcgcgcca aggaatccac acgcgatcga gctcgggctc gtcccgggtc tcttttgtaa
+gatctaagaa taaaaacgac tctcgacaac ggatatctcg gctctcgcat cgatgaagaa
+cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+acgcaagttg cgccccaagc cgttaggccg agggcacgcc tgcctgggtg tcacacgttg
+tcgccacaca agccccgccc atccgggagg ggacggcgga agttggcctc ccgcgagctg
+ctgccctcgc ggttggccca aattcaaggt gccaaggcgt cgagagcctc gaccagcggt
+ggttggcatg ttccaatgac cctcttgccc ggtcgtgcgc gctcctcgcc ccatagtggc
+ccctgcggac ccttgcgcgt cgctccggcg gcgctcgcta cgcgacccca gtc-------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_nippponica_subsp_kantoensis_Aoki25
 gtcgtaacaa ggtttccgta ggtgaacctg cggaaggatc attgtcgata cctgcttagc
 agaacaactt gagaatgtta ttcggttagg aaaaaaaaat tgagcttcgg aatggttggc
@@ -3574,7 +3644,8 @@ gcctgggtgt cacgcaagtc gtcgcccgcc ggtcctccgg cggcggaagt tggcctcccg
 tcggcgcgag ccagcggttg gcccaaattc gagtgcctgg gcgtcgagcg cctcgaccgg
 cggtgtttgg ctcgttccaa cgacacgctc cctcggtcgc gcgctcctcg ccccgcaaaa
 cagcggcact ctcgggaccc caataggcgt tgcctcgcta aggcagagac agatgcacac
-accagtcggc cgacagtcca gcatccggaa tcaa
+accagtcggc cgacagtcca gcatccggaa tcaa------ ---------- ----------
+--
 >Oxalis_pataxorum_Cabral196
 gtcgtaacaa ggtttccgta ggtgaacctg cggaaggatc attgtcggtg cccctgtccc
 tttcggaaaa accagcgaac gtgtttgaga aaaaatctat cgcgcgaccg cggcggccct
@@ -3587,7 +3658,8 @@ ggtggcggag attggcctcc cgtcggcgcg agccggcggt tggcccaaat tcgagtgccg
 gggcgtcgag cgcctcgacc ggcggtgttt ggctcgttcc aaggacacgc tcgctcggtc
 gtgcgcgttc ctcgccgaga acaaagtggg cactctcgga tcccaattgg catcgccgct
 tgccgcggct ttgcccgata cgcgacccca gtcaggcggg accacccgct gagtttaagc
-atatcaataa gcggag
+atatcaataa gcggag---- ---------- ---------- ---------- ----------
+--
 >Oxalis_peduncularis_Emshwiller466
 ggaaggatca ttgtcgatac ctgcttggca gaacaacatg cgaacgtatt catgaaggaa
 aaagaattcg agcttcgggc gagttggcat ctagccctgg ctagtgcctc cttgttccgt
@@ -3696,18 +3768,20 @@ ggccgaaaat tcgggcctca aggcgttgag tgcctcgacc agcggtggtt ggcaggttcg
 aacgaccttc cttccggtcg tgcgcgcwct tcttctttgg ccgtggtgcc cgcagaccct
 ttcgcattgc tccggcgttg ctcgctacgc gaccccaggt caggcgggac tacccgctga
 gtttaagcat atcaataa
->Oxalis_pickeringii_Gaspar134
-ttgtcgaatc ctgcacggca gaacaactag agaatgtgtt cggaaggtga aatcacacgg
-cggtcgggtg ggagccagcg ccgtacggcc tcgccctgcg tcgtgaggcg gcccccgacc
-gcctagcaac aaaaccccgg cacgagttgt gccaaggaat cctccacaga ggtcgtgggc
-cttgggcgtc cggacacgga gcatgccctt gagcacccga cccctatcac gtgtatcaaa
-aacgactctc gacaacggat atctcggctc tcgcatcgat gaagaacgta gcgaaatgcg
-atacttggtg tgaattgcag aatcccgtga accatcgagt ctttgaacgc aagttgcgcc
-ccaagccgtc aggctgaggg cacgcctgcc tgggtgtcac tcatcgtcgc ccaaaaaaga
-ccgcgcccca ggtgcggtcg gcggagattg gcctcccgcg cgcacgcgct cgcggttggc
-ccaaatgcaa gtgccaaggc gtcgagcgcc tcgacaagcg gtggttggca tgtcccagcg
-accataatac cctgttgtgc gccctcgctt cgccgtgact gttgcactta ccgaccctgt
-cgcgctgcct cggcaacgct ccacatgcga ccccatgtca ggcgggacta cccgct
+>Oxalis_pickeringii_Gaspar175
+tgtgaattgc agaatcccgt gaaccatcga gtctttgaac gcaagttgcg ccccaagccg
+tcaggctgag ggcacgcctg cctgggtgtc actcatcgtc gcccaaaaaa gaccgcgccc
+caggtgcggt cggcggagat tggcctcccg cgcgctcgcg ctcgcggttg gcccaaatgc
+aagtgccaag gcgtcgagcg cctcgacaag cggtggttgg catgtcccag cgaccataat
+accctgttgt gcgccctcgc ttcgccgtga ctgttgcact taccgaccct gtcgcgctgc
+ctcggcaacg ctccacatgc gaccccatgt caggcgggac tacccgct-- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_pillansiana_Oberlander0135
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -3879,18 +3953,16 @@ tcgtgcgctc gctcgcgtgg ttggctgaaa atcagtgcca aggtgtggag cgccacgacc
 agcggtggtt ggcacgttcc aatgaccctc ttgcacggtc gtgcgctgct ccaacttgaa
 tngcggtgcc tatttngtga ccccttacgc gttgctttgt tgacgctcgc ta
 >Oxalis_puberula_Rhoden7
-taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcggtgcccc tgtccctgtc
-ggaaaaacca gcgaacgtgt ttgagaaaaa tatatcgcgc gcgcggcggc cctccgaggc
-ccccggcgcg ccgacccaaa acaaacccac ggcgcgagtc gcgccaagga atacagtcgc
-aatcgatcta ggccgccgct cctagacgaa cgcacaacga tacgaaaaaa cgactctcga
-caacggatat ctcggctctc gcatcgatga agaacgtagc gaaatgcgat acttggtgtg
-aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcccg aagccgtcag
-gccgagggca cgcctgcctg ggtgtcacgc acgtcgtcgc ccgccgatgc gtcggtggcg
-gaagttggcc tcccgtcggc tctgcccggc ggttggccca aattcgagtg ccggggcgtc
-gagcgcctcg accggcggtg tttggctcgt tccaatgaaa cgctcgctcg gtcgtgcgcg
-ttccttgccg tagacaaagt aggcgctctc ggatcccaat tggcgtcgcc gctccccgtg
-gctttgcccg atacgcgacc ccaggtcagg cgggaccacc cgctgagttt aagcatatca
-ataagcg
+tcattgtcgg tgcccctgtc cctgtcggaa aaaccagcga acgtgtttga gaaaaatata
+tcgcgcgcgc ggcggccctc cgaggccccc ggcgcgccga cccaaaacaa acccacggcg
+cgagtcgcgc caaggaatac agtcgcaatc gatctaggcc gccgctccta gacgaacgca
+caacgatacg aaaaaacgac tctcgacaac ggatatctcg gctctcgcat cgatgaagaa
+cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+acgcaagttg cgcccgaagc cgtcaggccg agggcacgcc tgcctgggtg tcacgcacgt
+cgtcgcccgc cgatgcgtcg gtggcggaag ttggcctccc gtcggctctg cccggcggtt
+ggcccaaatt cgagtgccgg ggcgtcgagc gcctcgaccg gcggtgtttg gctcgttcca
+atgaaacgct cgctcggtcg tgcgcgttcc ttgccgtaga caaagtaggc gctctcggat
+cccaattggc gtcgccgctc cccgtggctt tgcccgatac gcga
 >Oxalis_pulchella_Dreyer612
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -3996,7 +4068,9 @@ tcgccccaca atccccgccc atccgggcgg ggagggcgga agttggcctc ccgcgagctg
 ctgccctcgc ggttggccca aatcgaaggt gccagggcgt cgagagcctc gaccagcggt
 ggttggcatg ttccaatgac ccccttgccc ggtcgtgcgc gctcctcgcc ccatcgtggc
 ccctgcagac ccttgcgcgt cgcttcggcg gtgctcgctt cgcgacccca ggtcaggcgg
-gactacccgc tgagtttaag cat
+gactacccgc tgagtttaag cat------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_reclinata_Dreyer718
 tgggtggtcc gccgccggcg acgccgcgag aagtcccctg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatgcctg
@@ -4164,7 +4238,9 @@ tctttgacaa tatgaagaga acgagtgctt ccttgcgtag tccgtctcca gacacgcgag
 ggcaaactct ctattgtaga ttccttggcg cgactcgcgc cggggtttgt ttttaggcct
 cggagcaagc gggcactggc ctggggccag gtcccggctc gtccgcggct ataatttttt
 cttcccgaat atattctcat gttgttctgc aagagcaggt atcggcaatg atccttccgc
-aggttcacct acggaaacct tgttac
+aggttcacct acggaaacct tgttac---- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_sellowii_Cabral109
 gcggaaggat catgtcgata cctgcctagc agcacgaccc gcgaacgcgt ttggatggca
 aaccatcgcg ccgcgggggg gcngcccgtc tgcctgcctc ggccggcgac ggctccaccc
@@ -4410,7 +4486,11 @@ tgtgaattgc agaatcccgt gaaccatcka gtctttgaac gcaagttgcg ccccaagccg
 ttaggccgag ggcacgtctg cctgggtgtc acacatcgtc gcccaaaaca tccacgcctc
 taggggcgtg gcdggcggaa actggcctcc cgtgagcatc cgctcgcggc tggcccaaat
 tcaagtgcca aggtgtcsag cgcctcgacc agcggtggtt ggcatgttcc aatgaccctc
-tatcccggtt gtgcgcgccc cgtcgcctcg tt
+tatcccggtt gtgcgcgccc cgtcgcctcg tt-------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_suteroides_Oberlander0115
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -4518,7 +4598,22 @@ gttgcgcccr aagctgttag gctgagggca cgcctgcctg ggtgtcacac ttcgttgccc
 aacagacctc ttttatcgat tgtctgtggc ggaaattggc ctcccgttgg tgagagcctg
 cggttggccc aaattcgagt gccaaggtgt tgagagcctc gatcggcggt gtttggtccg
 atccaatgac acacgtgccc ggtcgtgtgc gctccttgcc ttatgaatgg cgctgctcgt
-agacccccca agcgccgc
+agacccccca agcgccgc-- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+>Oxalis_timida_Vasques52
+acaaggtttc cgtaggtgaa cctgcggaag gatcattgtc gatgcctgtc ccgagcggaa
+caacaagtga acacgtttga gaaattatat acgagcccgg gggactccct cgcgatcctc
+ccggcacgcc ccgaaacaaa cccacggcgc gagttgcgtc aaggaatact tttgcaatct
+aggccgaacc ctgctgcccg gagacggagc gctaggggag tgctcggtcc tagttgtgtg
+cttacgagac aagaaatgac tctcgacaac ggatatctcg gctctcgcat cgatgaagaa
+cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+acgcaagttg cgcccraagc tgttaggccg agggcacgcc tgcctgggtg tcacacgtcg
+ttgcccattg gacctcttcc gtagagtgtt tgtggcaaaa aattggcctc ccgtcggcga
+gagcccgcgg ttgtcccaaa ttcgagtgct agagcgtcga gcgcgtcgac cggcggtgtt
+tggcccgttc caaagacaca cgtgcccggt cgcgttcgct cctcgccgta cgaatagcgg
+tgctcgcaga aacccccaag cgtcgccttt ttggcgatgc tcagtacgcg accccaggtc
+aggcgggacc acccgctga- ---------- ---------- ---------- ----------
+--
 >Oxalis_tomentosa_Roller0006
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -4715,7 +4810,9 @@ ttctgcaatt cacaccaagt atcgcatttc gctacgttct tcatcgatgc gagagccgag
 atatccgttg tcgagagtcg ttttatactt tcatagcttt tacaaaggag agccgggccg
 agcccgatct cgatcgtgtg cggaatcctt ggcgcgactc acgccgtggg tttgttgccg
 gggccggggc cccgatgatt tgttttttcc aaactcgttc tcgggtcatg ctttttgggc
-aggtatcgac aatgatcctt ccgcaggttc acctacggaa accttgtta
+aggtatcgac aatgatcctt ccgcaggttc acctacggaa accttgtta- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--
 >Oxalis_versicolor_Oberlander0034
 tgggtggtcc gccgccggcg acgccgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgatacctg
@@ -4888,20 +4985,6 @@ ggtggcccga ggggggcgga tactggcctc ccgtgtgctt cgccgcgcgc ggttggccca
 aaatcgagtc ccacggcgtc gagcgccacg acaaacggtg gttggcctga tccaaagacc
 tcgaaacacc gtcgcgcgcg cccgtcgcca ccgaggtggt tctccacgac ccaaaccttt
 cgcatc
->Platytheca_galioides_Crayn701c
-tgaaccttat catttagagg aaggagaagt cgtaacaagg tttccgtagg tgaacctgcg
-gaaggatcat tgtcgaaacc tgcccagcag aacgacccgt ggatgtgttt gtaaaccaaa
-tgatctgcct ggggggaggc acgggtcctg ccacgtcggg gtcccgatcg tcgccccctg
-gaccagaata ccaactcggg cgcggtctgc gccaaggaag taggaacgag agggaggtcg
-gttgcggccg cccgtcggct cgtggccacc tacatctcta gatatcaaac agaacgactc
-tcggcaacgg atatctcggc tcttgcatcg atgaagaacg tagcgaaatg cgatacttgg
-tgtgaattgc agaatcccgt gaaccattga gtctttgaac gcaagttgcg ccttaggccg
-ttaggtcgag ggcacgtccg cctgggtgtc acgcgtcgtc gccccccctg aaacccctcg
-caatgcgggg gtgtgggatg agggggcgga tgctggcctc ccgtgcgctt cacggcgcgc
-ggttggccca aaatcgagcc ccgcacgcgc tggagcgcag cggcaaacgg tggttggcct
-gttccaagga ccacgtagca ccgtcgctgc gcgccgtcgc ctcgaaggtg ggagctccgc
-gaccacaaac tctggcatcg cgaccccagg tcgggcggga ctacccgctg agtttaagca
-tatcat
 >Sarcotheca_monophylla_SARMON
 tgggcggttc gccgccggcg acgtcgcgag aagtccactg aaccttatca tttagaggaa
 ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcaaaacctg
@@ -4945,30 +5028,6 @@ ctgcccagca gatcgacccg ckaatgtktt tttaacaacg atacggtccg gggnnagggg
 ggatgtcctg cctcggcggg ctcccgtgct ctccttggcc cgncaacgaa ccccggcgcg
 gaccgcgaag gaaacatgaa cggagagggc gtgctccccg tcggcgcact gtagctgtat
 gggggcattg caactcttgc ttaagataca aaac
->Tetratheca_hirsuta_Butcher915
-agtcgtaaca aggtttccgt aggtgaacct gcggaaggat cattgtcgag acctgcccgg
-ccgaacgacc cgtggacttg ttcgagaacc aaaccgcacg gcgcgcgtcc cgcctcggtg
-ggcccgcgtt gtcccggacc taacaaccca acccggcgcg gtctgcgcca aggaagtacg
-atgaaggggt cacttgtcat cggcgcgagc gggtggctga cctccatata tatatttata
-ttatatatgt atgctccaag agagccaaca gaacgactct cggcaacgga tatctcggct
-cttgcatcga tgaagaacgt agcgaaatgc gatacttggt gtgaattgca gaatcccgtg
-aaccattgag tctttgaacg caagttgcgc cctaagccgt taggccgagg gcacgtccgc
-ctgggtgtca cgcatcgtcg accccccacc ccggagaacc tcgccgtgcg gggcttcgga
-gggggcgtaa gctggcctcc cgtgcgcctt gccgcgtgcg gttggcccaa aaccgagccc
-cacaggcgct ggagcgcgac tgcgaacggt ggttggcctg atccaaggac cacggaacac
-cgtcgtgcag ggcgtctgcg aggtgggtgc tccacgacca cgaacgctgg catcgcgacc
-ccaggtcggg cgggactacc cgctgagttt aagcatatca ataagcngga gg
->Tremandra_diffusa_Butcher961
-tgtcaaatcc tgccccaccg aacgacccat ggacgtgttt aaagaaccaa atgacctagc
-ttcgcggaga gctagtggca tgccacgcgc tatcccagac caggcaatga acctcggcat
-ggagatcgct aaggaactac gatgaagagg cggcgtgcca cccgcatgag caggtggccg
-gcctccaact caaacagacc tgaattaaat gactctcggt aatggatatc ttggctcttg
-catcgatgaa gaatgtagaa aaatgtgata cttggtgtga attatagaat cccgtgaacc
-atcaagtctt taaatgtaag ttatgcccta agctgttagg cgtagggcac gtctgcctgg
-gtgtcacgtg tcatcgcccc ccaccgaaac ccctacgggg caccaaagag ggtggatact
-ggcctccctt aggcccatcg gggcctgtgg ctggcccaaa aatgagcccc gtaggcgcta
-gagcgcggag gataatggtg gttggcctaa tccagagaca acttgggaag ccgacacgcg
-cgtctgaggt gggtgctccc caaccacgag cgttggtatc
 >Vallea_stipularis_Chase654
 tgtcgaaacc tgccccagca gaacgacccg cgaacgagta caaccaaatg atttggccgg
 ggggaagcac gggttctgcc tcggcagcac agtgttcccc ccaggcccaa caccgaaccc

@@ -26,8 +26,10 @@ for(i in 1:length(file_names)){
 }
 all_tx_names = sort(all_tx_names)
 
-## only Oxalis names
+### only Oxalis names
 sum(grepl("Oxalis", all_tx_names))
+###
+sum(grepl("aff_|subsp_|var_|forma_", all_tx_names))
 
 ### all column names
 all_col_names = c()
@@ -43,8 +45,8 @@ all_marker_names = sort(all_marker_names)
 ### joining into a single dt
 all_acc = rbindlist(file_list, fill = T)
 
-### number of specimens in Oxalis
-length(unique(all_acc[grepl("Oxalis", all_acc$taxon),]$specimen))
+### Oxalis taxa
+unique(all_acc$taxon[grepl("Oxalis", all_acc$taxon)]) 
 
 ### only Oxalis accessions
 all_acc_oxalis = all_acc[grepl("Oxalis", all_acc$taxon),]

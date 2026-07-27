@@ -9,15 +9,6 @@ dir_out = "5_concatenated_sequences/"
 ### list locus names
 all_loci = list.files(path = paste0(dir_input), pattern = ".fasta")
 
-### select?
-locus_filter = "none"
-if(locus_filter == "plastid"){
-  all_loci = all_loci[!all_loci %in% c("ITS.fasta","ncpGS.fasta")]
-}
-if(locus_filter == "nuclear"){
-  all_loci = all_loci[all_loci %in% c("ITS.fasta","ncpGS.fasta")]
-}
-
 ### vector to store results
 all_partitions = c()
 ### initial position
@@ -48,7 +39,7 @@ all_partitions$locus = gsub(".fasta", "", all_partitions$locus)
 ### write table
 write.table(
   all_partitions,
-  paste0(dir_out, locus_filter,"_partition.csv"),
+  paste0(dir_out,"partition.csv"),
   sep = ",",
   quote = F,
   row.names = F
