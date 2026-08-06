@@ -10,8 +10,11 @@ acc = read.csv(paste0(dir_input, "best_acc.csv") )
 
 ### only Oxalis 
 acc_ox = acc[grepl("Oxalis_", acc$taxon),]
+
+### species level
+sum(!grepl("aff_|subsp_|var_|forma_", unique(acc_ox$taxon) ))
 ### other taxa
-sum(grepl("aff_|subsp_|var_|forma_", acc_ox$taxon))
+sum(grepl("aff_|subsp_|var_|forma_", unique(acc_ox$taxon) ))
 
 ### sequence per locus
 sum(!is.na(acc_ox$ITS))

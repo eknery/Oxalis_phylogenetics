@@ -59,7 +59,7 @@ taagcacataagatatattaatatatataacatctatattgaattgcagatacagaaatgatagaatcatttccaaatag
 aagaagatagacaaaaaattcaaataagataagaggaaacattttactttttagatattggtatctaatcaattcaatggtttcaccataatcataatca
 taatataaataaaagaaaaaggagaataatg----------------
 >Oxalis_triangulata_Aoki34
-----------------------ttacataatag-aatggtacatgcataggaattccgttttaaagtaaattactgaaatcttagctattaaccgctcat
+----------------------ttacataataga-atggtacatgcataggaattccgttttaaagtaaattactgaaatcttagctattaaccgctcat
 tcttagttattc---------------ctaattaatatagaaaataataatataagtatagaatttcaaattatttttcagtttgaaattaaaatgacat
 tttaa----------ttttttttgattttcttaattttacaattaaatttcaatttaattgaaattcgatctaattttattccataccatattatctatt
 tagaattc----------tagaattattagattaatatcttattataaattttatatttcaacgaatttttttaatta-------ttattaattaataga
@@ -1037,6 +1037,16 @@ aatgtaaaatagt-gaatgtaataactttaaaaaatttccattttagt--------------------------------
 aagatccgtactttgttttcagtcagtaaagtagaagttaag--caaaaaaaatcgacccttcgagtattcaaaattgtatgagaaaaatgagaggaaga
 taagcacataagatatatgaatatagataacatctatattgaattgcagatacagaaatgatagaatcatttccaaatagggcctcggat-gagataaaa
 aataagatagacaaaaaagaaaataagattaagaagaaaca-----------------------------------------------------------
+-----------------------------------------------
+>Biophytum_sensitivum_MT522017
+---------------------------------------------------------a--------------aataaaatctctattatt----------
+-------------------------------------------------------------------------tttt-----------------------
+---------------attttatttatttcctctcttttacaattcaattgcaatctaattgaaattcgatctaattttattc-----catattatctatt
+tagaattctaaataga-atctaattattagattcctatcttattatacattttgaatttaaacttattttt-----------tttttattaattaataga
+aatggaaaatagcgaaat---------gtaataaatttccattttagttatgttat--atagcctagccccaagaaaggataagaataaaatgagataga
+aagatacacgctttggtttcagtcag-aaagtggaaataaa----aaaaaaaatcgaccgttcgagtattcaaaattacccgagaaaaatgatagcaaga
+gtggcacataatagatatgaatatatagaagatctatattgaattgcaggtacagaaatgatagaatcatttctgaataaggtctcggatagagatgaaa
+aaga------------------------------------------------------------------------------------------------
 -----------------------------------------------
 >Brunellia_antioquensis_MN615725
 ----------------------------------------------------------------------------------------------------

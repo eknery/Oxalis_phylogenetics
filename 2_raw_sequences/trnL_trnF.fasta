@@ -59,6 +59,24 @@ gaagatccaa aaaattggta aaactttgta atactttttt tttcgtcttt ttaatttttt
 aattgacata gacccaagtc atctaataaa atgaggat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---
+>Biophytum_sensitivum_MT522017
+gaaacgtact aagtgataac tttcaaattc agcgaaaccc tggaattaaa aatgggcaat
+cctgagccaa atcctgtttt ttgaaaacaa agtgttagaa agcgaaaaca aaaaaggata
+ggtgcagaga ctcaacggaa gctattctaa aatttacaaa taaagttgaa tgcggcgtgt
+tagtaaagga atacttccct taaaattacc gaaaggataa cccgaatata catactgaaa
+tactatctca aatgattaat gataacgtat tctttataaa aatctcgtgt gaatcgattt
+caagttgaag aacgaatcga attagaattg atcaaatcat tcattccagt tcggatagat
+cttttgaact gaaaacctga tagaataaag atagagtccc attctacatg tcaatattga
+caacaatgaa atttatagta agaggaaaat ccgtcgactt tagaaatcgt gagggttcaa
+gtccctctat ccccaaaaag tcccctttcc tttgactccc gacttctttt ttttcgttaa
+cgaaaaaaaa tgacttatct cacgcccaag tggaattttt tttcccgcaa gttttgtatt
+ttgtaataga tatgatacac gtataaatga atatctttga gcaaggaatt ggtgtttgaa
+tgattttcaa tccatctcat tcctcgtgtt gaaactgaca ttttgaagat ccaaaaaatt
+gtaatacttt ttttcgtctt tttaattgac atagacccaa gtcatctaat aaaataagga
+t--------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---
 >Brunellia_antioquensis_MN615725
 gaaacttact aagtgatacc tttcaaattc agagaaaccc tggaattaaa aatggtcaat
 cctgagccaa atcctgtttt ccgaaaaaaa aaaaaaaggt tcagaaagcg agaataaaaa
@@ -2849,24 +2867,6 @@ tattcttacc acaagctttg tgatagatat gattgattga tacacataca aatgaatatc
 tttgagcaag gaatccccat ttgaatgatt tacaatccat atcattactc gtactgaaac
 ttacattttg aagatcaaaa aacgggtaaa actttgtaat actttttttc gtctttttaa
 ttgacataga cctaagtcat ctaataaaat gaggatgata ggtcggga
->Oxalis_jamesonii_GLW28753
-ctctcttttc attaacgatt caaaattcct tatctttctc attcattcga ctctttcaca
-aacaaatgga tcaaagtgga aaatttttat tcttaccaca agctttgtga tagatatgat
-acacatacaa atgaatatct ttgaacaagg aatccccatt tggatgattt tcaatccata
-tcattacccg tactgaaact tacattttga agataaaaaa aaatggtaaa acgttgtaat
-acttgttttt cgtcttttta attgacatag acctaagtca tctcccaaaa tgaggatagg
-cggggaat-- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----
 >Oxalis_jasminifolia_Cornejo9331
 ttactaagtg agaactttca aattcagaga aaccctggaa ttaaaaatgg ggcaatcctg
 agccaaatcc tattttccga aaacaaagtt tgcgaaagca aaaaggatag gtgcagagac
@@ -3621,24 +3621,6 @@ gatatgatac acatacaaat gaatatcttt caaatgaata tctttgagca aagaatcccc
 atttgaatga tttacaatcc atatcattac tcgtactgaa acttacattt tgaagatcaa
 aacaaaaaat gggtaaaact ttgtaatact ttttttcgtc tttttaattg acatagacct
 aagtcatcta ataaaatga
->Oxalis_nigrescens_Felix15365
-ggacttaatt ggattgagcc ttggtatggg aacttactaa gtgagaactt tcaaattcag
-agaaaccctg gaattaaaaa tgggcaatcc tgagccaaat cctctttttc gaaaacaaac
-agagtttgcg aaagcgaaaa taaaaaagga taggtgcaga gactcaacgg aagctattct
-aaaatttaca aatagagttg actgcgttgc gttagtaaat aaatccttcc ctcaaaattc
-cagaaaggat aaacctatat acatacgtat acgtgaaata ctatctcaaa tgattcatga
-tgacccaaat ctgtattatt tctcaaaaaa ataaaagaat tgttgtgaat caattccaag
-ttgaagaaag aatcgaatga taattgatca aatcattcac tccaatgtcg gatagatctt
-ttgaaattct gatagaataa agatagagtc ccattctaca tgtcaatatt gacaacaatg
-aaatttatag taagaggaaa atccgtcgac tttagaaatc gtgagggttc aagtccctct
-atccccaaaa aggccccttt gactccctaa ttttttttta tctcttttca ttaacgattc
-aaaattcctt acctttctca gtcattcgac tctttcacaa acaaatggat caaagtggaa
-aatttttatt cttaccacaa gctttgtgat agatatgata cacagacaaa tgaatatctt
-tgagcaagga atccccattt ggatgatttt caatccatat cattactcgt actgaaactt
-acattttgaa gatcaaaaaa atgggtaaaa cgttgtaata cttttttttt cgtcttttta
-attgacatag acctaagtca tctcctaaaa tgaggatagg tcgggaatgg tcgggatagc
-tcagctggta gagcagagga ctgaaaatcc tcgt------ ---------- ----------
----
 >Oxalis_nippponica_subsp_kantoensis_Aoki25
 acttactaag tgataacttt caaattcaga gaaaccctgg aatgaaaaat gggcaatcct
 gagccaaatc ctcttttccg aaaacaaaca aagttttcga aagcgagaat aaaaaaggat

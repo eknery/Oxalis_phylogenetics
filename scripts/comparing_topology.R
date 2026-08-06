@@ -37,9 +37,11 @@ for(i in 1:length(tree_list)){
   boll_names = all_names %in% tree_list[[i]][[1]]$tip.label
   names_loci = cbind(names_loci, boll_names)
 }
-
+### column names
+colnames(names_loci) = c("names_loci", names(tree_list))
 ### transform to tibble
 names_loci = as_tibble(names_loci)
+
 ### get species with all loci sequenced 
 common_names = names_loci %>% 
   filter_at(vars(-names_loci), all_vars(. == TRUE) ) %>% 
@@ -99,29 +101,29 @@ pc_axis_1 = paste0("PCoA (", round(pc_rel_var[1]*100, 2), "%)" )
 pc_axis_2 = paste0("PCoA (", round(pc_rel_var[2]*100, 2), "%)" )
 
 ### plot pcoa
-pcoa_plot = ggplot(data = pcoa_df,
-       aes(x=as.numeric(Axis.1),
-           y=as.numeric(Axis.2),
-           color=locus)) +
-  
+pcoa_plot = ggplot(
+  data = pcoa_df,
+  aes(
+    x=as.numeric(Axis.1),
+    y=as.numeric(Axis.2),
+    color=locus)
+  ) +
   geom_point(size = 1, alpha = 0.5) +
   scale_colour_manual(values=c(
     "nuclear"= "darkorange",
     "plastidial" = "darkgreen"
     )
   )+
-  labs(x= pc_axis_1, 
-       y= pc_axis_2)+
-  
-  guides(color = guide_legend(title="",
-                             ncol = 5,
-                             byrow = TRUE) ) + 
-  
-  theme(panel.background=element_rect(fill="white"),
+  labs(
+    x= pc_axis_1, 
+    y= pc_axis_2
+  )+
+  theme(panel.background=element_rect(fill="white"), 
         panel.grid=element_line(colour=NULL),
         panel.border=element_rect(fill=NA,colour="black"),
         axis.title=element_text(size=12,face="bold"),
-        legend.position = "bottom")
+        axis.text.x=element_text(size=10),
+        legend.position = "none")
 
 ### export plot
 tiff("figures/pcoa_ml_trees.tiff", 

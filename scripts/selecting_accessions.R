@@ -19,6 +19,8 @@ for(i in 1:length(file_names)){
 }
 ################################ DESCRIBING SAMPLING ###########################
 
+file_names = file_names[-2]
+
 ### all taxon names
 all_tx_names = c()
 for(i in 1:length(file_names)){
@@ -28,7 +30,7 @@ all_tx_names = sort(all_tx_names)
 
 ### only Oxalis names
 sum(grepl("Oxalis", all_tx_names))
-###
+### other taxa
 sum(grepl("aff_|subsp_|var_|forma_", all_tx_names))
 
 ### all column names
