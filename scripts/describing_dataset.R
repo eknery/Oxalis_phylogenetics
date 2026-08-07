@@ -16,12 +16,9 @@ sum(!grepl("aff_|subsp_|var_|forma_", unique(acc_ox$taxon) ))
 ### other taxa
 sum(grepl("aff_|subsp_|var_|forma_", unique(acc_ox$taxon) ))
 
-### sequence per locus
-sum(!is.na(acc_ox$ITS))
-sum(!is.na(acc_ox$ncpGS))
-sum(!is.na(acc_ox$psbA_trnH))
-sum(!is.na(acc_ox$psbJ_petA))
-sum(!is.na(acc_ox$rbcL))
-sum(!is.na(acc_ox$trnL_trnF))
-sum(!is.na(acc_ox$trnS_trnG))
-sum(!is.na(acc_ox$trnT_trnL))
+### data per column
+x = apply(acc_ox, FUN = function(x) {sum(!is.na(x))} , MARGIN = 2)
+
+### total sequences
+sum(x[c(-1,-2)])
+

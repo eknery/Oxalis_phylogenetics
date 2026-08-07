@@ -1,5 +1,5 @@
 # Define target mean and a chosen standard deviation for the lognormal curve
-target_mean <- 40
+target_mean <- 31.15
 target_std <- 1 # You can adjust this spread
 
 # Calculate the mu and sigma parameters

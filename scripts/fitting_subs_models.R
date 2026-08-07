@@ -5,8 +5,8 @@ if(!require("ape")) install.packages("ape"); library("ape")
 if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 
 ### input diretory
-dir_input = "5_concatenated_sequences/"
-file_name = "5_loci_381_spp.fasta"
+dir_input = "4_trimmed_sequences/"
+file_name = "ncpGS.fasta"
 
 ### read fasta
 one_fasta = read.phyDat(
