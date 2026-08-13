@@ -5,8 +5,8 @@ if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 if(!require("ips")) install.packages("ips"); library("ips")
 
 ### file names
-dir_input = "8_bayesian_phylogenies/8_loci_430_spp/"
-tree_name = "mcc.tre"
+dir_input = "8_bayesian_phylogenies/"
+tree_name = "mcc_full.tre"
 
 ### import
 tree = read.tree(file = paste0(dir_input, tree_name))
@@ -39,5 +39,5 @@ plot(newtree, cex=0.1)
 ### export 
 write.tree(
   phy =  newtree,
-  file = paste0(dir_input,"mcc_clean.tre")
+  file = paste0(dir_input,"mcc.tre")
 )
